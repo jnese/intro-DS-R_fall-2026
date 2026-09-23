@@ -1,0 +1,363 @@
+---
+title: "Syllabus"
+subtitle: 'EDST 676: Introduction to Data Science with R<br>(CRN: 16693; 3 credit hours)'
+toc: true
+toc-depth: 4
+format:
+  html: default
+  pdf: default
+execute: 
+  echo: false
+  warning: false
+  freeze: false
+---
+
+```{r}
+#| include: false
+
+library(tidyverse)
+library(here)
+library(knitr)
+library(kableExtra)
+library(readxl)
+library(fontawesome)
+library(gt)
+
+source("./nopublish/sched_prep.R")
+
+fontawesome::fa_html_dependency()
+
+```
+
+# Introduction to Course and Instructor
+
+<font size="4">\
+**Term:** Fall 2026
+
+**Time:** Wed, 1:00-3:50pm
+
+**Classroom:** 115 Lokey
+
+**Instructor:** Joe Nese, PhD
+
+-   *email*: jnese\@uoregon.edu (preferred contact method)
+-   *office hours*: By appointment </font>
+
+## Course Overview
+
+This is the first course in a sequence of courses that will eventually lead to a data science in educational research specialization. All courses will be taught through [`R`](https://cran.r-project.org/), a free and open-source statistical computing environment. This course will introduce students to`R` and [RStudio](https://posit.co/download/rstudio-desktop/), version control with [git](https://git-scm.com/) and [GitHub](https://github.com/), dynamic and reproducible workflows with [Quarto](https://quarto.org/), and basic data wrangling and visualization with the [`tidyverse`](https://www.tidyverse.org/) suite of packages.
+
+<font size="4">\
+*Acknowledgment*. This course, and much of the materials prepared and content presented, was originally developed by [Daniel Anderson](https://www.linkedin.com/in/danieljanderson/). In collaboration with Daniel Anderson, [Alison Hill](https://www.apreshill.com/), [Chester Ismay](https://chester.rbind.io/), and [Andrew Bray](https://andrewpbray.github.io/), helped design the content for this course and the specialization as a whole.</font>
+
+## Student Learning Outcomes
+
+By the end of this course, students should be able to:
+
+-   Understand the `R` package ecosystem (how to find, install, load, and learn about package functionality)
+-   Read "flat" (i.e., rectangular) datasets into `R`
+-   Perform basic data wrangling and transformations in `R`, using the `tidyverse`
+    -   Leverage appropriate functions for introductory data science tasks (pipeline)
+    -   "clean up" the dataset using scripts and reproducible workflows
+-   Use version control with `R` via GitHub
+-   Use `Quarto` to create reproducible, dynamic reports
+-   Understand and create different types of data visualizations
+
+## Course Modality
+
+This is an in-person course: that means that, unlike asynchronous online/ASYNC WEB courses, we will meet during scheduled class meeting times in (class location). I will accommodate absences as described in the Absences policy below. If you need additional flexibility, UO encourages you to consider ASYNC WEB courses. If you need accommodation related to a medical or other disability, you can request those by working with the Accessible Education Center.
+
+## Course Reading Materials and Resources
+
+All required course readings are freely available online or will be provided by the instructor. Note that the assigned readings should be read before each class.
+
+### Books (required)
+
+-   Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). [R for data science](https://r4ds.hadley.nz/). O'Reilly. (referred to as **R4DS(2e)** in the weekly schedule)
+    -   Freely available online in the link above. A full-color paper copy is also available from [Bookshop.org](https://bookshop.org/p/books/r-for-data-science-import-tidy-transform-visualize-and-model-data-hadley-wickham/19667446?ean=9781492097402&gclid=Cj0KCQjw9rSoBhCiARIsAFOiplnsoAzgdl4pxcZmN-bzyI4Y6TCNx5ph3lS-nF62MgiIIcxjLclBfeAaAp9sEALw_wcB) for (currently) \$74.39.
+
+#### Books (optional and possibly helpful)
+
+-   Ismay, C. and Kim, A. Y. (2021). [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse](https://moderndive.com/). (referred to as **MD** in the weekly schedule)
+
+## Resources
+
+### Supplemental Learning
+
+The best way to learn to use `R` is to be exposed to and use `R`, so in this course we will use some supplemental content developed outside this course. 
+
+#### Codecademy
+
+We will be using some content from the [Learn R](https://www.codecademy.com/learn/learn-r) course through [Codecademy](https://www.codecademy.com/). You will need to sign up for a free account. Codecademy can be used as a place for you to practice/grow the skills you learn in class, and a resource for your own exploration of topics not covered by this class if you so choose. You will be working through the following.
+
+- [Codecademy: Introduction to R Syntax](https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r)
+- [Codecademy: Introduction to Data Frames in R](https://www.codecademy.com/courses/learn-r/lessons/r-data-frames-intro)
+- [Codecademy: Introduction to Visualization with R](https://www.codecademy.com/courses/learn-r/lessons/intro-visualization-ggplot2-r/exercises/layers-and-geoms)
+- [Codecademy: Modifying Data Frames](https://www.codecademy.com/courses/learn-r/lessons/r-data-frames-modifying)
+- [Codecademy: Aggregates in R](https://www.codecademy.com/courses/learn-r/lessons/r-aggregates/exercises/column-statistics)
+- [Codecademy: Joining Tables in R](https://www.codecademy.com/courses/learn-r/lessons/r-multiple-tables/exercises/introduction)
+- [Codecademy: Data Cleaning in R](https://www.codecademy.com/courses/learn-r/lessons/r-data-cleaning)
+
+
+### Helpful People/Groups
+
+#### [UO Libraries Data Services](https://library.uoregon.edu/department-of-open-research/data-services)
+
+The [Data Services Help Desk](https://library.uoregon.edu/data-services) is available this term Monday through Friday 11 am - 4 pm [here](https://map.uoregon.edu/d991368cc) in the Knight Library. The Help Desk offers drop-in services and consultations [by appointment](https://uoregon.libcal.com/appointments/data_services) for statistical methods, R, Python, Git, Excel, Dedoose, Qualtrics, research data management, and entry-level GIS and Talapas questions.
+
+They also provide interactive [workshops](https://uoregon.libcal.com/calendar/dataservices?cid=11979&t=d&d=0000-00-00&cal=11979&inc=0) on topics ranging from courses on `R` and `Python` to `Git`, `Qualtrics`, and `High-Performance Computing`. 
+
+If you are looking to connect with peers, their [Coffee + Data && Code](https://uoregon.libcal.com/calendar/dataservices?t=d&q=coffee&cid=11979&cal=11979&inc=0) sessions offer short talks, while [Coding Circles](https://uoregon.libcal.com/event/13001631) are casual co-working spaces. They also host a [book club]().
+
+
+#### learnR4free
+
+[learnR4free](https://www.learnr4free.com/en/index.html) includes all sorts of resources (including books, videos, interactive websites, papers) to learn `R` for free.
+
+#### R-Ladies
+
+Regardless of how you identify, but particularly if you identify as a woman or gender non-binary, connect with the global [R-Ladies](https://rladies.org/) organization. They are an excellent organization of incredibly supportive individuals who routinely share great information.
+
+#### Posit Community
+
+The [Posit community](https://forum.posit.co/) is similar to stackoverflow but is generally more friendly, willing to engage in more philosophical and deeper discussions than "how do you do X", and more opinionated about workflows/software design. This last part is important because these discussions will generally be biased toward the `{tidyverse}` philosophy, and so it's important that you understand that going in. However, this course is also biased toward the `{tidyverse}` philosophy, as I think it's a good one. Stackoverflow is a very useful resource, but the RStudio community is a better place for beginners to post questions.
+
+# Assignments (400 points total)
+
+As outlined in the [Weekly Schedule](schedule.qmd), most class meetings will include a homework assignment. Supplemental Learning platforms (Codecademy) will also be used as additional homework assignments, and the course will conclude with a final project. More detail about each is provided below.
+
+## Homework (200 points; 50%)
+
+### Homework Assignments (130 points)
+
+There are 10 homework assignments during the course, which must be submitted to the instructor prior to the start of the following class. At 13 points each, these homeworks will be scored on a **"best honest effort"** basis, which generally implies zero or full credit (i.e., the assignment was or was not fully completed). However, many of the homework assignments require students complete specific portions before moving on to the next sections. If you find yourself stuck and unable to proceed, please contact the instructor for help rather than submitting incomplete work. Contacting the instructor is part of the **"best honest effort"**, and can result in full credit for an assignment even if the work is not fully complete. If the assignment is not complete, and the student has not contacted the instructor for help, it is likely to result is a score of zero.
+
+If your homework is not submitted prior to the start of the following class without approval from the instructor, it will receive at most 7 points when/if it is submitted. If your homework is submitted more than one week late, it will receive zero points. 
+
+### Supplemental Learning Platforms (70 points)
+
+#### Codecademy-Learn R 
+
+In addition to providing supplemental support, seven Codecademy Lessons will be assigned and scored as part of homework at 10 points each. For the Codecademy assignments you will submit a screenshot of the completed lesson, as seen in the examples in the [Weekly Schedule](schedule.qmd).
+
+##### **Codecademy Screenshots to submit (10 points each)**
+
+- [Codecademy: Introduction to R Syntax](https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r): screenshot of **completion checkmark** <a href=./slides/images/codecademy_Intro-to-R-Syntax.png>(example)</a>
+- [Codecademy: Introduction to Data Frames in R](https://www.codecademy.com/courses/learn-r/lessons/r-data-frames-intro): screenshot of **completion checkmark** <a href=./slides/images/codecademy_Intro-to-Data-Fames-R.png>(example)</a>
+- [Codecademy: Introduction to Visualization with R](https://www.codecademy.com/courses/learn-r/lessons/intro-visualization-ggplot2-r/exercises/layers-and-geoms): screenshot of **completion checkmark** <a href=./slides/images/codecademy_Intro-to-Visualization-R.png>(example)</a>
+- [Codecademy: Modifying Data Frames](https://www.codecademy.com/courses/learn-r/lessons/r-data-frames-modifying): screenshot of **completion checkmark** <a href=./slides/images/codecademy_Modifying-Data-Frames.png>(example)</a>
+- [Codecademy: Aggregates in R](https://www.codecademy.com/courses/learn-r/lessons/r-aggregates/exercises/column-statistics): screenshot of **completion checkmark** <a href=./slides/images/codecademy_Aggregates-R.png>(example)</a>
+- [Codecademy: Joining Tables in R](https://www.codecademy.com/courses/learn-r/lessons/r-multiple-tables/exercises/introduction): screenshot of **completion checkmark** <a href=./slides/images/codecademy_Joining-Tables-R.png>(example)</a>
+- [Codecademy: Data Cleaning in R](https://www.codecademy.com/courses/learn-r/lessons/r-data-cleaning): screenshot of **completion checkmark** <a href=./slides/images/codecademy_Data-Cleaning-R.png>(example)</a>
+
+## Final Project (200 points; 50%)
+
+The final project in this class is a group project, requiring students use a "real world" dataset to write, essentially, a miniature manuscript, including an introduction (paragraph or two), methods, results, and discussion (again, maybe 2-3 paragraphs). Ideally, students would work with a dataset that includes variables they are interested in using beyond just this class; however, if students do not have access to a dataset, the instructor will provide one. Students who do not have access to data should plan to meet with the instructor as soon as possible so a dataset can be provided. Additionally, the dataset must be able to be shared publicly, as the full project will be required to be housed on GitHub and be fully reproducible. If making your data publicly available is a problem for you, please contact the instructor as soon as possible. We can work together to either find a dataset that will work for you, or simulate a dataset that is similar to the data you'd like to work with in reality (and then all your code should work for the real dataset, but you can share the simulated data with your classmates). Students are required to work in groups of 2-4 people. The final assignment is assigned during the first class, and groups must be finalized by the end of Week 2 (at which point students who have not self-selected into groups will be randomly assigned).
+
+### Outline (15 points)
+
+A basic outline of the final project is due at the end of Week 5. The outline should include a description of the data to be used, a discussion of what preparatory work will need to be done, and how the requirements of the final project will be met. The outline is intended to be low-stakes and is primarily designed to be a means for you to obtain feedback on the feasibility of the project and areas to consider.
+
+### Draft Data Preparation Script (25 points)
+
+At the end of Week 9, you must have a draft of the data preparation complete, including moving the data from its raw to tidy form and a variety of exploratory data visualizations. Final project must use the following functions: `pivot_longer()`, `select()`, `filter()`, `mutate()`, `pivot_wider()`, `group_by()`, and `summarize()`.
+
+### Peer Review of Data Preparation Script (25 points)
+
+Following the submission of the data preparation scripts, you will be assigned to review your peers' code. The purpose of this exercise is to learn from each other. Programming is an immensely open-ended enterprise and there are lots of winding paths that all ultimately end up at the same destination. During your peer review, you must note (a) at least three areas of strength, (b) at least one thing you learned from reviewing their script, and (c) at least one and no more than three areas for improvement. Making your code publicly available can feel daunting. The purpose of this portion of the final project is to help us all learn from each other, not to denigrate. Under no circumstances will negative comments be tolerated. Any comments that could be perceived as negative, and outside the scope of the code, will result in an immediate score of zero. Be constructive in your feedback. Be kind. We are all learning.
+
+### Final Project Presentation (25 points)
+
+Each group will present on their final project during Week 10, which is expected to still be in progress. These presentations are expected to be informal, and emphasize what learning occurred during the project. Specifically, the presentations are to commiserate with each other about the failures and challenges experienced along the way, while also celebrating the successes. Learning R is a difficult task, and we should all take solace knowing that others are struggling along with us. The final presentation should be equal parts "journey" and substantive findings/conclusions/results. Students are expected to present for approximately 10 minutes each (20-40 minutes per group), although the time may change depending on the enrollment of the class.
+
+## Final Project -- Presentation Scoring Rubric
+
+```{r}
+read_csv(here("rubrics", "final-presentation_rubric.csv")) %>% 
+  mutate(across(everything(), ~ifelse(is.na(.), "", .))) %>% 
+  gt() %>% 
+  table_style() %>% 
+  tab_header(
+    title = md("**Presentation Rubric**")
+  ) %>% 
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(
+      columns = c(1:2),
+      rows = c(6))
+  )
+```
+
+### Final Paper (110)
+
+The purpose of the final project is to allow students an opportunity to demonstrate all the skills they have learned throughout the course. The final project must (a) be a reproducible and dynamic Quarto document with references to the extant literature; (b) be housed on GitHub, with contributions from all authors obvious; (c) demonstrate moving data from its raw "messy" format to a tidy data format through the Quarto file, but not in the final document; (d) include at least two exploratory data visualizations, and (e) include at least summary statistics of the data in tables, although fitted models of any sort are an added bonus (not literally, there are not extra points for fitting a model). The points for the final project are broken down as follows.
+
+```{r, echo=FALSE}
+
+read_csv(here("rubrics", "final-project_rubric.csv")) %>% 
+  mutate(`Points Possible` = ifelse(is.na(`Points Possible`), "", `Points Possible`)) %>% 
+  gt() %>% 
+  table_style() %>% 
+  fmt_markdown(columns = 1) %>% 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+      ),
+    locations = cells_body(
+      columns = Criteria,
+      rows = c(1, 8, 12, 20)
+    )
+  ) %>% 
+  tab_header(
+    title = md("**Final Paper Rubric**"))
+```
+
+I will investigate the commits made by different authors when evaluating the final project. If it is obvious that one person did not utilize GitHub, and instead added all of their contributions through a single or only a few commits, I will dock points from that individual. There should be numerous commits by each author, and they should be roughly even in terms of contribution activity (which GitHub has metrics to track, both in terms of the number of commits as well as the number of lines modified).
+
+# [Weekly Schedule (Topics, Assignments, and Readings)](schedule.qmd)
+
+### Week 1: Introduction
+
+```{r}
+tbl_fx(1) %>% 
+  tab_footnote(
+    footnote = "I do not rearrange my RStudio panes as he does.",
+    locations = cells_column_labels(
+      columns = Assigned)
+  )
+```
+
+### Week 2: Workflow
+
+```{r}
+tbl_fx(2)
+```
+
+### Week 3: `{ggplot2}`
+
+```{r}
+tbl_fx(3)
+```
+
+### Week 4: `{dplyr}`
+
+```{r}
+tbl_fx(4)
+```
+
+### Week 5: GitHub
+
+```{r}
+tbl_fx(5)
+```
+
+### Week 6: Quarto
+
+```{r}
+tbl_fx(6)
+```
+
+### Week 7: Mutating Joins
+
+```{r}
+tbl_fx(7)
+```
+
+### Week 8: Tidy Data
+
+```{r}
+tbl_fx(8)
+```
+
+### Week 9: Factors & Pull Request
+
+```{r}
+tbl_fx(9)
+```
+
+### Week 10: Presentations
+
+```{r}
+tbl_fx(10)
+```
+
+### Week 11: No class: Final papers due
+
+# Course Policies
+
+## Grading Components
+
+```{r}
+read_csv(here("rubrics", "grades_rubric.csv")) %>% 
+  mutate(across(everything(), ~ifelse(is.na(.), "", .))) %>% 
+  gt() %>% 
+  table_style() %>% 
+  tab_header(
+    title = md("**Grading Components**"))
+```
+
+## Student Engagement Inventory
+
+Graduate: 1 credit hour = 40 hours of student engagement (3 credit hours = 120 hours of student engagement).
+
+```{r}
+read_csv(here("rubrics", "student-engagement-inventory_rubric.csv")) %>% 
+  mutate(across(everything(), ~ifelse(is.na(.), "", .))) %>% 
+  gt() %>% 
+  table_style() %>% 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+      ),
+    locations = cells_body(
+      columns = everything(),
+      rows = c(5)
+    )
+  ) %>% 
+  tab_header(
+    title = md("**Student Engagement Inventory**"))
+```
+
+## Communicating with Me: How and Why
+
+**How will I communicate with you?** Our class will communicate through our Canvas site. Announcements and emails are archived there, automatically forwarded to your UO email, and can even reach you by text. Check and adjust your settings under Account \> Notifications.
+
+When I need to get in touch with individual students, I do so through email.
+
+When giving feedback on assignments, I do so in Canvas, and turnaround time for feedback is generally one week.
+
+**How can you communicate with me?** If your question (or comment) is about a technical challenge with Canvas or another technology, please contact the UO Service Portal. If it is about course content or activities, about something personal, time sensitive, or something else that doesn't feel like it fits above, please reach out to me by email. I try to respond to questions within one business day.
+
+**Why should you communicate with me?** I enjoy talking with students about our course material! Are you confused or excited about something? Wondering how what we're learning relates to current events, career choices, or other classes you can take UO? Please be in touch! Please also be in touch to tell me how you are doing in the course. If you are having trouble with some aspect of it, I would like to strategize with you. I believe every student can succeed in this course, and I care about your success.
+
+## Classroom Community Expectations
+
+**Participate and Contribute:** All students are expected to participate by sharing ideas and contributing to the learning environment. This entails preparing, following instructions, and engaging respectfully and thoughtfully with others. While all students should participate, participation is not just talking, and a range of participation activities support learning. Participation might look like speaking aloud in the full class and in small groups as well as submitting questions prior to class or engaging with Discussion posts. We will establish more specific participation guidelines and criteria for contributions in our first weeks of the term.
+
+**Expect and Respect Diversity:** All classes at the University of Oregon welcome and respect diverse experiences, perspectives, and approaches. What is not welcome are behaviors or contributions that undermine, demean, or marginalize others based on race, ethnicity, gender, sex, age, sexual orientation, religion, ability, or socioeconomic status. We will value differences and communicate disagreements with respect. We may establish more specific guidelines and protocols to ensure inclusion and equity for all members of our learning community.
+
+**Help Everyone Learn:** Part of how we learn together is by learning from one another. To do this effectively, we need to be patient with each other, identify ways we can assist others, and be open-minded to receiving help and feedback from others. Don't hesitate to contact me to ask for assistance or offer suggestions that might help us learn better.
+
+## Course Attendance and Engagement
+
+This is a face-to-face course. Attendance is important because we will develop our knowledge through in-class activities that require your active engagement. We’ll have discussions, small-group activities, and do other work during class that will be richer for your presence, and that you won’t be able to benefit from if you are not there. Excessive absences make it impossible to learn well and succeed in the course. While there is not an automatic grade deduction for missing classes, it is unlikely that students who miss 6 or more classes will be able pass this course. That said, if you are feeling ill, please stay home to heal and avoid infecting your classmates. Please take absences only when necessary, so when they are necessary, your prior attendance will have positioned you for success. If you must miss a class, please fill out the [absence report form](https://lor.instructure.com/resources/30f8469edcc045b3aaf1e6a535301b9b?shared).
+
+My course attendance and engagement policies were built with absences and deadline flexibility that students commonly need in mind. There are, however, times when a student may experience an extraordinary circumstance—an unanticipated and significant crisis—that impacts their attendance. Exceptions to the attendance policy and/or deadlines may be granted in the event of extraordinary circumstances. Please contact me as soon as you are able to request it—ideally before the class or deadline has passed, or, if your circumstance makes this difficult, then as soon as possible afterwards. This exception will not be offered on an open-ended basis, so if you need to ask for it, please give some consideration to how much time you will realistically need to complete the work. To activate this policy, send me an email with "Extraordinary circumstance request" in the subject line, and if you are requesting deadline flexibility, let me know by what updated deadline you will be able to submit your assignment. There is no need to explain or offer information about the nature of the extraordinary circumstance in your email—we will trust you only to activate this policy in crisis situation. Please note, too, that detailed feedback on your written work may be delayed or impossible to provide if you're submitting to meet an extended deadline. At the end of term, granting extensions is hard for the teaching team because of UO's tight turnaround on grading. Please be in touch in an emergency and we can discuss your options.
+
+## Generative Artificial Intelligence Use
+
+Students can use GenAI tools in this class to help with course work and assignments. However, if you use a GenAI tool, you need to document your use, including the tool you use and when, where, and how in your work process you used it (for example: "I used ChatGPT to generate this part of my code, which I then revised before submitting"). In certain cases, as part of your documentation, I may ask you to submit any GenAI results you obtained, so you need to keep GenAI-created drafts and logs of your interactions with GenAI tools; failure to provide such documentation may result in a grade reduction in certain instances.
+
+Along with documentation of your GenAI use, you are also required to cite GenAI if you use any GenAI-created content in your work submissions, for example text or images or graphics generated by GenAI tools. That is, you need to treat GenAI just like other sources such as books, articles, videos, etc.
+
+## Grievance Policy
+
+A student or group of students of the College of Education may appeal decisions or actions pertaining to admissions, programs, evaluation of performance and program retention and completion. Students who decide to file a grievance should follow University student grievance procedures and/or consult with the College Associate Dean for Academic Affairs: Edward M. Olivos at `emolivos@uoregon.edu` or 541-346-2983.
+
+# University Policies and Course Accommodations
+
+Please read and make sure you are familiar with the important policies that apply to all UO courses, which can be found at [University Course Policies: a Guide for Students](https://teaching.uoregon.edu/university-course-policies). The University is committed to providing equal opportunities to all students in a learning environment free from discrimination and harassment. Students with disabilities may request accommodations by contacting the [Accessible Education Center (AEC)](https://aec.uoregon.edu/getting-started-0) at `uoaec@uoregon.edu` or 541-346-1155. Students in need of accommodations due to pregnancy, military leave, and religious observances should contact the [Office of Equal Opportunity and Access](https://investigations.uoregon.edu/) at `eoa@uoregon.edu` or 541-326-3123.
+
+
+
+
