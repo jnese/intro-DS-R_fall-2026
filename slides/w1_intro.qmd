@@ -16,6 +16,8 @@ format:
 execute: 
   echo: false
   warning: false
+resources:
+  - ../nopublish/popcorn/popcorn-experiment.html
 ---
 
 ```{r}
@@ -27,7 +29,7 @@ library(gt)
 
 ```
 
-## How many popcorn kernels are in the jar? {.center background-color="#CC79A7"}
+## How many popcorn kernels in the jar? {.center background-color="#CC79A7"}
 
 (keep your guess to yourself!)
 
@@ -93,11 +95,16 @@ with `quarto`
 
 Like we just did!
 
+<iframe src="../nopublish/popcorn/popcorn-experiment.html" width="100%" height="600" style="border:none;"></iframe>
+
+
 ## Create slides!
 
 with `quarto`
 
 Like the ones you're looking at right now!
+
+![](./images/create_slides.PNG)
 
 ## Create a website!
 
@@ -111,17 +118,17 @@ with `{quarto}` or `{bookdown}`
 :::
 
 ::: {.column width="50%"}
-[**For this class**](https://jnese.github.io/intro-DS-R_fall-2025/)
+[**For this class**](https://jnese.github.io/intro-DS-R_fall-2026/)
 
 ```{r}
-knitr::include_graphics("images/edld651home.png")
+knitr::include_graphics("images/edst676home.png")
 ```
 :::
 ::::
 
 ## Create a dashboard!
 
-with `{flexdashboard}`!
+with `{bslib}`!
 
 ```{r, out.width='100%'}
 knitr::include_graphics("images/dashboard-ex.png")
@@ -137,7 +144,7 @@ knitr::include_graphics("images/shiny-ex.png")
 
 ## Create a poster!
 
-with `{posterdown}`!
+with `{qurto}` or `{posterdown}`!
 
 ```{r, out.width='100%'}
 knitr::include_graphics("images/poster_ex.png")
@@ -161,13 +168,14 @@ knitr::include_graphics("images/poster_ex.png")
 
 **Web**
 
--   `{blogdown}`, `{distill}`, `{bookdown}`, `quarto` --- build your own website
+-   `quarto` or `{bookdown}` --- build your own website
 -   `{rvest}` --- scrape web data
 
 . . .
 
 **Modeling**
 
+-   `{base}` --- regression
 -   `{lme4}` --- multilevel modeling
 -   `{lavaan}` --- SEM
 -   `{tidymodels}` --- machine learning
@@ -181,7 +189,7 @@ knitr::include_graphics("images/poster_ex.png")
 
 ## Acknowledgements
 
-This course, and much of the materials prepared and content presented, was originally developed by [Daniel Anderson](https://www.linkedin.com/in/danieljanderson/)
+This course, and some of the materials prepared and content presented, was originally developed by [Daniel Anderson](https://www.linkedin.com/in/danieljanderson/)
 
 -   [Alison Hill](https://www.apreshill.com/), [Chester Ismay](https://chester.rbind.io/), and [Andrew Bray](https://andrewpbray.github.io/) helped Daniel design the content for this course and the specialization as a whole
 
@@ -803,6 +811,20 @@ the package is also called the "namespace"
 Generative AI (e.g., ChatGPT)
 
 ![](./images/dumbledore.gif)
+## Generative AI Use
+
+Any GenAI use must be disclosed
+
+1) The tool and version you used
+2) What you used it for
+3) How you reviewed, verified, or changed the output
+4) A shared link to the full conversation
+
+For example: *"AI use: I used Claude (Opus 5.5) to generate this part of my code, which I then revised with the if_else() function before submitting. Chat link: [URL]"* 
+
+"Share" button in your AI tool for a linke ([Claude](https://support.claude.com/en/articles/10593882-sharing-and-unsharing-chats), [ChatGPT](https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq), [Gemini](https://support.google.com/gemini/answer/13743730), [Copilot](https://support.microsoft.com/en-us/microsoft-copilot/conversation-history-in-microsoft-copilot))
+
+See the [syllabus](https://jnese.github.io/intro-DS-R_fall-2026/syllabus.html#generative-artificial-intelligence-use) for more detail
 
 ## Back to Dr. Feynman
 

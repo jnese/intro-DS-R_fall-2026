@@ -1,1 +1,1 @@
-# intro-DS-R_fall-2025
+EDST 676: Introduction to Data Science with `R`
