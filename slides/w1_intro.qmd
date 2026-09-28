@@ -62,15 +62,16 @@ library(gt)
 
 -   Applied statistical methods used by researchers
 -   Developing and improving systems that support data-based decision making using advanced technologies to influence teachers' instructional practices and increase student achievement
-    -   [CORE](https://jnese.github.io/core-blog/) and [CORE II](https://jnese.github.io/coreprosody)
-    -   Inclusive Skill-building Learning Approach ([ISLA](https://www.neselab.org/isla/))
+    - [CORE](https://jnese.github.io/core-blog/) and [CORE II](https://jnese.github.io/coreprosody)
+    - Inclusive Skill-building Learning Approach ([ISLA](https://www.neselab.org/isla/))
+    - [Project Elevate](https://www.neselab.org/project-elevate/)
 
 **Teaching**
 
-- EDLD 651 - this one!
-- EDLD 653 - Functional Programming for Educational Data Science^[this spring!]
-- EDLD 654 - Applied Machine Learning for Educational Data Scientists
-- EDLD 609 - Data Science Capstone
+- EDST 676 - this one!
+- EDST 677 - Functional Programming for Educational Data Science^[this spring!]
+- EDST 679 - Applied Machine Learning for Educational Data Scientists
+- EDST 684 - Data Science Capstone
 
 ## About you
 
@@ -326,13 +327,13 @@ Learning to problem solve!
 
 ## Course Site {.smaller}
 
-[**https://jnese.github.io/intro-DS-R_fall-2025/**](https://jnese.github.io/intro-DS-R_fall-2025/)
+[**https://jnese.github.io/intro-DS-R_fall-2026/**](https://jnese.github.io/intro-DS-R_fall-2026/)
 
-- [schedule](https://jnese.github.io/intro-DS-R_fall-2025/schedule.html)
-- [slides](https://jnese.github.io/intro-DS-R_fall-2025/schedule.html) (posted *before* each class)
-- [assignments](https://jnese.github.io/intro-DS-R_fall-2025/assignments.html) (posted *after* each class)
-- [syllabus](https://jnese.github.io/intro-DS-R_fall-2025/syllabus.html)
-- [data](https://jnese.github.io/intro-DS-R_fall-2025/data_list.html)
+- [schedule](https://jnese.github.io/intro-DS-R_fall-2026/schedule.html)
+- [slides](https://jnese.github.io/intro-DS-R_fall-2026/schedule.html) (posted *before* each class)
+- [assignments](https://jnese.github.io/intro-DS-R_fall-2026/assignments.html) (posted *after* each class)
+- [syllabus](https://jnese.github.io/intro-DS-R_fall-2026/syllabus.html)
+- [data](https://jnese.github.io/intro-DS-R_fall-2026/data_list.html)
 
 **Canvas**
 
@@ -348,31 +349,19 @@ Learning to problem solve!
 -   Supplemental learning opportunities that I hope are helpful
 -   Part of your "Supplemental Learning" grade
 
-## Resources {.smaller}
-
--   [UO Libraries Data Services](https://library.uoregon.edu/department-of-open-research/data-service)
-    -   cover statistical software (like `R` and `Python`), statistics, research design, GIS, git/GitHub
--   [learnR4free](https://www.learnr4free.com/en/index.html)
-    -   all sorts of resources (books, videos, websites, papers) to learn `R` for free
--   [R-Ladies](https://rladies.org/)
-    -   Global organization to promote gender diversity in the R community
--   [Posit Community](https://forum.posit.co/)
-    -   Similar to [stackoverflow](https://stackoverflow.com/questions/tagged/r) but friendlier (great place to post questions)
-    -   Opinionated
-    -   Posit-philosophy dominant (as is this class)
-
 ## Weekly Schedule
 
--   Readings - do before class
--   Homeworks - due before following class
+- Readings
+    + do before class
+- Homeworks
+    + due before following class
 
 ## Assignements {.smaller}
 
 **Homework (200 points)**
 
--   Homeworks -- 10 at 13 points each (130 points)
--   Supplemental Learning - 7 at 10 points each (70 points)
-    -   Codeacademy $\times$ 7
+-   Homeworks $\times$ 10 at 13 points each (130 points)
+-   Supplemental Learning (Codeacademy) $\times$ 7 at 10 points each (70 points)
     -   Screenshot of specific part of "Supplemental Learning"
 
 **Final Project (200 points)**
@@ -414,12 +403,12 @@ read_csv(here("rubrics", "grades_rubric.csv")) |>
 ## Final Project {.smaller}
 
 -   Group project, 3-4 people
-    + You select or me organize? (*vote*)
-    + The expectations if you select
--   Quarto document
+    + You choose or me randomize? (*vote*)
+    + The expectations if you choose
 
 **Final project must:**
 
+-   Quarto document
 -   Be fully reproducible
     -   this implies the data are open
 -   Be a collaborative project hosted on GitHub
@@ -429,12 +418,12 @@ read_csv(here("rubrics", "grades_rubric.csv")) |>
 
 ## Final Project - Dates
 
--   **Week 3 (10/15)**: Self-selected groups finalized
--   **Week 5 (10/29)**: Final Project Outline due
--   **Week 9 (11/26)**: Data prep script due
--   **Week 10 (12/3)**: Peer review due
--   **Week 10 (12/3)**: Final project presentations
--   **Week 11 (12/10)**: Final Paper due
+-   **Week 3 (10/14)**: Self-selected groups finalized
+-   **Week 5 (10/28)**: Final Project Outline due
+-   **Week 9 (11/25)**: Data prep script due
+-   **Week 10 (12/2)**: Peer review due
+-   **Week 10 (12/2)**: Final project presentations
+-   **Week 11 (12/9)**: Final Paper due
 
 ## Final Project - Paper Scoring Rubric
 
@@ -702,8 +691,8 @@ Data can be a variety of types
 . . .
 
 -   **numeric**: `2` and/or `15.5` 
-    - whole number called an **integer**
-    - decimal called a **double**
+    - **integer**: whole number
+    - **double**: decimal
     - *Aside*: explicit about an integer `2L` (the `L` tells `R` to store this as an integer) ¯\\_(ツ)_/¯
 
 . . .
@@ -805,13 +794,27 @@ the package is also called the "namespace"
     -   If you email me with a question, provide your `R` files & data
 -   Google
     -   stackoverflow
+
+## Getting help {.smaller}
+
+-   [UO Libraries Data Services](https://library.uoregon.edu/department-of-open-research/data-service)
+    -   cover statistical software (like `R` and `Python`), statistics, research design, GIS, git/GitHub
+-   [learnR4free](https://www.learnr4free.com/en/index.html)
+    -   all sorts of resources (books, videos, websites, papers) to learn `R` for free
+-   [R-Ladies](https://rladies.org/)
+    -   Global organization to promote gender diversity in the R community
+-   [Posit Community](https://forum.posit.co/)
+    -   Similar to [stackoverflow](https://stackoverflow.com/questions/tagged/r) but friendlier (great place to post questions)
+    -   Opinionated
+    -   Posit-philosophy dominant (as is this class)
     
-## Getting help
+## Getting help 
 
 Generative AI (e.g., ChatGPT)
 
 ![](./images/dumbledore.gif)
-## Generative AI Use
+
+## Generative AI Use {.smaller}
 
 Any GenAI use must be disclosed
 
@@ -836,7 +839,7 @@ See the [syllabus](https://jnese.github.io/intro-DS-R_fall-2026/syllabus.html#ge
 
 ## Install Check {.smaller}
 
-[Installs](https://jnese.github.io/intro-DS-R_fall-2025/installs.html)
+[Installs](https://jnese.github.io/intro-DS-R_fall-2026/installs.html)
 
 -   [R](https://cloud.r-project.org/)
 -   [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop)
@@ -1069,7 +1072,7 @@ You will only need to install a package **once** (generally). After that, it is 
 . . .
 
 -   you will only need to do this the **FIRST** time you use the package
--   don't keep this code line (just run it in the console!)
+-   don't keep this code line (**just run it in the console!**)
 -   notices the quotes around the package name
 
 . . .
@@ -1093,11 +1096,19 @@ one time!
 
 . . .
 
+in the **Console**!
+
+. . .
+
 `library(package_name)`
 
 . . .
 
 every time!
+
+. . .
+
+in the **Source** (your script)!
 
 ## Other packages
 
@@ -1115,8 +1126,8 @@ On GitHub
 With just a basic knowledge of `R` you have access to thousands of packages
 
 -   Expanding on a daily basis
-    + Currently, the CRAN package repository features 22,676 packages 
-    + 21,000+ last year at this time
+    + Currently, the CRAN package repository features 25,202 packages 
+    + 22,676 last year at this time
     + constantly evolving to keep up with the varied demands of the data science community
 -   Provides access to cutting edge and specialized functionality for analysis, data visualization, and data preparation
 -   Some of the most modern thinking on data analysis topics are often represented in these packages
@@ -1232,7 +1243,26 @@ gss_cat
 gss_cat
 ```
 
-## When to use `$`?
+
+## What if it is NOT a `tibble`?
+
+`mtcars` is a `data.frame` from the `{datasets}` package
+
+```{r}
+#| echo: true
+#| eval: false
+mtcars
+```
+
+. . .
+
+```{r}
+#| echo: false
+mtcars
+```
+
+
+## When to use `$`? {.smaller}
 
 -   Often when you need to use `{base} R`
 -   Execute a function casually
@@ -1265,15 +1295,8 @@ Produce a `hist`ogram of the *tvhours* variable in `gss_cat`
 
 ## The pipe operator (`|>`)
 
-*Note*
-
-You may see me use `%>%` instead of `|>`
-- this is only because old habits die hard
-- they are (almost always) interchangeable 
-
-. . .
-
 ```{r}
+#| output-location: fragment
 #| echo: true
 gss_cat |> 
   count(marital)
@@ -1287,14 +1310,16 @@ We will talk about this a little right now and lot more later
 
 Base `R` has a native pipe now!
 
-R 4.1.0 introduced a native pipe operator, `|>`. As described in the R News:
+`R` 4.1.0 introduced a native pipe operator, `|>`. As described in the `R` News:
 
-> R now provides a simple native forward pipe syntax `|>`. The simple form of the forward pipe inserts the left-hand side as the first argument in the right-hand side call. 
+> `R` now provides a simple native forward pipe syntax `|>`. The simple form of the forward pipe inserts the left-hand side as the first argument in the right-hand side call. 
 
 The behavior of the native pipe is basically the same as the `%>%` pipe  (from the `{magrittr}` package)
 
 Luckily there’s no need to commit entirely to one pipe or the other
 
+- you may see some use `%>%` instead of `|>`
+- they are (almost always) interchangeable
 - you can use `|>` for the majority of cases and use `%>%` when you really need its special features
 
 More [here](https://www.tidyverse.org/blog/2023/04/base-vs-magrittr-pipe/#-vs).
@@ -1332,12 +1357,12 @@ slice(arrange(select(filter(gss_cat, relig == "Buddhism", age > 55), age, partyi
 ## Before next class {.smaller}
 
 - Reading
-    + [Week 1 reading](https://jnese.github.io/intro-DS-R_fall-2025/#week-1-introduction)
+    + [Week 1 reading](https://jnese.github.io/intro-DS-R_fall-2026/#week-1-introduction)
         - [R4DS(2e) Ch. 5](https://r4ds.hadley.nz/workflow-style)
         - [R4DS(2e) Ch. 3](https://r4ds.hadley.nz/workflow-basics)
         - [R4DS(2e) Ch. 7](https://r4ds.hadley.nz/workflow-scripts)
 
 - Assignments
-    + [Installs](https://jnese.github.io/intro-DS-R_fall-2025/install.qmd)
+    + [Installs](https://jnese.github.io/intro-DS-R_fall-2026/install.qmd)
     + [A Quick Tour of the RStudio IDE](http://milton-the-cat.rocks/learnr/r/r_getting_started/#section-a-quick-tour-of-r-studio)
     + [Codecademy: Introduction to R Syntax](https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r)
