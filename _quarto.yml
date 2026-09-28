@@ -11,10 +11,9 @@ website:
   navbar:
     background: '#56B4E9'
     foreground: "white"
-    left:
+    right:
       - href: syllabus.qmd
         text: Syllabus
-    right: 
       - href: assignments.qmd
         text: Assignments
       - href: schedule.qmd
