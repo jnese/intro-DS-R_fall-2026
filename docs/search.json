@@ -18,7 +18,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Before Week 1\nPlease complete the following five installs before our first class.\nInstructions for each are on the Installs page.\n\nInstall R\nInstall RStudio\nRegister a GitHub account\nInstall Git\nInstall GitKraken\n\n\n\nWeek 1: Introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned2\nDue\n\n\n\n\nSep-30\nR4DS(2e) 5\n\n\nA Quick Tour of the RStudio IDE\nInstalls\n\n\n\n\nR4DS(2e) 3\n\n\n\n\nCodecademy: Introduction to R Syntax\n\n\n\n\n\n\nR4DS(2e) 7\n\n\n\n\n\nFinal Project\n\nFinal Project\n\n\n\n\n\n\nOptional: MD 1.1\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: UT3phr?C\n\n\n2 I do not rearrange my RStudio panes as he does.\n\n\n\n\n\n\n\n\n\n\nWeek 2: Workflow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-07\nProject-oriented Workflow\n\n\n\nCodecademy: Introduction to Data Frames in R\nA Quick Tour of the RStudio IDE\n\n\n\n\nR4DS(2e) 29\n\n\n\n\nCodecademy: Introduction to Visualization with R\nCodecademy: Introduction to R Syntax\n\n\n\n\nhere::here() Jenny Bryan\n\n\n\n\nHomework 1\n\n\n\n\n\n\n{rio} vignette\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 3: {ggplot2}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-14\nR4DS(2e) 2\n[]\n\n\nCodecademy: Modifying Data Frames\nCodecademy: Introduction to Data Frames in R\n\n\n\n\nOptional: MD 2.0 to 2.9\n\n\n\nCodecademy: Aggregates in R\nCodecademy: Introduction to Visualization with R\n\n\n\n\nOptional: Healy Ch 3\n\n\n\n\nHomework 2\nHomework 1\n\n\n\n\n\n\n\n\n\n\nHomework 3\n\nFinal Project: Finalize Groups\n\nFinal Project: Finalize Groups\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 4: {dplyr}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-21\nR4DS(2e) 4\n\n\n\n\nDownload GitKraken\nCodecademy: Modifying Data Frames\n\n\n\n\nOptional: MD 3.1 to 3.6, 3.8\n\n\n\n\nWatch What is a Git repository?\nCodecademy: Aggregates in R\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\nHomework 2\n\n\n\n\n\n\n\n\n\n\nHomework 4\nHomework 3\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 5: GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-28\nBryan 2017\n\n\n\n\nMarkdown Tutorial\nDownload GitKraken\n\n\n\n\n\n\n\n\n\n\nHomework 5\nWatch What is a Git repository?\n\n\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Outline\n\nFinal Project: Outline\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 6: Quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-04\nR4DS(2e) 29\n\n\n\n\nCodecademy: Joining Tables in R\nMarkdown Tutorial\n\n\n\n\n\n\n\n\n\n\nHomework 6\nHomework 5\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 7: Mutating Joins\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-11\nR4DS(2e) 13\n\n\n\n\nCodecademy: Data Cleaning in R\nCodecademy: Joining Tables in R\n\n\n\n\n\n\n\n\n\n\nHomework 8\nHomework 6\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 8: Tidy Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-18\nR4DS(2e) 12\n\n\n\n\nHomework 9\nCodecademy: Data Cleaning in R\n\n\n\n\nWickham 2014\n\n\n\n\n\n\nHomework 8\n\n\n\n\nR-Ladies Sydney CleanItUp 2\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n\n\n\nOptional: MD 4.2 - 4.4\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 9: Factors & Pull Request\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-25\nR4DS(2e) 17\n\n\n\n\nHomework 10\nHomework 9\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Peer Review of Script\n\nFinal Project: Peer Review of Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 10: Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nDec-02\n\n\n\n\n\n\n\n\nHomework 10\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Presentation\n\nFinal Project: Presentation\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 11: No class: Final papers due"
+    "text": "Before Week 1\nPlease complete the following five installs before our first class.\nInstructions for each are on the Installs page.\n\nInstall R\nInstall RStudio\nRegister a GitHub account\nInstall Git\nInstall GitKraken\n\n\n\nWeek 1: Introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned2\nDue\n\n\n\n\nSep-30\nR4DS(2e) 5\n\n\nA Quick Tour of the RStudio IDE\nInstalls\n\n\n\n\nR4DS(2e) 3\n\n\n\n\nCodecademy: Introduction to R Syntax\n\n\n\n\n\n\nR4DS(2e) 7\n\n\n\n\n\nFinal Project\n\nFinal Project\n\n\n\n\n\n\nOptional: MD 1.1\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: UT3phr?C\n\n\n2 I do not rearrange my RStudio panes as he does.\n\n\n\n\n\n\n\n\n\n\nWeek 2: Workflow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-07\nProject-oriented Workflow\n\n\nCodecademy: Introduction to Data Frames in R\nA Quick Tour of the RStudio IDE\n\n\n\n\nR4DS(2e) 29\n\n\n\n\nCodecademy: Introduction to Visualization with R\nCodecademy: Introduction to R Syntax\n\n\n\n\nhere::here() Jenny Bryan\n\n\n\n\nHomework 1\n\n\n\n\n\n\n{rio} vignette\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: 5bH*g@K1\n\n\n\n\n\n\n\n\n\n\nWeek 3: {ggplot2}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-14\nR4DS(2e) 2\n[]\n\n\nCodecademy: Modifying Data Frames\nCodecademy: Introduction to Data Frames in R\n\n\n\n\nOptional: MD 2.0 to 2.9\n\n\n\nCodecademy: Aggregates in R\nCodecademy: Introduction to Visualization with R\n\n\n\n\nOptional: Healy Ch 3\n\n\n\n\nHomework 2\nHomework 1\n\n\n\n\n\n\n\n\n\n\nHomework 3\n\nFinal Project: Finalize Groups\n\nFinal Project: Finalize Groups\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 4: {dplyr}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-21\nR4DS(2e) 4\n\n\n\n\nDownload GitKraken\nCodecademy: Modifying Data Frames\n\n\n\n\nOptional: MD 3.1 to 3.6, 3.8\n\n\n\n\nWatch What is a Git repository?\nCodecademy: Aggregates in R\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\nHomework 2\n\n\n\n\n\n\n\n\n\n\nHomework 4\nHomework 3\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 5: GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-28\nBryan 2017\n\n\n\n\nMarkdown Tutorial\nDownload GitKraken\n\n\n\n\n\n\n\n\n\n\nHomework 5\nWatch What is a Git repository?\n\n\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Outline\n\nFinal Project: Outline\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 6: Quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-04\nR4DS(2e) 29\n\n\n\n\nCodecademy: Joining Tables in R\nMarkdown Tutorial\n\n\n\n\n\n\n\n\n\n\nHomework 6\nHomework 5\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 7: Mutating Joins\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-11\nR4DS(2e) 13\n\n\n\n\nCodecademy: Data Cleaning in R\nCodecademy: Joining Tables in R\n\n\n\n\n\n\n\n\n\n\nHomework 8\nHomework 6\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 8: Tidy Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-18\nR4DS(2e) 12\n\n\n\n\nHomework 9\nCodecademy: Data Cleaning in R\n\n\n\n\nWickham 2014\n\n\n\n\n\n\nHomework 8\n\n\n\n\nR-Ladies Sydney CleanItUp 2\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n\n\n\nOptional: MD 4.2 - 4.4\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 9: Factors & Pull Request\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-25\nR4DS(2e) 17\n\n\n\n\nHomework 10\nHomework 9\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Peer Review of Script\n\nFinal Project: Peer Review of Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 10: Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nDec-02\n\n\n\n\n\n\n\n\nHomework 10\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Presentation\n\nFinal Project: Presentation\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 11: No class: Final papers due"
   },
   {
     "objectID": "slides/w1_intro.html#how-many-popcorn-kernels-are-in-the-jar",
@@ -787,8 +787,8 @@
     "objectID": "slides/w2_workflow.html#hex-stickers",
     "href": "slides/w2_workflow.html#hex-stickers",
     "title": "Week 2: Workflow",
-    "section": "Hex stickers!",
-    "text": "Hex stickers!\nLet’s give Emmanual a hex sticker!"
+    "section": "",
+    "text": "Let’s give Emmanual a hex sticker!"
   },
   {
     "objectID": "slides/w2_workflow.html#agenda",
@@ -816,7 +816,7 @@
     "href": "slides/w2_workflow.html#whats-a-working-directory",
     "title": "Week 2: Workflow",
     "section": "What’s a working directory?",
-    "text": "What’s a working directory?\nWhere you’re at on your computer\n\nthe folder location where your script is saved\nQuick check-in: does this make sense?\n\n\nYou can change your working directory with setwd(\"path/to/files\")…\n…BUT I strongly urge you to avoid that\n\n\nInstead, we’re going to use RStudio Projects and the {here} package\n\n\n\nSee where you’re currently at by looking at the top of the console\nOr run getwd() in the console"
+    "text": "What’s a working directory?\nWhere you’re at on your computer\n\nthe folder location where your script is saved\nQuick check-in: does this make sense?\n\n. . .\nYou can change your working directory with setwd(\"path/to/files\")…\n…BUT I strongly urge you to avoid that\n. . .\nInstead, we’re going to use RStudio Projects and the {here} package\n. . .\n\nSee where you’re currently at by looking at the top of the console\nOr run getwd() in the console"
   },
   {
     "objectID": "slides/w2_workflow.html#whats-different-with-.rproj",
@@ -837,7 +837,7 @@
     "href": "slides/w2_workflow.html#project-oriented-workflow",
     "title": "Week 2: Workflow",
     "section": "Project Oriented Workflow",
-    "text": "Project Oriented Workflow\nWrite every script assuming it will be run in a fresh R process\n\n\nDo not save .RData when you quit R and don’t load .RData when you start R\n\n\nWeek 1: Tools 🡆 Global Options 🡆 General\nWorkspace\n\n“Restore .RData into workspace at startup” – Uncheck\n“Save workspace to .RData on exit:” – Never"
+    "text": "Project Oriented Workflow\nWrite every script assuming it will be run in a fresh R process\n. . .\n\nDo not save .RData when you quit R and don’t load .RData when you start R\n\n\nWeek 1: Tools 🡆 Global Options 🡆 General\nWorkspace\n\n“Restore .RData into workspace at startup” – Uncheck\n“Save workspace to .RData on exit:” – Never"
   },
   {
     "objectID": "slides/w2_workflow.html#project-oriented-workflow-1",
@@ -865,7 +865,7 @@
     "href": "slides/w2_workflow.html#make-a-new-.rproj-1",
     "title": "Week 2: Workflow",
     "section": "1. Make a new .RProj",
-    "text": "1. Make a new .RProj\nLet’s name it: “my_first_project”\n\nnotice the naming convention\n\nno caps\nno spaces\nno special characters (e.g., ?, !, \", #)\n“_” and “-” are ok\n\n\n\nChoose a location for it\n\nAn .RProj will need its own folder, with no other projects in it!\nProjects in Dropbox often lead to unexpected occurences\n\n\n\nI’ll just save “my_first_project” to my desktop\ndemo"
+    "text": "1. Make a new .RProj\nLet’s name it: “my_first_project”\n\nnotice the naming convention\n\nno caps\nno spaces\nno special characters (e.g., ?, !, \", #)\n“_” and “-” are ok\n\n\n. . .\nChoose a location for it\n\nAn .RProj will need its own folder, with no other projects in it!\nProjects in Dropbox often lead to unexpected occurences\n\n. . .\nI’ll just save “my_first_project” to my desktop\ndemo"
   },
   {
     "objectID": "slides/w2_workflow.html#create-folders",
@@ -886,21 +886,21 @@
     "href": "slides/w2_workflow.html#lets-see-files-are-in-our-data-folder",
     "title": "Week 2: Workflow",
     "section": "Let’s see files are in our “data” folder",
-    "text": "Let’s see files are in our “data” folder\n\nYou can list.files(\"path/to/files\") to see the contents of your project directory (i.e., what your computer “sees”)\nYou can also use the Files tab in RStudio\n\n\n\nUse here() to access data or any file in your project\n\n\n\n\nhere() is simply a function to print a path\n\nlist.files(here(\"data\")) . . .\n\n\ndemo"
+    "text": "Let’s see files are in our “data” folder\n\nYou can list.files(\"path/to/files\") to see the contents of your project directory (i.e., what your computer “sees”)\nYou can also use the Files tab in RStudio\n\n. . .\n\nUse here() to access data or any file in your project\n\n. . .\n\nhere() is simply a function to print a path\n\nlist.files(here(\"data\")) . . .\n\n\ndemo"
   },
   {
     "objectID": "slides/w2_workflow.html#reading-data-into-r",
     "href": "slides/w2_workflow.html#reading-data-into-r",
     "title": "Week 2: Workflow",
     "section": "Reading data into R",
-    "text": "Reading data into R\nYou just need two things:\n\nwhere the dataset it located\n\nThis is most often just a path on you machine\n\n\npackage::function() to read the data\n\nWe’ll be talking about two data reading packages\n\n{rio}\n{readr}"
+    "text": "Reading data into R\nYou just need two things:\n\nwhere the dataset it located\n\nThis is most often just a path on you machine\n. . .\n\npackage::function() to read the data\n\nWe’ll be talking about two data reading packages\n\n{rio}\n{readr}"
   },
   {
     "objectID": "slides/w2_workflow.html#well-use-the-here-package",
     "href": "slides/w2_workflow.html#well-use-the-here-package",
     "title": "Week 2: Workflow",
     "section": "We’ll use the {here} package ",
-    "text": "We’ll use the {here} package \n{here} uses the top-level directory of a project to easily build paths to files\n\nAllows you to worry about paths a little less\nHelps reproducibility\nYour final project!\n\nThink of here() simply as a function to print a path name\nA path can be the lcoation of your data\n\n\npath = lcoation\n\n\nArt: Allison Horst"
+    "text": "We’ll use the {here} package \n{here} uses the top-level directory of a project to easily build paths to files\n\nAllows you to worry about paths a little less\nHelps reproducibility\nYour final project!\n\nThink of here() simply as a function to print a path name\nA path can be the location of your data\n\n\nArt: Allison Horst\n. . .\npath = lcoation"
   },
   {
     "objectID": "slides/w2_workflow.html#here",
@@ -914,21 +914,21 @@
     "href": "slides/w2_workflow.html#here-1",
     "title": "Week 2: Workflow",
     "section": "{here}",
-    "text": "{here}\nThink of here() simply as a function to print a path name\nRun this code in your project (console is fine)\n\nhere()\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026\"\n\n\n\nThis is the “top level” directory of my project"
+    "text": "{here}\nThink of here() simply as a function to print a path name\nRun this code in your project (console is fine)\n\nhere()\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026\"\n\n\n. . .\nThis is the “top level” directory of my project"
   },
   {
     "objectID": "slides/w2_workflow.html#here-2",
     "href": "slides/w2_workflow.html#here-2",
     "title": "Week 2: Workflow",
     "section": "{here}",
-    "text": "{here}\nThink of here() simply as a function to print a path\nRun this code in your project (console is fine)\n\nhere()\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026\"\n\n\nThis is the path to the project directory\n\n\nhere(\"data\")\n\n\n\n\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026/data\"\n\n\nThis is the path to the “data” folder in our project directory"
+    "text": "{here}\nThink of here() simply as a function to print a path\nRun this code in your project (console is fine)\n\nhere()\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026\"\n\n\nThis is the path to the project directory\n. . .\n\nhere(\"data\")\n\n. . .\n\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026/data\"\n\n\nThis is the path to the “data” folder in our project directory"
   },
   {
     "objectID": "slides/w2_workflow.html#here-3",
     "href": "slides/w2_workflow.html#here-3",
     "title": "Week 2: Workflow",
     "section": "{here}",
-    "text": "{here}\nThink of here() simply as a function to print a path\n\nhere()\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026\"\n\n\n\nhere(\"data\")\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026/data\"\n\n\nQuestion: What was the difference in the output between these?\n\nQuestion: What will the following produce?\n\nhere(\"data\", \"ecls-k_samp.sav\")\n\n\n\n\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026/data/ecls-k_samp.sav\"\n\n\n\n\nA path leading directly to your data!"
+    "text": "{here}\nThink of here() simply as a function to print a path\n\nhere()\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026\"\n\n\n\nhere(\"data\")\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026/data\"\n\n\nQuestion: What was the difference in the output between these?\n. . .\nQuestion: What will the following produce?\n\nhere(\"data\", \"ecls-k_samp.sav\")\n\n. . .\n\n\n[1] \"C:/Users/jnese/Desktop/BRT/Teaching/1_Intro-Data-Science/intro-DS-R_fall-2026/data/ecls-k_samp.sav\"\n\n\n. . .\nA path leading directly to your data!"
   },
   {
     "objectID": "slides/w2_workflow.html#rio",
@@ -942,7 +942,7 @@
     "href": "slides/w2_workflow.html#rioimport",
     "title": "Week 2: Workflow",
     "section": "rio::import()",
-    "text": "rio::import()\n\nimport(file, format, setclass, …)\nfile = character string naming a file\n\nformat = (optional) character string of file format; e.g., \",\" for comma-separated values\nsetclass = (optional) character vector specifying one or more classes to set on the import. Default is \"data.frame\". We would probably prefer \"tbl_df\" for a tibble"
+    "text": "rio::import()\n\nimport(file, format, setclass, …)\nfile = character string naming a file\n. . .\nformat = (optional) character string of file format; e.g., \",\" for comma-separated values\nsetclass = (optional) character vector specifying one or more classes to set on the import. Default is \"data.frame\". We would probably prefer \"tbl_df\" for a tibble"
   },
   {
     "objectID": "slides/w2_workflow.html#rioimport-1",
@@ -963,63 +963,63 @@
     "href": "slides/w2_workflow.html#you-can-even-read-directly-from-the-web",
     "title": "Week 2: Workflow",
     "section": "You can even read directly from the web 😲",
-    "text": "You can even read directly from the web 😲\nFatality.txt\n\nimport(\"https://raw.githubusercontent.com/jnese/intro-DS-R_fall-2026/master/data/Fatality.txt\") |&gt; \n  as_tibble()\n\n\n\n# A tibble: 336 × 10\n   state  year mrall beertax  mlda jaild comserd vmiles unrate perinc\n   &lt;int&gt; &lt;int&gt; &lt;dbl&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt;    &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n 1     1  1982  2.13   1.54   19   no    no        7.23  14.4  10544.\n 2     1  1983  2.35   1.79   19   no    no        7.84  13.7  10733.\n 3     1  1984  2.34   1.71   19   no    no        8.26  11.1  11109.\n 4     1  1985  2.19   1.65   19.7 no    no        8.73   8.90 11333.\n 5     1  1986  2.67   1.61   21   no    no        8.95   9.80 11662.\n 6     1  1987  2.72   1.56   21   no    no        9.17   7.80 11944 \n 7     1  1988  2.49   1.50   21   no    no        9.67   7.20 12369.\n 8     4  1982  2.50   0.215  19   yes   yes       6.81   9.90 12309.\n 9     4  1983  2.27   0.206  19   yes   yes       6.59   9.10 12694.\n10     4  1984  2.83   0.297  19   yes   yes       6.71   5    13266.\n# ℹ 326 more rows"
+    "text": "You can even read directly from the web 😲\nFatality.txt\n\nimport(\"https://raw.githubusercontent.com/jnese/intro-DS-R_fall-2026/master/data/Fatality.txt\") |&gt; \n  as_tibble()\n\n# A tibble: 336 × 10\n   state  year mrall beertax  mlda jaild comserd vmiles unrate perinc\n   &lt;int&gt; &lt;int&gt; &lt;dbl&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt;    &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;\n 1     1  1982  2.13   1.54   19   no    no        7.23  14.4  10544.\n 2     1  1983  2.35   1.79   19   no    no        7.84  13.7  10733.\n 3     1  1984  2.34   1.71   19   no    no        8.26  11.1  11109.\n 4     1  1985  2.19   1.65   19.7 no    no        8.73   8.90 11333.\n 5     1  1986  2.67   1.61   21   no    no        8.95   9.80 11662.\n 6     1  1987  2.72   1.56   21   no    no        9.17   7.80 11944 \n 7     1  1988  2.49   1.50   21   no    no        9.67   7.20 12369.\n 8     4  1982  2.50   0.215  19   yes   yes       6.81   9.90 12309.\n 9     4  1983  2.27   0.206  19   yes   yes       6.59   9.10 12694.\n10     4  1984  2.83   0.297  19   yes   yes       6.71   5    13266.\n# ℹ 326 more rows"
   },
   {
     "objectID": "slides/w2_workflow.html#write-data",
     "href": "slides/w2_workflow.html#write-data",
     "title": "Week 2: Workflow",
     "section": "Write data",
-    "text": "Write data\nSave data just as easily with rio::export()\n\nYou need two things:\n\n\nWhat to export?\nWhere to export?\n\n\n\nexport(x, file, format, …)\nx = data frame (tibble) to be written into a file\nfile = character string naming a file\n\n\n\n\nexport(fatality, here(\"data\", \"exam1.sav\"))\n\nexport(fatality, here(\"data\", \"exam1.txt\"))\n\nexport(fatality, here(\"data\", \"exam1.dta\"))"
+    "text": "Write data\nSave data just as easily with rio::export()\n. . .\nYou need two things:\n\n\nWhat to export?\nWhere to export?\n\n. . .\nexport(x, file, format, …)\nx = data frame (tibble) to be written into a file\nfile = character string naming a file\n\n. . .\n\nexport(fatality, here(\"data\", \"exam1.sav\"))\n\nexport(fatality, here(\"data\", \"exam1.txt\"))\n\nexport(fatality, here(\"data\", \"exam1.dta\"))"
   },
   {
     "objectID": "slides/w2_workflow.html#convert",
     "href": "slides/w2_workflow.html#convert",
     "title": "Week 2: Workflow",
     "section": "convert()",
-    "text": "convert()\nAnother really useful feature is convert(), which just takes a file of one type and converts it to another\nSay your advisor uses SPSS 😐, but their colleague uses Stata 😐, and you use R 😎\nJust run one line of code!\n\n\nconvert(in_file, out_file, …)\n\n\nin_file = character string naming an input file\n\n\nout_file = character string naming an output file\n\n\nconvert(here(“data”, ecls-k_samp.sav), here(“data”, ecls-k_samp.txt))"
+    "text": "convert()\nAnother really useful feature is convert(), which just takes a file of one type and converts it to another\nSay your advisor uses SPSS 😐, but their colleague uses Stata 😐, and you use R 😎\nJust run one line of code!\n\n. . .\nconvert(in_file, out_file, …)\n. . .\nin_file = character string naming an input file\n. . .\nout_file = character string naming an output file\n. . .\nconvert(here(“data”, ecls-k_samp.sav), here(“data”, ecls-k_samp.txt))"
   },
   {
     "objectID": "slides/w2_workflow.html#how-is-this-all-working",
     "href": "slides/w2_workflow.html#how-is-this-all-working",
     "title": "Week 2: Workflow",
     "section": "How is this all working?",
-    "text": "How is this all working?\n{rio} wraps a variety of faster, more modernized packages than those provided by base R\n\n{data.table} for delimited formats\n{readxl} and {openxlsx} for reading and writing Excel workbooks\ndata.table::fread() for text-delimited files to automatically determine the file format regardless of the extension\n\nalso very fast\n\n\n\nAgain, import() “just works”"
+    "text": "How is this all working?\n{rio} wraps a variety of faster, more modernized packages than those provided by base R\n\n{data.table} for delimited formats\n{readxl} and {openxlsx} for reading and writing Excel workbooks\ndata.table::fread() for text-delimited files to automatically determine the file format regardless of the extension\n\nalso very fast\n\n\n. . .\nAgain, import() “just works”"
   },
   {
     "objectID": "slides/w2_workflow.html#maintaining-data-labels",
     "href": "slides/w2_workflow.html#maintaining-data-labels",
     "title": "Week 2: Workflow",
     "section": "Maintaining data “labels”",
-    "text": "Maintaining data “labels”\nQuestion: How many of you or your colleagues use SPSS or Stata? [and/or: How many of you use Qualtrics?]]{style=“color:#0072B2”}\n\nIn SPSS, Stata, & Qualtrics numeric data are often encoded with labels\nFor SAS, Stata, and SPSS files use {haven}\n{haven} allow you to transform the data into the character/factor version\n{haven} store metadata from rich file formats (SPSS, Stata, etc.) in variable-level attributes in a consistent form regardless of file type or underlying import function\n\n\n\nrio::characterize() converts a single variable or all variables in the data that have label attributes into character vectors\nrio::factorize() does the same but returns factor variables\n\n\n\nThis is very important for several of your homeworks!"
+    "text": "Maintaining data “labels”\nQuestion: How many of you or your colleagues use SPSS or Stata?\n[and/or: How many of you use Qualtrics?]]{style=“color:#0072B2”}\n. . .\nIn SPSS, Stata, & Qualtrics numeric data are often encoded with labels\nFor SAS, Stata, and SPSS files use {haven}\n{haven} allow you to transform the data into the character/factor version\n{haven} store metadata from rich file formats (SPSS, Stata, etc.) in variable-level attributes in a consistent form regardless of file type or underlying import function\n. . .\n\nrio::characterize() converts a single variable or all variables in the data that have label attributes into character vectors\nrio::factorize() does the same but returns factor variables\n\n. . .\nThis is very important for several of your homeworks!"
   },
   {
     "objectID": "slides/w2_workflow.html#section",
     "href": "slides/w2_workflow.html#section",
     "title": "Week 2: Workflow",
     "section": "",
-    "text": "eclsk |&gt;\n  select(child_id, k_type:sex) \n\n\n\n# A tibble: 984 × 4\n   child_id k_type school_type   sex\n   &lt;chr&gt;     &lt;dbl&gt;       &lt;dbl&gt; &lt;dbl&gt;\n 1 0842021C      1           0     0\n 2 0905002C      1           1     0\n 3 0150012C      1           1     1\n 4 0556009C      1           1     1\n 5 0089013C      1           0     0\n 6 1217001C      0           0     1\n 7 1092008C      0           0     1\n 8 0083007C      1           0     0\n 9 1091005C      0           1     0\n10 2006006C      1           1     0\n# ℹ 974 more rows"
+    "text": "eclsk |&gt;\n  select(child_id, k_type:sex) \n\n# A tibble: 984 × 4\n   child_id k_type school_type   sex\n   &lt;chr&gt;     &lt;dbl&gt;       &lt;dbl&gt; &lt;dbl&gt;\n 1 0842021C      1           0     0\n 2 0905002C      1           1     0\n 3 0150012C      1           1     1\n 4 0556009C      1           1     1\n 5 0089013C      1           0     0\n 6 1217001C      0           0     1\n 7 1092008C      0           0     1\n 8 0083007C      1           0     0\n 9 1091005C      0           1     0\n10 2006006C      1           1     0\n# ℹ 974 more rows"
   },
   {
     "objectID": "slides/w2_workflow.html#section-1",
     "href": "slides/w2_workflow.html#section-1",
     "title": "Week 2: Workflow",
     "section": "",
-    "text": "eclsk |&gt;\n  characterize() |&gt;\n  select(child_id, k_type:sex) \n\n\n\n# A tibble: 984 × 4\n   child_id k_type   school_type sex   \n   &lt;chr&gt;    &lt;chr&gt;    &lt;chr&gt;       &lt;chr&gt; \n 1 0842021C full-day public      male  \n 2 0905002C full-day private     male  \n 3 0150012C full-day private     female\n 4 0556009C full-day private     female\n 5 0089013C full-day public      male  \n 6 1217001C half-day public      female\n 7 1092008C half-day public      female\n 8 0083007C full-day public      male  \n 9 1091005C half-day private     male  \n10 2006006C full-day private     male  \n# ℹ 974 more rows"
+    "text": "eclsk |&gt;\n  characterize() |&gt;\n  select(child_id, k_type:sex) \n\n# A tibble: 984 × 4\n   child_id k_type   school_type sex   \n   &lt;chr&gt;    &lt;chr&gt;    &lt;chr&gt;       &lt;chr&gt; \n 1 0842021C full-day public      male  \n 2 0905002C full-day private     male  \n 3 0150012C full-day private     female\n 4 0556009C full-day private     female\n 5 0089013C full-day public      male  \n 6 1217001C half-day public      female\n 7 1092008C half-day public      female\n 8 0083007C full-day public      male  \n 9 1091005C half-day private     male  \n10 2006006C full-day private     male  \n# ℹ 974 more rows"
   },
   {
     "objectID": "slides/w2_workflow.html#readr",
     "href": "slides/w2_workflow.html#readr",
     "title": "Week 2: Workflow",
     "section": "{readr}",
-    "text": "{readr}\n\nGreat package; most of the time “it just works” regardless of the source file type\nLoads with {tidyverse}\nDefault loads data as a tibble\n\nthis is nice!\n\n\n\n\nread_csv(): comma separated (CSV) files\nread_tsv(): tab separated files\nread_delim(): general delimited files\nread_fwf(): fixed width files\nread_table(): tabular files where columns are separated by white-space\nread_log(): web log files"
+    "text": "{readr}\n\nGreat package; most of the time “it just works” regardless of the source file type\nLoads with {tidyverse}\nDefault loads data as a tibble\n\nthis is nice!\n\n\n. . .\n\nread_csv(): comma separated (CSV) files\nread_tsv(): tab separated files\nread_delim(): general delimited files\nread_fwf(): fixed width files\nread_table(): tabular files where columns are separated by white-space\nread_log(): web log files"
   },
   {
     "objectID": "slides/w2_workflow.html#read_csv",
     "href": "slides/w2_workflow.html#read_csv",
     "title": "Week 2: Workflow",
     "section": "read_csv()",
-    "text": "read_csv()\nYou just need one thing:\n\nwhere the data is located\n\nread_csv(file, …)\nfile = a path to a file, a connection, or literal data (either a single string or a raw vector)\n\nAnd how do we get a path string?\n\n\nwith the here() function\n\nread_csv(here(\"path\", \"to\", \"data.csv\"))"
+    "text": "read_csv()\nYou just need one thing:\n\nwhere the data is located\n\nread_csv(file, …)\nfile = a path to a file, a connection, or literal data (either a single string or a raw vector)\n. . .\nAnd how do we get a path string?\n. . .\nwith the here() function\n\nread_csv(here(\"path\", \"to\", \"data.csv\"))"
   },
   {
     "objectID": "slides/w2_workflow.html#b.-read-in-data",
@@ -1033,7 +1033,7 @@
     "href": "slides/w2_workflow.html#write_",
     "title": "Week 2: Workflow",
     "section": "write_*()",
-    "text": "write_*()\nSave data just as easily with write_*()\nYou need two things:\n\nWhat to export?\nWhere to export?\n\n\nwrite_csv(x, file, …)\nx = data frame (tibble) to be written into a file\nfile = character string naming a file to write to\n\n\nBasically\nwrite_*(what, \"where\")\n\nwrite_csv(exam1, here(\"data\", \"exam1.csv\"))"
+    "text": "write_*()\nSave data just as easily with write_*()\nYou need two things:\n\nWhat to export?\nWhere to export?\n\n. . .\nwrite_csv(x, file, …)\nx = data frame (tibble) to be written into a file\nfile = character string naming a file to write to\n. . .\nBasically\nwrite_*(what, \"where\")\n\nwrite_csv(exam1, here(\"data\", \"exam1.csv\"))"
   },
   {
     "objectID": "slides/w2_workflow.html#r",
@@ -1047,42 +1047,42 @@
     "href": "slides/w2_workflow.html#quick-peek",
     "title": "Week 2: Workflow",
     "section": "Quick Peek",
-    "text": "Quick Peek\nWhat is Quarto?\n\nan open-source scientific and technical publishing system\ncreate dynamic content with Python, R, Julia, and Observable.\npublish reproducible, production quality articles, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, etc.\ninclude equations, citations, crossrefs, figure panels, callouts, advanced layout, etc.\na multi-language, next generation version of R Markdown (from Posit)\nincludes many built in output formats (and options for customizing each)\nhas native features for special project types like Websites, Books, and Blogs (rather than relying on external packages)"
+    "text": "Quick Peek\nWhat is Quarto?\n\n\nan open-source scientific and technical publishing system\ncreate dynamic content with Python, R, Julia, and Observable.\npublish reproducible, production quality articles, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, etc.\ninclude equations, citations, crossrefs, figure panels, callouts, advanced layout, etc.\na multi-language, next generation version of R Markdown (from Posit)\nincludes many built in output formats (and options for customizing each)\nhas native features for special project types like Websites, Books, and Blogs (rather than relying on external packages)"
   },
   {
     "objectID": "slides/w2_workflow.html#why-quarto",
     "href": "slides/w2_workflow.html#why-quarto",
     "title": "Week 2: Workflow",
     "section": "Why Quarto?",
-    "text": "Why Quarto?\n\nReproducibility: reproducible workflow\n\nCode + output + prose together\nSyntax highlighting FTW!\nFamiliar-feeling authoring with the visual editor without having to learn a bunch of new markdown syntax\n\nEfficiency: consistent formatting\nExtendability: Use with Python, and Julia, and Observable, and more"
+    "text": "Why Quarto?\n\n\nReproducibility: reproducible workflow\n\nCode + output + prose together\nSyntax highlighting FTW!\nFamiliar-feeling authoring with the visual editor without having to learn a bunch of new markdown syntax\n\nEfficiency: consistent formatting\nExtendability: Use with Python, and Julia, and Observable, and more"
   },
   {
     "objectID": "slides/w2_workflow.html#qmd",
     "href": "slides/w2_workflow.html#qmd",
     "title": "Week 2: Workflow",
     "section": ".qmd",
-    "text": ".qmd\n.qmd is a document format file that combines code AND prose\n\nFile &gt; New File &gt; Quarto document…\n\n\nCode goes into “code chunks”\n\n```{r}\n#| eval: false\n# comment\n\ndata |&gt; \n  select(id, read, math)\n```\n\n\n\nProse goes outside the code chunks\n\n\ndemo"
+    "text": ".qmd\n.qmd is a document format file that combines code AND prose\n\nFile &gt; New File &gt; Quarto document…\n\n. . .\nCode goes into “code chunks”\n\n```{r}\n#| eval: false\n# comment\n\ndata |&gt; \n  select(id, read, math)\n```\n\n. . .\nProse goes outside the code chunks\n. . .\ndemo"
   },
   {
     "objectID": "slides/w2_workflow.html#r-.qmd",
     "href": "slides/w2_workflow.html#r-.qmd",
     "title": "Week 2: Workflow",
     "section": ".R & .qmd",
-    "text": ".R & .qmd\n\nBoth are great\nServe different purposes\n\n\nOrganization tip\n\n.qmd with headers\n.R with # Header ----\n\ndemo"
+    "text": ".R & .qmd\n\nBoth are great\nServe different purposes\n\n. . .\nOrganization tip\n\n.qmd with headers\n.R with # Header ----\n\ndemo"
   },
   {
     "objectID": "slides/w2_workflow.html#packages-1",
     "href": "slides/w2_workflow.html#packages-1",
     "title": "Week 2: Workflow",
     "section": "Packages",
-    "text": "Packages\n\nFirst the package must be installed on your machine\ninstall.packages(“package_name”)\n\n\n\nyou will only need to do this the first time you want to use the package\nnever keep this code line (just run it in the console!)\nnotices the quotes around the package name\nnever keep this code line\n\n\n\nAny time you want to use a package it should be loaded\nlibrary(package_name)\n\n\n\nyou will do this each time you use the package in your scripts\nnotices no quotes around the package name"
+    "text": "Packages\n. . .\nFirst the package must be installed on your machine\ninstall.packages(“package_name”)\n. . .\n\nyou will only need to do this the first time you want to use the package\nnever keep this code line (just run it in the console!)\nnotices the quotes around the package name\nnever keep this code line\n\n. . .\nAny time you want to use a package it should be loaded\nlibrary(package_name)\n. . .\n\nyou will do this each time you use the package in your scripts\nnotices no quotes around the package name"
   },
   {
     "objectID": "slides/w2_workflow.html#janitor",
     "href": "slides/w2_workflow.html#janitor",
     "title": "Week 2: Workflow",
     "section": "{janitor} ",
-    "text": "{janitor} \nA fantastic package!\n\nremove_empty_rows()\nremove_empty_cols()\nexcel_numeric_to_date()\n\nchanges numeric dates imported from Excel to actual dates\n\ntabyl()\n\nfrequency table with n and %\n\n\n\n\nclean_names()\n\nstyles column names (NOT data itself) with “snake_case”\n\nlower case and underscore between words\n\ncan choose a different “*_case”"
+    "text": "{janitor} \nA fantastic package!\n\nremove_empty_rows()\nremove_empty_cols()\nexcel_numeric_to_date()\n\nchanges numeric dates imported from Excel to actual dates\n\ntabyl()\n\nfrequency table with n and %\n\n\n. . .\n\nclean_names()\n\nstyles column names (NOT data itself) with “snake_case”\n\nlower case and underscore between words\n\ncan choose a different “*_case”"
   },
   {
     "objectID": "slides/w2_workflow.html#new-script",
@@ -1124,7 +1124,7 @@
     "href": "slides/w2_workflow.html#what-do-our-data-look-like",
     "title": "Week 2: Workflow",
     "section": "What do our data look like?",
-    "text": "What do our data look like?\n\npenguins\n\n# A tibble: 344 × 8\n   Species Island    `Bill Length (mm)` `Bill Depth (mm)` `Flipper Length (mm)`\n   &lt;chr&gt;   &lt;chr&gt;                  &lt;dbl&gt;             &lt;dbl&gt;                 &lt;dbl&gt;\n 1 Adelie  Torgersen               39.1              18.7                   181\n 2 Adelie  Torgersen               39.5              17.4                   186\n 3 Adelie  Torgersen               40.3              18                     195\n 4 Adelie  Torgersen               NA                NA                      NA\n 5 Adelie  Torgersen               36.7              19.3                   193\n 6 Adelie  Torgersen               39.3              20.6                   190\n 7 Adelie  Torgersen               38.9              17.8                   181\n 8 Adelie  Torgersen               39.2              19.6                   195\n 9 Adelie  Torgersen               34.1              18.1                   193\n10 Adelie  Torgersen               42                20.2                   190\n# ℹ 334 more rows\n# ℹ 3 more variables: `Body Mass (g)` &lt;dbl&gt;, Sex &lt;chr&gt;, Year &lt;dbl&gt;\n\n\n\nOr use View() to take a look at the full data in RStudio\n\nView(penguins)\n\nor click on the object name in your RStudio Environment"
+    "text": "What do our data look like?\n\npenguins\n\n# A tibble: 344 × 8\n   Species Island    `Bill Length (mm)` `Bill Depth (mm)` `Flipper Length (mm)`\n   &lt;chr&gt;   &lt;chr&gt;                  &lt;dbl&gt;             &lt;dbl&gt;                 &lt;dbl&gt;\n 1 Adelie  Torgersen               39.1              18.7                   181\n 2 Adelie  Torgersen               39.5              17.4                   186\n 3 Adelie  Torgersen               40.3              18                     195\n 4 Adelie  Torgersen               NA                NA                      NA\n 5 Adelie  Torgersen               36.7              19.3                   193\n 6 Adelie  Torgersen               39.3              20.6                   190\n 7 Adelie  Torgersen               38.9              17.8                   181\n 8 Adelie  Torgersen               39.2              19.6                   195\n 9 Adelie  Torgersen               34.1              18.1                   193\n10 Adelie  Torgersen               42                20.2                   190\n# ℹ 334 more rows\n# ℹ 3 more variables: `Body Mass (g)` &lt;dbl&gt;, Sex &lt;chr&gt;, Year &lt;dbl&gt;\n\n\n. . .\nOr use View() to take a look at the full data in RStudio\n\nView(penguins)\n\nor click on the object name in your RStudio Environment"
   },
   {
     "objectID": "slides/w2_workflow.html#janitorclean_names",
@@ -1138,21 +1138,21 @@
     "href": "slides/w2_workflow.html#looking-at-the-data-structure",
     "title": "Week 2: Workflow",
     "section": "Looking at the data structure",
-    "text": "Looking at the data structure\nstructure\n\nstr(penguins)\n\nspc_tbl_ [344 × 8] (S3: spec_tbl_df/tbl_df/tbl/data.frame)\n $ species          : chr [1:344] \"Adelie\" \"Adelie\" \"Adelie\" \"Adelie\" ...\n $ island           : chr [1:344] \"Torgersen\" \"Torgersen\" \"Torgersen\" \"Torgersen\" ...\n $ bill_length_mm   : num [1:344] 39.1 39.5 40.3 NA 36.7 39.3 38.9 39.2 34.1 42 ...\n $ bill_depth_mm    : num [1:344] 18.7 17.4 18 NA 19.3 20.6 17.8 19.6 18.1 20.2 ...\n $ flipper_length_mm: num [1:344] 181 186 195 NA 193 190 181 195 193 190 ...\n $ body_mass_g      : num [1:344] 3750 3800 3250 NA 3450 ...\n $ sex              : chr [1:344] \"male\" \"female\" \"female\" NA ...\n $ year             : num [1:344] 2007 2007 2007 2007 2007 ...\n - attr(*, \"spec\")=\n  .. cols(\n  ..   Species = col_character(),\n  ..   Island = col_character(),\n  ..   `Bill Length (mm)` = col_double(),\n  ..   `Bill Depth (mm)` = col_double(),\n  ..   `Flipper Length (mm)` = col_double(),\n  ..   `Body Mass (g)` = col_double(),\n  ..   Sex = col_character(),\n  ..   Year = col_double()\n  .. )\n - attr(*, \"problems\")=&lt;pointer: 0x000001bcd0ff5bf0&gt;"
+    "text": "Looking at the data structure\nstructure\n\nstr(penguins)\n\nspc_tbl_ [344 × 8] (S3: spec_tbl_df/tbl_df/tbl/data.frame)\n $ species          : chr [1:344] \"Adelie\" \"Adelie\" \"Adelie\" \"Adelie\" ...\n $ island           : chr [1:344] \"Torgersen\" \"Torgersen\" \"Torgersen\" \"Torgersen\" ...\n $ bill_length_mm   : num [1:344] 39.1 39.5 40.3 NA 36.7 39.3 38.9 39.2 34.1 42 ...\n $ bill_depth_mm    : num [1:344] 18.7 17.4 18 NA 19.3 20.6 17.8 19.6 18.1 20.2 ...\n $ flipper_length_mm: num [1:344] 181 186 195 NA 193 190 181 195 193 190 ...\n $ body_mass_g      : num [1:344] 3750 3800 3250 NA 3450 ...\n $ sex              : chr [1:344] \"male\" \"female\" \"female\" NA ...\n $ year             : num [1:344] 2007 2007 2007 2007 2007 ...\n - attr(*, \"spec\")=\n  .. cols(\n  ..   Species = col_character(),\n  ..   Island = col_character(),\n  ..   `Bill Length (mm)` = col_double(),\n  ..   `Bill Depth (mm)` = col_double(),\n  ..   `Flipper Length (mm)` = col_double(),\n  ..   `Body Mass (g)` = col_double(),\n  ..   Sex = col_character(),\n  ..   Year = col_double()\n  .. )\n - attr(*, \"problems\")=&lt;pointer: 0x000001eff77f5d20&gt;"
   },
   {
     "objectID": "slides/w2_workflow.html#looking-at-the-data-properties",
     "href": "slides/w2_workflow.html#looking-at-the-data-properties",
     "title": "Week 2: Workflow",
     "section": "Looking at the data properties",
-    "text": "Looking at the data properties\ndimensions (rows \\(\\times\\) columns)\n\ndim(penguins)\n\n[1] 344   8\n\n\n\nnumber of rows or number of columns\n\nnrow(penguins)\n\n[1] 344\n\nncol(penguins)\n\n[1] 8"
+    "text": "Looking at the data properties\ndimensions (rows \\(\\times\\) columns)\n\ndim(penguins)\n\n[1] 344   8\n\n\n. . .\nnumber of rows or number of columns\n\nnrow(penguins)\n\n[1] 344\n\nncol(penguins)\n\n[1] 8"
   },
   {
     "objectID": "slides/w2_workflow.html#head",
     "href": "slides/w2_workflow.html#head",
     "title": "Week 2: Workflow",
     "section": "head()",
-    "text": "head()\nView the six first elements\n\n# first six rows\nhead(penguins)\n\n# A tibble: 6 × 8\n  species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n  &lt;chr&gt;   &lt;chr&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;dbl&gt;\n1 Adelie  Torgersen           39.1          18.7               181        3750\n2 Adelie  Torgersen           39.5          17.4               186        3800\n3 Adelie  Torgersen           40.3          18                 195        3250\n4 Adelie  Torgersen           NA            NA                  NA          NA\n5 Adelie  Torgersen           36.7          19.3               193        3450\n6 Adelie  Torgersen           39.3          20.6               190        3650\n# ℹ 2 more variables: sex &lt;chr&gt;, year &lt;dbl&gt;\n\n\n\n\n\n# first six elements of the column\nhead(penguins$flipper_length_mm)\n\n[1] 181 186 195  NA 193 190"
+    "text": "head()\nView the six first elements\n\n# first six rows\nhead(penguins)\n\n# A tibble: 6 × 8\n  species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n  &lt;chr&gt;   &lt;chr&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;dbl&gt;\n1 Adelie  Torgersen           39.1          18.7               181        3750\n2 Adelie  Torgersen           39.5          17.4               186        3800\n3 Adelie  Torgersen           40.3          18                 195        3250\n4 Adelie  Torgersen           NA            NA                  NA          NA\n5 Adelie  Torgersen           36.7          19.3               193        3450\n6 Adelie  Torgersen           39.3          20.6               190        3650\n# ℹ 2 more variables: sex &lt;chr&gt;, year &lt;dbl&gt;\n\n\n. . .\n\n\n# first six elements of the column\nhead(penguins$flipper_length_mm)\n\n[1] 181 186 195  NA 193 190"
   },
   {
     "objectID": "slides/w2_workflow.html#another-cool-package-skimr",
@@ -1173,28 +1173,28 @@
     "href": "slides/w2_workflow.html#the-pipe-operator-1",
     "title": "Week 2: Workflow",
     "section": "The pipe operator (|>)",
-    "text": "The pipe operator (|&gt;)\n\nGet a frequency count\n\n\n\n\nWith the {tidyverse}\n\npenguins |&gt; \n  count(species)\n\n# A tibble: 3 × 2\n  species       n\n  &lt;chr&gt;     &lt;int&gt;\n1 Adelie      152\n2 Chinstrap    68\n3 Gentoo      124\n\n\n\nOr with {janitor}\n\npenguins |&gt; \n  tabyl(species)\n\n   species   n   percent\n    Adelie 152 0.4418605\n Chinstrap  68 0.1976744\n    Gentoo 124 0.3604651\n\n\n\n\n\nLet’s look at ?count and ?tabyl\ndemo"
+    "text": "The pipe operator (|&gt;)\n\nGet a frequency count\n\n. . .\n\n\nWith the {tidyverse}\n\npenguins |&gt; \n  count(species)\n\n# A tibble: 3 × 2\n  species       n\n  &lt;chr&gt;     &lt;int&gt;\n1 Adelie      152\n2 Chinstrap    68\n3 Gentoo      124\n\n\n\nOr with {janitor}\n\npenguins |&gt; \n  tabyl(species)\n\n   species   n   percent\n    Adelie 152 0.4418605\n Chinstrap  68 0.1976744\n    Gentoo 124 0.3604651\n\n\n\n\n. . .\nLet’s look at ?count and ?tabyl\ndemo"
   },
   {
     "objectID": "slides/w2_workflow.html#why-use",
     "href": "slides/w2_workflow.html#why-use",
     "title": "Week 2: Workflow",
     "section": "Why use |>",
-    "text": "Why use |&gt;\nChaining arguments is efficient and easy to read\n\n\npenguins |&gt; \n  filter(species == \"Adelie\",\n         bill_length_mm &gt; 40) |&gt; \n  select(island, bill_length_mm, body_mass_g) |&gt; \n  arrange(bill_length_mm) \n\n# A tibble: 51 × 3\n   island    bill_length_mm body_mass_g\n   &lt;chr&gt;              &lt;dbl&gt;       &lt;dbl&gt;\n 1 Biscoe              40.1        4300\n 2 Torgersen           40.2        3450\n 3 Dream               40.2        3975\n 4 Dream               40.2        3400\n 5 Torgersen           40.3        3250\n 6 Dream               40.3        4350\n 7 Biscoe              40.5        3200\n 8 Biscoe              40.5        3950\n 9 Biscoe              40.6        3550\n10 Biscoe              40.6        3800\n# ℹ 41 more rows"
+    "text": "Why use |&gt;\nChaining arguments is efficient and easy to read\n. . .\n\npenguins |&gt; \n  filter(species == \"Adelie\",\n         bill_length_mm &gt; 40) |&gt; \n  select(island, bill_length_mm, body_mass_g) |&gt; \n  arrange(bill_length_mm) \n\n# A tibble: 51 × 3\n   island    bill_length_mm body_mass_g\n   &lt;chr&gt;              &lt;dbl&gt;       &lt;dbl&gt;\n 1 Biscoe              40.1        4300\n 2 Torgersen           40.2        3450\n 3 Dream               40.2        3975\n 4 Dream               40.2        3400\n 5 Torgersen           40.3        3250\n 6 Dream               40.3        4350\n 7 Biscoe              40.5        3200\n 8 Biscoe              40.5        3950\n 9 Biscoe              40.6        3550\n10 Biscoe              40.6        3800\n# ℹ 41 more rows"
   },
   {
     "objectID": "slides/w2_workflow.html#why-use-1",
     "href": "slides/w2_workflow.html#why-use-1",
     "title": "Week 2: Workflow",
     "section": "Why use |>",
-    "text": "Why use |&gt;\nChaining arguments is efficient and easy to read\n\npenguins |&gt; \n  filter(species == \"Adelie\",\n         bill_length_mm &gt; 40) |&gt;\n  select(island, bill_length_mm, body_mass_g) |&gt; \n  arrange(bill_length_mm) \n\n\nEquivalent to:\n\narrange(select(filter(penguins, species == \"Adelie\", bill_length_mm &gt; 40), island, bill_length_mm, body_mass_g), bill_length_mm)"
+    "text": "Why use |&gt;\nChaining arguments is efficient and easy to read\n\npenguins |&gt; \n  filter(species == \"Adelie\",\n         bill_length_mm &gt; 40) |&gt;\n  select(island, bill_length_mm, body_mass_g) |&gt; \n  arrange(bill_length_mm) \n\n. . .\nEquivalent to:\n\narrange(select(filter(penguins, species == \"Adelie\", bill_length_mm &gt; 40), island, bill_length_mm, body_mass_g), bill_length_mm)"
   },
   {
     "objectID": "slides/w2_workflow.html#section-2",
     "href": "slides/w2_workflow.html#section-2",
     "title": "Week 2: Workflow",
     "section": "|>",
-    "text": "|&gt;\nThe |&gt; works so well in the {tidyverse} because the first argument in (nearly) all functions is the dataframe (tibble)\n\nSo you don’t need to name the data each time\n\n\n\nSo this:\n\npenguins |&gt; \n  count(sex)\n\n# A tibble: 3 × 2\n  sex        n\n  &lt;chr&gt;  &lt;int&gt;\n1 female   165\n2 male     168\n3 &lt;NA&gt;      11\n\n\n\nIs equivalent to this:\n\ncount(penguins, sex)\n\n# A tibble: 3 × 2\n  sex        n\n  &lt;chr&gt;  &lt;int&gt;\n1 female   165\n2 male     168\n3 &lt;NA&gt;      11"
+    "text": "|&gt;\nThe |&gt; works so well in the {tidyverse} because the first argument in (nearly) all functions is the dataframe (tibble)\n\nSo you don’t need to name the data each time\n. . .\n\n\nSo this:\n\npenguins |&gt; \n  count(sex)\n\n# A tibble: 3 × 2\n  sex        n\n  &lt;chr&gt;  &lt;int&gt;\n1 female   165\n2 male     168\n3 &lt;NA&gt;      11\n\n\n\nIs equivalent to this:\n\ncount(penguins, sex)\n\n# A tibble: 3 × 2\n  sex        n\n  &lt;chr&gt;  &lt;int&gt;\n1 female   165\n2 male     168\n3 &lt;NA&gt;      11"
   },
   {
     "objectID": "slides/w2_workflow.html#homework-notes",
@@ -1215,7 +1215,7 @@
     "href": "slides/w2_workflow.html#ill-say-it-again",
     "title": "Week 2: Workflow",
     "section": "I’ll say it again",
-    "text": "I’ll say it again\nIf you are reading in data and seeing only numbers (0 and 1) where you might want labels (no and yes)\n\nrio::characterize()\n\nconverts a single variable or all variables in the data that have label attributes into character vectors\n\nrio::factorize()\n\ndoes the same but returns factor variables\n\n\n\nThis is very important for several of your homeworks!"
+    "text": "I’ll say it again\nIf you are reading in data and seeing only numbers (0 and 1) where you might want labels (no and yes)\n\nrio::characterize()\n\nconverts a single variable or all variables in the data that have label attributes into character vectors\n\nrio::factorize()\n\ndoes the same but returns factor variables\n\n\n. . .\nThis is very important for several of your homeworks!"
   },
   {
     "objectID": "assignments.html",
@@ -1251,5 +1251,12 @@
     "title": "Homework 1",
     "section": "",
     "text": "Create a RStudio Project on your machine.\n\nWithin the Project create a folder for data and scripts.\nDownload the following two datasets into the project data folder.\n\nsesame13.sav\nstar.csv\n\nSave your hw1.qmd file in your scripts folder\n\n\n\nLoading Packages\nThe code chunk below loads the {tidyverse} package. Please also load {here}, {rio}, and {janitor}. If you get errors, you probably don’t have one of the packages installed yet, so run install.packages(\"package_name\") in the console first.\n\nlibrary(tidyverse)\n\nNote that you should get some messages printed out below that state all the packages that have been loaded. This is important to pay attention to. It says that both {ggplot2} and {dplyr} have been loaded, so you don’t need explicit calls to those packages.\n\n\nRead in the data\nUse the code chunk below to:\n\nRead in sesame13.sav using {here} and {rio}\nRead in star.csv using {here} and {readr}\nApply the clean_names() function to both\nSave each dataset as a separate object\n\n\n\n{ggplot2} Peek\nMany packages also include data. We’ll focus here on the mpg dataset, which comes from {ggplot2}. Run the following code to produce a scatterplot\n\nggplot(mpg, aes(x = displ, y = hwy)) +\n  geom_point()\n\n\n\n\n\n\n\n\n\n\nHelp documentation\nLook at the help documentation for geom_point(). Use the help documentation to change the color of the points to “gray70”. Start getting in the habit of running code within a code chunk rather than in the text/prose areas.\nIn the code chunk below create a second scatterplot with the mpg dataset, this time with the number of cylinders displayed on the x-axis and the city miles per gallon on the y-axis. Also change the color of the points to “gray70”.\n\n\nInspecting Data\nThe diamonds dataset is also included with ggplot2. The code below will show the first six rows of the dataset.\n\nhead(diamonds)\n\n# A tibble: 6 × 10\n  carat cut       color clarity depth table price     x     y     z\n  &lt;dbl&gt; &lt;ord&gt;     &lt;ord&gt; &lt;ord&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1  0.23 Ideal     E     SI2      61.5    55   326  3.95  3.98  2.43\n2  0.21 Premium   E     SI1      59.8    61   326  3.89  3.84  2.31\n3  0.23 Good      E     VS1      56.9    65   327  4.05  4.07  2.31\n4  0.29 Premium   I     VS2      62.4    58   334  4.2   4.23  2.63\n5  0.31 Good      J     SI2      63.3    58   335  4.34  4.35  2.75\n6  0.24 Very Good J     VVS2     62.8    57   336  3.94  3.96  2.48\n\n\nLook at the help documentation and then use the code below to change the number of rows shown to 15.\n\nhead(diamonds, )\n\n# A tibble: 6 × 10\n  carat cut       color clarity depth table price     x     y     z\n  &lt;dbl&gt; &lt;ord&gt;     &lt;ord&gt; &lt;ord&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1  0.23 Ideal     E     SI2      61.5    55   326  3.95  3.98  2.43\n2  0.21 Premium   E     SI1      59.8    61   326  3.89  3.84  2.31\n3  0.23 Good      E     VS1      56.9    65   327  4.05  4.07  2.31\n4  0.29 Premium   I     VS2      62.4    58   334  4.2   4.23  2.63\n5  0.31 Good      J     SI2      63.3    58   335  4.34  4.35  2.75\n6  0.24 Very Good J     VVS2     62.8    57   336  3.94  3.96  2.48\n\n\nCall a similar function that shows the last six rows of the dataset. (Note you may need to look at the same help documentation.)\nUse any function you want to determine the dimensions of the dataset - i.e., the number of rows and columns.\nUse the pipe operator, %&gt;%, along with the count() function, to count the rows of each diamond color.\nWrite the same code as above, but this time use count() without the pipe operator\nBe sure to add your name to the top of the document (line 2, in the YAML).\nClick the Render button near the top, and turn in both the quarto document and the output (.html file) to Canvas."
+  },
+  {
+    "objectID": "slides/w2_workflow.html",
+    "href": "slides/w2_workflow.html",
+    "title": "Week 2: Workflow",
+    "section": "",
+    "text": "Let’s give Emmanual a hex sticker!"
   }
 ]

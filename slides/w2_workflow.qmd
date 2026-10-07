@@ -291,7 +291,7 @@ We'll be talking about two data reading packages
 
 Think of `here()` simply as a function to print a path name
 
-A [path]{style="color:#D55E00"} can be the [lcoation]{style="color:#D55E00"} of your data
+A [path]{style="color:#D55E00"} can be the [location]{style="color:#D55E00"} of your data
 
 ::: aside
 Art: [Allison Horst](https://www.allisonhorst.com/)
@@ -543,6 +543,7 @@ Again, `import()` "just works"
 ## Maintaining data "labels" {.smaller}
 
 [Question: How many of you or your colleagues use SPSS or Stata?]{style="color:#0072B2"}
+
 [and/or: How many of you use Qualtrics?]]{style="color:#0072B2"}
 
 . . .
