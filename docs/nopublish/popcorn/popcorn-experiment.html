@@ -2,19 +2,25 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Joe Nese and EDLD 651">
-<meta name="dcterms.date" content="2025-10-01">
+<meta name="author" content="Joe Nese and EDST 676">
+<meta name="dcterms.date" content="2026-09-30">
 
-<title>The Great Popcorn Experiment!</title>
+<title>The Great Popcorn Experiment! – EDST 676</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -61,7 +67,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
-  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -80,41 +85,94 @@ div.csl-indent {
 }</style>
 
 
-<script src="popcorn-experiment_files/libs/clipboard/clipboard.min.js"></script>
-<script src="popcorn-experiment_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="popcorn-experiment_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="popcorn-experiment_files/libs/quarto-html/popper.min.js"></script>
-<script src="popcorn-experiment_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="popcorn-experiment_files/libs/quarto-html/anchor.min.js"></script>
-<link href="popcorn-experiment_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="popcorn-experiment_files/libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="popcorn-experiment_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="popcorn-experiment_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="popcorn-experiment_files/libs/bootstrap/bootstrap-bb462d781dde1847d9e3ccf7736099dd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="popcorn-experiment_files/libs/core-js-2.5.3/shim.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-0ec71605de49cd02c38e5c583dda22b1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script src="../../site_libs/core-js-2.5.3/shim.min.js"></script>
 
-<script src="popcorn-experiment_files/libs/react-18.2.0/react.min.js"></script>
+<script src="../../site_libs/react-18.2.0/react.min.js"></script>
 
-<script src="popcorn-experiment_files/libs/react-18.2.0/react-dom.min.js"></script>
+<script src="../../site_libs/react-18.2.0/react-dom.min.js"></script>
 
-<script src="popcorn-experiment_files/libs/reactwidget-2.0.0/react-tools.js"></script>
+<script src="../../site_libs/reactwidget-2.0.0/react-tools.js"></script>
 
-<link href="popcorn-experiment_files/libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+<link href="../../site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
 
-<script src="popcorn-experiment_files/libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="../../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
 
-<link href="popcorn-experiment_files/libs/reactable-0.4.4/reactable.css" rel="stylesheet">
+<link href="../../site_libs/reactable-0.4.5/reactable.css" rel="stylesheet">
 
-<script src="popcorn-experiment_files/libs/reactable-binding-0.4.4/reactable.js"></script>
+<script src="../../site_libs/reactable-binding-0.4.5/reactable.js"></script>
 
 
 
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="fullcontent quarto-light">
+<body class="quarto-light">
 
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
-
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#method" id="toc-method" class="nav-link" data-scroll-target="#method">Method</a>
+  <ul class="collapse">
+  <li><a href="#research-question" id="toc-research-question" class="nav-link" data-scroll-target="#research-question">Research Question</a></li>
+  </ul></li>
+  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
+  <li><a href="#discussion" id="toc-discussion" class="nav-link" data-scroll-target="#discussion">Discussion</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -129,14 +187,14 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Joe Nese and EDLD 651 </p>
+             <p>Joe Nese and EDST 676 </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 1, 2025</p>
+      <p class="date">September 30, 2026</p>
     </div>
   </div>
   
@@ -151,7 +209,7 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(here)</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggthemes)</span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggrepel)</span>
@@ -159,7 +217,7 @@ div.csl-indent {
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(parameters)</span>
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">theme_set</span>(<span class="fu">theme_minimal</span>(<span class="at">base_size =</span> <span class="dv">18</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">theme_set</span>(<span class="fu">theme_minimal</span>(<span class="at">base_size =</span> <span class="dv">18</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div>
 <section id="introduction" class="level1">
@@ -168,7 +226,7 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>truth <span class="ot">&lt;-</span> <span class="dv">5402</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>truth <span class="ot">&lt;-</span> <span class="dv">5402</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>dta <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="fu">here</span>(<span class="st">"nopublish"</span>, <span class="st">"popcorn"</span>, <span class="st">"popcorn_data.csv"</span>)) <span class="sc">%&gt;%</span> </span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">id =</span> <span class="fu">ifelse</span>(uo_id <span class="sc">%%</span> <span class="dv">2</span> <span class="sc">==</span> <span class="dv">0</span>, <span class="st">"even"</span>, <span class="st">"odd"</span>),</span>
@@ -180,7 +238,7 @@ div.csl-indent {
 <span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>answ <span class="ot">&lt;-</span> <span class="fu">tibble</span>(</span>
 <span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  <span class="at">name =</span> <span class="fu">c</span>(<span class="st">"Class Mean"</span>, <span class="st">"Truth"</span>),</span>
 <span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">value =</span> <span class="fu">c</span>(<span class="fu">round</span>(<span class="fu">mean</span>(dta<span class="sc">$</span>guess, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)), truth)</span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div>
 </section>
@@ -201,7 +259,7 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(guess)) <span class="sc">+</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_density</span>() <span class="sc">+</span></span>
 <span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_vline</span>(<span class="at">xintercept =</span> truth, <span class="at">color =</span> <span class="st">"magenta"</span>, <span class="at">size =</span> <span class="dv">2</span>) <span class="sc">+</span></span>
@@ -214,7 +272,7 @@ div.csl-indent {
 <span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="cn">NULL</span>,</span>
 <span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Class Guesses"</span>,</span>
 <span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">subtitle =</span> <span class="st">"Density Plot"</span></span>
-<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  )</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  )</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -228,20 +286,20 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(first, guess) <span class="sc">%&gt;%</span> </span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">reactable</span>(<span class="at">filterable =</span> <span class="cn">TRUE</span>, <span class="at">searchable =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">reactable</span>(<span class="at">filterable =</span> <span class="cn">TRUE</span>, <span class="at">searchable =</span> <span class="cn">TRUE</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
-<div class="reactable html-widget html-fill-item" id="htmlwidget-8a7a8dd309234219d494" style="width:auto;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-8a7a8dd309234219d494">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"first":["Dodjivi","Kyla","Erika","Sophie","Emily","Febe","Everett","Steven","Ohnmar","James","Ramtin","Maritza","Chen","Kat","Xinyu","Cheyna"],"guess":[12000,8000,1400,8244,8500,10000,4000,8192,2000,4537,2500,1100,5800,600,5555,10000]},"columns":[{"id":"first","name":"first","type":"character"},{"id":"guess","name":"guess","type":"numeric"}],"filterable":true,"searchable":true,"dataKey":"20cff4254a75f4cc7d5faaa3a1e2fda4"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+<div class="reactable html-widget html-fill-item" id="htmlwidget-b0316c9f6e8146556600" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-b0316c9f6e8146556600">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"first":["Michelle","Emmanuel","Ziyuan","Olivia","Andre","Sijie","Jiawen","Liqing"],"guess":[320,4025,415,200,365,3677,600,10000]},"columns":[{"id":"first","name":"first","type":"character"},{"id":"guess","name":"guess","type":"numeric"}],"filterable":true,"searchable":true,"dataKey":"397caa355167f9732789e0031a4df48a"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 <p>Here is another cool data visualization.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(guess, <span class="fu">reorder</span>(first, guess), <span class="at">group =</span> <span class="dv">1</span>)) <span class="sc">+</span></span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">size =</span> <span class="fl">2.5</span>) <span class="sc">+</span></span>
 <span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_segment</span>(<span class="fu">aes</span>(<span class="at">x =</span> <span class="dv">0</span>, <span class="at">xend =</span> guess, <span class="at">y =</span> first, <span class="at">yend =</span> first), <span class="at">color =</span> <span class="st">"cornflowerblue"</span>) <span class="sc">+</span></span>
@@ -253,7 +311,7 @@ div.csl-indent {
 <span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="st">"Class Guesses"</span>,</span>
 <span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="cn">NULL</span>,</span>
 <span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"A Cool Figure"</span></span>
-<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>  )</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>  )</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -267,7 +325,7 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>dta <span class="sc">%&gt;%</span> </span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(dist, <span class="fu">reorder</span>(first, dist))) <span class="sc">+</span></span>
 <span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>(<span class="fu">aes</span>(<span class="at">fill =</span> <span class="fu">ifelse</span>(dist <span class="sc">&gt;</span> <span class="dv">0</span>, <span class="st">"plus"</span>, <span class="st">"minus"</span>))) <span class="sc">+</span></span>
 <span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_vline</span>(<span class="at">xintercept =</span> <span class="dv">0</span>, <span class="at">color =</span> <span class="st">"magenta"</span>, <span class="at">size =</span> .<span class="dv">5</span>) <span class="sc">+</span></span>
@@ -282,7 +340,7 @@ div.csl-indent {
 <span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="st">"Guesses Distance from Truth"</span>,</span>
 <span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="cn">NULL</span>,</span>
 <span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Distance from Truth"</span></span>
-<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>  )</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>  )</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -294,20 +352,20 @@ div.csl-indent {
 </div>
 <p>Now let’s get to the results…</p>
 <p>The actual number of popcorn kernels in the jar was <strong>5,402</strong>.</p>
-<p>The person closest to the truth was <strong>Xinyu</strong> with a guess of <strong>5,555</strong> kernels - off by 153 kernels!</p>
-<p>The class mean was <strong>5,777</strong> (<em>SD</em> = 3,617) - off by 375 kernels.</p>
+<p>The person closest to the truth was <strong>Emmanuel</strong> with a guess of <strong>4,025</strong> kernels - off by 1377 kernels!</p>
+<p>The class mean was <strong>2,450</strong> (<em>SD</em> = 3,433) - off by 2952 kernels.</p>
 <p>So to answer our research question…</p>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span>(<span class="fu">abs</span>(<span class="fu">mean</span>(dta<span class="sc">$</span>guess, <span class="at">na.rm =</span> <span class="cn">TRUE</span>) <span class="sc">-</span> truth) <span class="sc">&lt;</span> <span class="fu">abs</span>(<span class="fu">slice</span>(dta, <span class="fu">which.min</span>(<span class="fu">abs</span>(dist))) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(guess) <span class="sc">-</span> truth)) {</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span>(<span class="fu">abs</span>(<span class="fu">mean</span>(dta<span class="sc">$</span>guess, <span class="at">na.rm =</span> <span class="cn">TRUE</span>) <span class="sc">-</span> truth) <span class="sc">&lt;</span> <span class="fu">abs</span>(<span class="fu">slice</span>(dta, <span class="fu">which.min</span>(<span class="fu">abs</span>(dist))) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(guess) <span class="sc">-</span> truth)) {</span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>   <span class="fu">cat</span>(<span class="st">"Hypothosis confirmed! The class average was more accurate than any one person!"</span>)</span>
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> <span class="cf">if</span> (<span class="fu">abs</span>(<span class="fu">mean</span>(dta<span class="sc">$</span>guess, <span class="at">na.rm =</span> <span class="cn">TRUE</span>) <span class="sc">-</span> truth) <span class="sc">&gt;</span> <span class="fu">abs</span>(<span class="fu">slice</span>(dta, <span class="fu">which.min</span>(<span class="fu">abs</span>(dist))) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(guess) <span class="sc">-</span> truth)) {</span>
 <span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>   <span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">"**Hypthosis rejected! "</span>, <span class="fu">slice</span>(dta, <span class="fu">which.min</span>(<span class="fu">abs</span>(dist))) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(first), <span class="st">"'s guess was closer than the class average! Replication crisis?**"</span>)) </span>
 <span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> <span class="cf">if</span> (<span class="fu">abs</span>(<span class="fu">mean</span>(dta<span class="sc">$</span>guess, <span class="at">na.rm =</span> <span class="cn">TRUE</span>) <span class="sc">-</span> truth) <span class="sc">==</span> <span class="fu">abs</span>(<span class="fu">slice</span>(dta, <span class="fu">which.min</span>(<span class="fu">abs</span>(dist))) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(guess) <span class="sc">-</span> truth)) {</span>
 <span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">"What?! It was a tie! "</span>, <span class="fu">slice</span>(dta, <span class="fu">which.min</span>(<span class="fu">abs</span>(dist))) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(first), <span class="st">"'s guess was the same as the class average!"</span>))</span>
-<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
-<p><strong>Hypthosis rejected! Xinyu’s guess was closer than the class average! Replication crisis?</strong></p>
+<p><strong>Hypthosis rejected! Emmanuel’s guess was closer than the class average! Replication crisis?</strong></p>
 </section>
 <section id="discussion" class="level1">
 <h1>Discussion</h1>
@@ -315,7 +373,7 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>dta_smry <span class="ot">&lt;-</span> dta <span class="sc">%&gt;%</span> </span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>dta_smry <span class="ot">&lt;-</span> dta <span class="sc">%&gt;%</span> </span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(major) <span class="sc">%&gt;%</span> </span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">mean_guess =</span> <span class="fu">mean</span>(guess, <span class="at">na.rm =</span> <span class="cn">TRUE</span>))</span>
 <span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a></span>
@@ -331,7 +389,7 @@ div.csl-indent {
 <span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="st">"Major"</span>,</span>
 <span id="cb8-15"><a href="#cb8-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Guesses by Major"</span></span>
 <span id="cb8-16"><a href="#cb8-16" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
-<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.title.position =</span> <span class="st">"plot"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.title.position =</span> <span class="st">"plot"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -344,7 +402,7 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(dta, <span class="fu">aes</span>(guess, id, <span class="at">group =</span> id)) <span class="sc">+</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(dta, <span class="fu">aes</span>(guess, id, <span class="at">group =</span> id)) <span class="sc">+</span></span>
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>() <span class="sc">+</span></span>
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_summary</span>(<span class="at">fun =</span> <span class="st">"mean"</span>, </span>
 <span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>               <span class="at">geom =</span> <span class="st">"crossbar"</span>,</span>
@@ -356,7 +414,7 @@ div.csl-indent {
 <span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="st">"Kernel Guess"</span>,</span>
 <span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Guesses by UO ID"</span></span>
 <span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
-<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.title.position =</span> <span class="st">"plot"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.title.position =</span> <span class="st">"plot"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -370,9 +428,9 @@ div.csl-indent {
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>m1 <span class="ot">&lt;-</span> <span class="fu">lm</span>(dist <span class="sc">~</span> major <span class="sc">+</span> id, <span class="at">data =</span> dta)</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>m1 <span class="ot">&lt;-</span> <span class="fu">lm</span>(dist <span class="sc">~</span> major <span class="sc">+</span> id, <span class="at">data =</span> dta)</span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(m1)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(m1)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -380,34 +438,35 @@ Call:
 lm(formula = dist ~ major + id, data = dta)
 
 Residuals:
-   Min     1Q Median     3Q    Max 
- -4610  -2452      0   2463   4474 
+         1          2          3          4          5          6          7 
+ 1.137e-12 -7.717e+02  1.548e-13  1.833e-13 -4.432e+03  6.958e-14  8.379e-14 
+         8 
+ 5.203e+03 
 
-Coefficients:
+Coefficients: (1 not defined because of singularities)
             Estimate Std. Error t value Pr(&gt;|t|)
-(Intercept)    124.2     2507.9   0.050    0.962
-majorEPLD     -880.2     3838.1  -0.229    0.824
-majorMPA     -3984.6     5015.9  -0.794    0.450
-majorPRVD     -712.3     3354.9  -0.212    0.837
-majorPSY       483.3     3164.5   0.153    0.882
-majorSPED     4366.6     3772.9   1.157    0.281
-majorSPSY    -1984.6     5015.9  -0.396    0.703
-idodd          458.4     2441.1   0.188    0.856
+(Intercept)    -5082       4864  -1.045    0.406
+majorEPLD       -120       6878  -0.017    0.988
+majorPRVD        280       6878   0.041    0.971
+majorPS         3357       6878   0.488    0.674
+majorPSY          95       6878   0.014    0.990
+majorSPED       4477       5616   0.797    0.509
+idodd             NA         NA      NA       NA
 
-Residual standard error: 4109 on 8 degrees of freedom
-Multiple R-squared:  0.3118,    Adjusted R-squared:  -0.2904 
-F-statistic: 0.5177 on 7 and 8 DF,  p-value: 0.7996</code></pre>
+Residual standard error: 4864 on 2 degrees of freedom
+Multiple R-squared:  0.4265,    Adjusted R-squared:  -1.007 
+F-statistic: 0.2975 on 5 and 2 DF,  p-value: 0.8812</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="fu">model_parameters</span>(m1) <span class="sc">%&gt;%</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="fu">model_parameters</span>(m1) <span class="sc">%&gt;%</span></span>
 <span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">%&gt;%</span> </span>
 <span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">select</span>(<span class="sc">-</span><span class="fu">c</span>(CI, df_error, t)) <span class="sc">%&gt;%</span> </span>
 <span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="fu">across</span>(<span class="fu">c</span>(<span class="dv">2</span><span class="sc">:</span><span class="dv">5</span>), <span class="sc">~</span><span class="fu">round</span>(., <span class="dv">1</span>)),</span>
 <span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>         <span class="at">p =</span> <span class="fu">round</span>(p, <span class="dv">3</span>)) <span class="sc">%&gt;%</span> </span>
 <span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>(<span class="at">booktabs =</span> <span class="cn">TRUE</span>,</span>
 <span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a>        <span class="at">align =</span> <span class="fu">c</span>(<span class="st">"l"</span>, <span class="st">"r"</span>, <span class="st">"r"</span>, <span class="st">"r"</span>, <span class="st">"r"</span>, <span class="st">"r"</span>),</span>
-<span id="cb12-8"><a href="#cb12-8" aria-hidden="true" tabindex="-1"></a>        <span class="at">caption =</span> <span class="st">"These are the Regression Results"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb12-8"><a href="#cb12-8" aria-hidden="true" tabindex="-1"></a>        <span class="at">caption =</span> <span class="st">"These are the Regression Results"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <table class="caption-top table table-sm table-striped small">
@@ -425,67 +484,51 @@ F-statistic: 0.5177 on 7 and 8 DF,  p-value: 0.7996</code></pre>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">(Intercept)</td>
-<td style="text-align: right;">124.2</td>
-<td style="text-align: right;">2507.9</td>
-<td style="text-align: right;">-5659.1</td>
-<td style="text-align: right;">5907.5</td>
-<td style="text-align: right;">0.962</td>
+<td style="text-align: right;">-5082.0</td>
+<td style="text-align: right;">4863.6</td>
+<td style="text-align: right;">-26008.5</td>
+<td style="text-align: right;">15844.5</td>
+<td style="text-align: right;">0.406</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">majorEPLD</td>
-<td style="text-align: right;">-880.2</td>
-<td style="text-align: right;">3838.1</td>
-<td style="text-align: right;">-9731.0</td>
-<td style="text-align: right;">7970.6</td>
-<td style="text-align: right;">0.824</td>
+<td style="text-align: right;">-120.0</td>
+<td style="text-align: right;">6878.2</td>
+<td style="text-align: right;">-29714.6</td>
+<td style="text-align: right;">29474.6</td>
+<td style="text-align: right;">0.988</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">majorMPA</td>
-<td style="text-align: right;">-3984.6</td>
-<td style="text-align: right;">5015.9</td>
-<td style="text-align: right;">-15551.3</td>
-<td style="text-align: right;">7582.0</td>
-<td style="text-align: right;">0.450</td>
+<td style="text-align: left;">majorPRVD</td>
+<td style="text-align: right;">280.0</td>
+<td style="text-align: right;">6878.2</td>
+<td style="text-align: right;">-29314.6</td>
+<td style="text-align: right;">29874.6</td>
+<td style="text-align: right;">0.971</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">majorPRVD</td>
-<td style="text-align: right;">-712.3</td>
-<td style="text-align: right;">3354.9</td>
-<td style="text-align: right;">-8448.8</td>
-<td style="text-align: right;">7024.1</td>
-<td style="text-align: right;">0.837</td>
+<td style="text-align: left;">majorPS</td>
+<td style="text-align: right;">3357.0</td>
+<td style="text-align: right;">6878.2</td>
+<td style="text-align: right;">-26237.6</td>
+<td style="text-align: right;">32951.6</td>
+<td style="text-align: right;">0.674</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">majorPSY</td>
-<td style="text-align: right;">483.3</td>
-<td style="text-align: right;">3164.5</td>
-<td style="text-align: right;">-6814.0</td>
-<td style="text-align: right;">7780.7</td>
-<td style="text-align: right;">0.882</td>
+<td style="text-align: right;">95.0</td>
+<td style="text-align: right;">6878.2</td>
+<td style="text-align: right;">-29499.6</td>
+<td style="text-align: right;">29689.6</td>
+<td style="text-align: right;">0.990</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">majorSPED</td>
-<td style="text-align: right;">4366.6</td>
-<td style="text-align: right;">3772.9</td>
-<td style="text-align: right;">-4333.7</td>
-<td style="text-align: right;">13066.9</td>
-<td style="text-align: right;">0.281</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">majorSPSY</td>
-<td style="text-align: right;">-1984.6</td>
-<td style="text-align: right;">5015.9</td>
-<td style="text-align: right;">-13551.3</td>
-<td style="text-align: right;">9582.0</td>
-<td style="text-align: right;">0.703</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">idodd</td>
-<td style="text-align: right;">458.4</td>
-<td style="text-align: right;">2441.1</td>
-<td style="text-align: right;">-5170.7</td>
-<td style="text-align: right;">6087.5</td>
-<td style="text-align: right;">0.856</td>
+<td style="text-align: right;">4476.7</td>
+<td style="text-align: right;">5616.0</td>
+<td style="text-align: right;">-19687.2</td>
+<td style="text-align: right;">28640.5</td>
+<td style="text-align: right;">0.509</td>
 </tr>
 </tbody>
 </table>
@@ -493,9 +536,11 @@ F-statistic: 0.5177 on 7 and 8 DF,  p-value: 0.7996</code></pre>
 </div>
 <p>And don’t forget to cite your sources!</p>
 
+
+
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-ggthemes" class="csl-entry" role="listitem">
 Arnold, Jeffrey B. 2021. <em>Ggthemes: Extra Themes, Scales and Geoms for ’Ggplot2’</em>. <a href="https://CRAN.R-project.org/package=ggthemes">https://CRAN.R-project.org/package=ggthemes</a>.
 </div>
@@ -512,13 +557,12 @@ Müller, Kirill. 2020. <em>Here: A Simpler Way to Find Your Files</em>. <a href=
 Slowikowski, Kamil. 2023. <em>Ggrepel: Automatically Position Non-Overlapping Text Labels with ’Ggplot2’</em>. <a href="https://CRAN.R-project.org/package=ggrepel">https://CRAN.R-project.org/package=ggrepel</a>.
 </div>
 <div id="ref-tidyverse" class="csl-entry" role="listitem">
-Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019. <span>“Welcome to the <span class="nocase">tidyverse</span>.”</span> <em>Journal of Open Source Software</em> 4 (43): 1686. <a href="https://doi.org/10.21105/joss.01686">https://doi.org/10.21105/joss.01686</a>.
+Wickham, Hadley, Mara Averick, Jennifer Bryan, et al. 2019. <span>“Welcome to the <span class="nocase">tidyverse</span>.”</span> <em>Journal of Open Source Software</em> 4 (43): 1686. <a href="https://doi.org/10.21105/joss.01686">https://doi.org/10.21105/joss.01686</a>.
 </div>
 <div id="ref-knitr" class="csl-entry" role="listitem">
 Xie, Yihui. 2023. <em>Knitr: A General-Purpose Package for Dynamic Report Generation in r</em>. <a href="https://yihui.org/knitr/">https://yihui.org/knitr/</a>.
 </div>
-</div></section></div></main>
-<!-- /main column -->
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -570,13 +614,14 @@ Xie, Yihui. 2023. <em>Knitr: A General-Purpose Package for Dynamic Report Genera
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

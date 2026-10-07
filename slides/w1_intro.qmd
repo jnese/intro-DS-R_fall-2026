@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Data Science with `R`"
-subtitle: "EDLD 651"
+subtitle: "EDST 676"
 author: "Joe Nese"
 institute: "University of Oregon<br>Fall 2026"
 format:
@@ -676,7 +676,7 @@ a
 
 ```{r}
 #| echo: true
-a <- "EDLD 651"
+a <- "EDST 676"
 a
 ```
 
@@ -686,7 +686,7 @@ Data can be a variety of types
 
 . . .
 
--   **character**: `"Hello world!"` or `"EDLD 651"`
+-   **character**: `"Hello world!"` or `"EDST 676"`
 
 . . .
 
