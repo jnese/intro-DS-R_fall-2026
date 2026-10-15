@@ -199,7 +199,7 @@ data |>
 ```
 
 
-## Some data for today ![](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png){fig-align="right" width="10%"} 
+## Some data for today ![](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png){fig-align="right" width="30%"} 
 
 [run the following]{style="color:#D55E00;"}
 
@@ -558,7 +558,7 @@ economics |>
 
 ## Layers
 
-What happens when we layer geom_line and geom_point?
+What happens when we layer `geom_line()` and `geom_point()`?
 
 ```{r, eval=FALSE}
 economics |> 
@@ -839,7 +839,7 @@ theme_set(theme_minimal(base_size = 16))
 
 ## Histogram
 
-Histogram of "grad_total"
+Histogram of "price"
 
 ```{r, fig.height=4, fig.width=8}
 diamonds |> 

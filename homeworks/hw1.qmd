@@ -59,9 +59,9 @@ ggplot(mpg, aes(x = displ, y = hwy)) +
 
 ### Help documentation
 
-Look at the help documentation for `geom_point()`. Use the help documentation to change the color of the points to "gray70". Start getting in the habit of running code within a code chunk rather than in the text/prose areas.  
+Look at the help documentation for `geom_point()`. Use the help documentation to change the color of the points to "magenta". Start getting in the habit of running code within a code chunk rather than in the text/prose areas.  
 
-In the code chunk below create a second scatterplot with the *mpg* dataset, this time with the number of cylinders displayed on the *x*-axis and the city miles per gallon on the *y*-axis. Also change the color of the points to "gray70".
+In the code chunk below create a second scatterplot with the *mpg* dataset, this time with the number of cylinders displayed on the *x*-axis and the city miles per gallon on the *y*-axis. Also change the color of the points to "magenta".
 
 ```{r}
 #| label: second-plot
