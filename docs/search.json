@@ -18,7 +18,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Before Week 1\nPlease complete the following five installs before our first class.\nInstructions for each are on the Installs page.\n\nInstall R\nInstall RStudio\nRegister a GitHub account\nInstall Git\nInstall GitKraken\n\n\n\nWeek 1: Introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned2\nDue\n\n\n\n\nSep-30\nR4DS(2e) 5\n\n\nA Quick Tour of the RStudio IDE\nInstalls\n\n\n\n\nR4DS(2e) 3\n\n\n\n\nCodecademy: Introduction to R Syntax\n\n\n\n\n\n\nR4DS(2e) 7\n\n\n\n\n\nFinal Project\n\nFinal Project\n\n\n\n\n\n\nOptional: MD 1.1\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: UT3phr?C\n\n\n2 I do not rearrange my RStudio panes as he does.\n\n\n\n\n\n\n\n\n\n\nWeek 2: Workflow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-07\nProject-oriented Workflow\n\n\nCodecademy: Introduction to Data Frames in R\nA Quick Tour of the RStudio IDE\n\n\n\n\nR4DS(2e) 29\n\n\n\n\nCodecademy: Introduction to Visualization with R\nCodecademy: Introduction to R Syntax\n\n\n\n\nhere::here() Jenny Bryan\n\n\n\n\nHomework 1\n\n\n\n\n\n\n{rio} vignette\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: 5bH*g@K1\n\n\n\n\n\n\n\n\n\n\nWeek 3: {ggplot2}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-14\nR4DS(2e) 2\n\n\nCodecademy: Modifying Data Frames\nCodecademy: Introduction to Data Frames in R\n\n\n\n\nOptional: MD 2.0 to 2.9\n\n\n\n\nCodecademy: Aggregates in R\nCodecademy: Introduction to Visualization with R\n\n\n\n\nOptional: Healy Ch 3\n\n\n\n\nHomework 2\nHomework 1\n\n\n\n\n\n\n\n\n\n\nHomework 3\n\nFinal Project: Finalize Groups\n\nFinal Project: Finalize Groups\n\n\n\n1 Passcode: ^&e8MuR.\n\n\n\n\n\n\n\n\n\n\nWeek 4: {dplyr}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-21\nR4DS(2e) 4\n\n\n\n\nDownload GitKraken\nCodecademy: Modifying Data Frames\n\n\n\n\nOptional: MD 3.1 to 3.6, 3.8\n\n\n\n\nWatch What is a Git repository?\nCodecademy: Aggregates in R\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\nHomework 2\n\n\n\n\n\n\n\n\n\n\nHomework 4\nHomework 3\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 5: GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-28\nBryan 2017\n\n\n\n\nMarkdown Tutorial\nDownload GitKraken\n\n\n\n\n\n\n\n\n\n\nHomework 5\nWatch What is a Git repository?\n\n\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Outline\n\nFinal Project: Outline\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 6: Quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-04\nR4DS(2e) 29\n\n\n\n\nCodecademy: Joining Tables in R\nMarkdown Tutorial\n\n\n\n\n\n\n\n\n\n\nHomework 6\nHomework 5\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 7: Mutating Joins\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-11\nR4DS(2e) 13\n\n\n\n\nCodecademy: Data Cleaning in R\nCodecademy: Joining Tables in R\n\n\n\n\n\n\n\n\n\n\nHomework 8\nHomework 6\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 8: Tidy Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-18\nR4DS(2e) 12\n\n\n\n\nHomework 9\nCodecademy: Data Cleaning in R\n\n\n\n\nWickham 2014\n\n\n\n\n\n\nHomework 8\n\n\n\n\nR-Ladies Sydney CleanItUp 2\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n\n\n\nOptional: MD 4.2 - 4.4\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 9: Factors & Pull Request\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-25\nR4DS(2e) 17\n\n\n\n\nHomework 10\nHomework 9\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Peer Review of Script\n\nFinal Project: Peer Review of Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 10: Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nDec-02\n\n\n\n\n\n\n\n\nHomework 10\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Presentation\n\nFinal Project: Presentation\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 11: No class: Final papers due"
+    "text": "Before Week 1\nPlease complete the following five installs before our first class.\nInstructions for each are on the Installs page.\n\nInstall R\nInstall RStudio\nRegister a GitHub account\nInstall Git\nInstall GitKraken\n\n\n\nWeek 1: Introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned2\nDue\n\n\n\n\nSep-30\nR4DS(2e) 5\n\n\nA Quick Tour of the RStudio IDE\nInstalls\n\n\n\n\nR4DS(2e) 3\n\n\n\n\nCodecademy: Introduction to R Syntax\n\n\n\n\n\n\nR4DS(2e) 7\n\n\n\n\n\nFinal Project\n\nFinal Project\n\n\n\n\n\n\nOptional: MD 1.1\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: UT3phr?C\n\n\n2 I do not rearrange my RStudio panes as he does.\n\n\n\n\n\n\n\n\n\n\nWeek 2: Workflow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-07\nProject-oriented Workflow\n\n\nCodecademy: Introduction to Data Frames in R\nA Quick Tour of the RStudio IDE\n\n\n\n\nR4DS(2e) 29\n\n\n\n\nCodecademy: Introduction to Visualization with R\nCodecademy: Introduction to R Syntax\n\n\n\n\nhere::here() Jenny Bryan\n\n\n\n\nHomework 1\n\n\n\n\n\n\n{rio} vignette\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: 5bH*g@K1\n\n\n\n\n\n\n\n\n\n\nWeek 3: {ggplot2}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-14\nR4DS(2e) 2\n\n\nCodecademy: Modifying Data Frames\nCodecademy: Introduction to Data Frames in R\n\n\n\n\nOptional: MD 2.0 to 2.9\n\n\n\n\nCodecademy: Aggregates in R\nCodecademy: Introduction to Visualization with R\n\n\n\n\nOptional: Healy Ch 3\n\n\n\n\nHomework 2\nHomework 1\n\n\n\n\n\n\n\n\n\n\nHomework 3\n\nFinal Project: Finalize Groups\n\nFinal Project: Finalize Groups\n\n\n\n1 Passcode: ^&e8MuR.\n\n\n\n\n\n\n\n\n\n\nWeek 4: {dplyr}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-21\nR4DS(2e) 4\n\n\n\nDownload GitKraken\nCodecademy: Modifying Data Frames\n\n\n\n\nOptional: MD 3.1 to 3.6, 3.8\n\n\n\n\nWatch What is a Git repository?\nCodecademy: Aggregates in R\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\nHomework 2\n\n\n\n\n\n\n\n\n\n\nHomework 4\nHomework 3\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 5: GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-28\nBryan 2017\n\n\n\n\nMarkdown Tutorial\nDownload GitKraken\n\n\n\n\n\n\n\n\n\n\nHomework 5\nWatch What is a Git repository?\n\n\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Outline\n\nFinal Project: Outline\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 6: Quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-04\nR4DS(2e) 29\n\n\n\n\nCodecademy: Joining Tables in R\nMarkdown Tutorial\n\n\n\n\n\n\n\n\n\n\nHomework 6\nHomework 5\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 7: Mutating Joins\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-11\nR4DS(2e) 13\n\n\n\n\nCodecademy: Data Cleaning in R\nCodecademy: Joining Tables in R\n\n\n\n\n\n\n\n\n\n\nHomework 8\nHomework 6\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 8: Tidy Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-18\nR4DS(2e) 12\n\n\n\n\nHomework 9\nCodecademy: Data Cleaning in R\n\n\n\n\nWickham 2014\n\n\n\n\n\n\nHomework 8\n\n\n\n\nR-Ladies Sydney CleanItUp 2\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n\n\n\nOptional: MD 4.2 - 4.4\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 9: Factors & Pull Request\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-25\nR4DS(2e) 17\n\n\n\n\nHomework 10\nHomework 9\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Peer Review of Script\n\nFinal Project: Peer Review of Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 10: Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nDec-02\n\n\n\n\n\n\n\n\nHomework 10\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Presentation\n\nFinal Project: Presentation\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 11: No class: Final papers due"
   },
   {
     "objectID": "slides/w1_intro.html#how-many-popcorn-kernels-are-in-the-jar",
@@ -1965,5 +1965,642 @@
     "title": "Homework 1",
     "section": "",
     "text": "Create a RStudio Project on your machine.\n\nWithin the Project create a folder for data and scripts.\nDownload the following two datasets into the project data folder.\n\nsesame13.sav\nstar.csv\n\nSave your hw1.Rmd file in your scripts folder\n\n\n\nLoading Packages\nThe code chunk below loads the {tidyverse} package. Please also load {here}, {rio}, and {janitor}. If you get errors, you probably don’t have one of the packages installed yet, so run install.packages(\"package_name\") in the console first.\n\nlibrary(tidyverse)\nlibrary(here)\nlibrary(rio)\nlibrary(janitor)\n\nNote that you should get some messages printed out below that state all the packages that have been loaded. This is important to pay attention to. It says that both {ggplot2} and {dplyr} have been loaded, so you don’t need explicit calls to those packages.\n\n\nRead in the data\nUse the code chunk below to:\n\nRead in sesame13.sav using {here} and {rio}\nRead in star.csv using {here} and {readr}\nApply the clean_names() function to both\nSave each dataset as a separate object\n\n\nsesame &lt;- import(here(\"data\", \"sesame13.sav\")) |&gt; \n  clean_names()\n\nstar &lt;- read_csv(here(\"data\", \"star.csv\")) |&gt; \n  clean_names()\n\n\n\n{ggplot2} Peek\nMany packages also include data. We’ll focus here on the mpg dataset, which comes from {ggplot2}. Run the following code to produce a scatterplot\n\nggplot(mpg, aes(x = displ, y = hwy)) +\n  geom_point()\n\n\n\n\n\n\n\n\n\n\nHelp documentation\nLook at the help documentation for geom_point(). Use the help documentation to change the color of the points to “magenta”. Start getting in the habit of running code within a code chunk rather than in the text/prose areas.\nIn the code chunk below create a second scatterplot with the mpg dataset, this time with the number of cylinders displayed on the x-axis and the city miles per gallon on the y-axis. Also change the color of the points to “magenta”.\n\n#?geom_point\n\nggplot(mpg, aes(x = cyl, y = cty)) +\n  geom_point(color = \"magenta\")\n\n\n\n\n\n\n\n\n\n\nInspecting Data\nThe diamonds dataset is also included with ggplot2. The code below will show the first six rows of the dataset.\n\nhead(diamonds)\n\n# A tibble: 6 × 10\n  carat cut       color clarity depth table price     x     y     z\n  &lt;dbl&gt; &lt;ord&gt;     &lt;ord&gt; &lt;ord&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1  0.23 Ideal     E     SI2      61.5    55   326  3.95  3.98  2.43\n2  0.21 Premium   E     SI1      59.8    61   326  3.89  3.84  2.31\n3  0.23 Good      E     VS1      56.9    65   327  4.05  4.07  2.31\n4  0.29 Premium   I     VS2      62.4    58   334  4.2   4.23  2.63\n5  0.31 Good      J     SI2      63.3    58   335  4.34  4.35  2.75\n6  0.24 Very Good J     VVS2     62.8    57   336  3.94  3.96  2.48\n\n\nLook at the help documentation and then use the code below to change the number of rows shown to 15.\n\nhead(diamonds, 15)\n\n# A tibble: 15 × 10\n   carat cut       color clarity depth table price     x     y     z\n   &lt;dbl&gt; &lt;ord&gt;     &lt;ord&gt; &lt;ord&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n 1  0.23 Ideal     E     SI2      61.5    55   326  3.95  3.98  2.43\n 2  0.21 Premium   E     SI1      59.8    61   326  3.89  3.84  2.31\n 3  0.23 Good      E     VS1      56.9    65   327  4.05  4.07  2.31\n 4  0.29 Premium   I     VS2      62.4    58   334  4.2   4.23  2.63\n 5  0.31 Good      J     SI2      63.3    58   335  4.34  4.35  2.75\n 6  0.24 Very Good J     VVS2     62.8    57   336  3.94  3.96  2.48\n 7  0.24 Very Good I     VVS1     62.3    57   336  3.95  3.98  2.47\n 8  0.26 Very Good H     SI1      61.9    55   337  4.07  4.11  2.53\n 9  0.22 Fair      E     VS2      65.1    61   337  3.87  3.78  2.49\n10  0.23 Very Good H     VS1      59.4    61   338  4     4.05  2.39\n11  0.3  Good      J     SI1      64      55   339  4.25  4.28  2.73\n12  0.23 Ideal     J     VS1      62.8    56   340  3.93  3.9   2.46\n13  0.22 Premium   F     SI1      60.4    61   342  3.88  3.84  2.33\n14  0.31 Ideal     J     SI2      62.2    54   344  4.35  4.37  2.71\n15  0.2  Premium   E     SI2      60.2    62   345  3.79  3.75  2.27\n\n\nCall a similar function that shows the last six rows of the dataset. (Note you may need to look at the same help documentation.)\n\ntail(diamonds)\n\n# A tibble: 6 × 10\n  carat cut       color clarity depth table price     x     y     z\n  &lt;dbl&gt; &lt;ord&gt;     &lt;ord&gt; &lt;ord&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1  0.72 Premium   D     SI1      62.7    59  2757  5.69  5.73  3.58\n2  0.72 Ideal     D     SI1      60.8    57  2757  5.75  5.76  3.5 \n3  0.72 Good      D     SI1      63.1    55  2757  5.69  5.75  3.61\n4  0.7  Very Good D     SI1      62.8    60  2757  5.66  5.68  3.56\n5  0.86 Premium   H     SI2      61      58  2757  6.15  6.12  3.74\n6  0.75 Ideal     D     SI2      62.2    55  2757  5.83  5.87  3.64\n\n\nUse any function you want to determine the dimensions of the dataset - i.e., the number of rows and columns.\n\nstr(diamonds)\n\ntibble [53,940 × 10] (S3: tbl_df/tbl/data.frame)\n $ carat  : num [1:53940] 0.23 0.21 0.23 0.29 0.31 0.24 0.24 0.26 0.22 0.23 ...\n $ cut    : Ord.factor w/ 5 levels \"Fair\"&lt;\"Good\"&lt;..: 5 4 2 4 2 3 3 3 1 3 ...\n $ color  : Ord.factor w/ 7 levels \"D\"&lt;\"E\"&lt;\"F\"&lt;\"G\"&lt;..: 2 2 2 6 7 7 6 5 2 5 ...\n $ clarity: Ord.factor w/ 8 levels \"I1\"&lt;\"SI2\"&lt;\"SI1\"&lt;..: 2 3 5 4 2 6 7 3 4 5 ...\n $ depth  : num [1:53940] 61.5 59.8 56.9 62.4 63.3 62.8 62.3 61.9 65.1 59.4 ...\n $ table  : num [1:53940] 55 61 65 58 58 57 57 55 61 61 ...\n $ price  : int [1:53940] 326 326 327 334 335 336 336 337 337 338 ...\n $ x      : num [1:53940] 3.95 3.89 4.05 4.2 4.34 3.94 3.95 4.07 3.87 4 ...\n $ y      : num [1:53940] 3.98 3.84 4.07 4.23 4.35 3.96 3.98 4.11 3.78 4.05 ...\n $ z      : num [1:53940] 2.43 2.31 2.31 2.63 2.75 2.48 2.47 2.53 2.49 2.39 ...\n\ndiamonds\n\n# A tibble: 53,940 × 10\n   carat cut       color clarity depth table price     x     y     z\n   &lt;dbl&gt; &lt;ord&gt;     &lt;ord&gt; &lt;ord&gt;   &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n 1  0.23 Ideal     E     SI2      61.5    55   326  3.95  3.98  2.43\n 2  0.21 Premium   E     SI1      59.8    61   326  3.89  3.84  2.31\n 3  0.23 Good      E     VS1      56.9    65   327  4.05  4.07  2.31\n 4  0.29 Premium   I     VS2      62.4    58   334  4.2   4.23  2.63\n 5  0.31 Good      J     SI2      63.3    58   335  4.34  4.35  2.75\n 6  0.24 Very Good J     VVS2     62.8    57   336  3.94  3.96  2.48\n 7  0.24 Very Good I     VVS1     62.3    57   336  3.95  3.98  2.47\n 8  0.26 Very Good H     SI1      61.9    55   337  4.07  4.11  2.53\n 9  0.22 Fair      E     VS2      65.1    61   337  3.87  3.78  2.49\n10  0.23 Very Good H     VS1      59.4    61   338  4     4.05  2.39\n# ℹ 53,930 more rows\n\nnrow(diamonds)\n\n[1] 53940\n\nncol(diamonds)\n\n[1] 10\n\ndim(diamonds)\n\n[1] 53940    10\n\n\nUse the pipe operator, |&gt;, along with the count() function, to count the rows of each diamond color.\n\ndiamonds %&gt;%\n  count(color) \n\n# A tibble: 7 × 2\n  color     n\n  &lt;ord&gt; &lt;int&gt;\n1 D      6775\n2 E      9797\n3 F      9542\n4 G     11292\n5 H      8304\n6 I      5422\n7 J      2808\n\n\nWrite the same code as above, but this time use count() without the pipe operator\n\ncount(diamonds, color) \n\n# A tibble: 7 × 2\n  color     n\n  &lt;ord&gt; &lt;int&gt;\n1 D      6775\n2 E      9797\n3 F      9542\n4 G     11292\n5 H      8304\n6 I      5422\n7 J      2808\n\n\nBe sure to add your name to the top of the document (line 2, in the YAML).\nClick the Render button near the top, and turn in both the quarto document and the output (.html file) to Canvas."
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#housekeeping",
+    "href": "slides/w4_dplyr.html#housekeeping",
+    "title": "Week 4: Data Wrangling",
+    "section": "Housekeeping",
+    "text": "Housekeeping\nMidway Student Experience Survey\n\nDuckweb\n\nlog into DuckWeb\nclick the Course Surveys link on the Main Menu page\nclick “Open the Course Surveys site” and choosing this course\n\nCanvas\n\nsurvey link appears in the course site on the left navbar"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#housekeeping-1",
+    "href": "slides/w4_dplyr.html#housekeeping-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nFinal Project Outline\n\nDue next week (10/28)\n\n\n\nThe outline should include a description of the data to be used, a discussion of what preparatory work will need to be done, and how the requirements of the final project will be met. The outline is intended to be low-stakes and is primarily designed to be a means for you to obtain feedback on the feasibility of the project and areas to consider."
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#agenda",
+    "href": "slides/w4_dplyr.html#agenda",
+    "title": "Week 4: Data Wrangling",
+    "section": "Agenda",
+    "text": "Agenda\n\nIntroduce common {dplyr} functions\n\npiping {dplyr} functions\nhelper functions\n\nIntroduce complimentary functions\n\nifelse()\ncase_when()\n\n\n\nLearning Objectives\n\nUnderstand basic data wrangling and transformations\n\nselect()\nfilter()\narrange()\ngroup_by()\nsummarize()\nrecode() & rename()\n\nBe able to pipe these functions to efficiently wrangle data"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#section-2",
+    "href": "slides/w4_dplyr.html#section-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "",
+    "text": "Credit Allison Horst"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#providing-grammar-for",
+    "href": "slides/w4_dplyr.html#providing-grammar-for",
+    "title": "Week 4: Data Wrangling",
+    "section": "Providing grammar for:",
+    "text": "Providing grammar for:\n\nGraphics\n\n{ggplot2}\n\nData manipulations\n\n{dplyr}\n{tidyr}\n\nExpanding area of specialized topics\n\n{lubridate}\n{glue}\n{tidymodels}\n\nMany more…"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#providing-grammar-for-1",
+    "href": "slides/w4_dplyr.html#providing-grammar-for-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Providing grammar for:",
+    "text": "Providing grammar for:\n\nGraphics\n\n{ggplot2}\n\nData manipulations\n\n{dplyr}\n{tidyr}\n\nExpanding area of specialized topics\n\n{lubridate}\n{glue}\n{tidymodels}\n\nMany more…"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#dplyr-1",
+    "href": "slides/w4_dplyr.html#dplyr-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "{dplyr} ",
+    "text": "{dplyr} \nA grammar for data wrangling (verbs!)\nTake a couple minutes with your neighbor to guess what the following functions do:\n\nselect()\nfilter()\nmutate()\narrange()\nsummarize()\ngroup_by()"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#dplyr-2",
+    "href": "slides/w4_dplyr.html#dplyr-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "{dplyr}",
+    "text": "{dplyr}\nA grammar for data wrangling (verbs!)\nselect()\n\na subset of columns\n\nfilter()\n\na subset of rows\n\nmutate()\n\nadd a new column or modify an existing column\n\narrange()\n\nsort rows in ascending/descending order\n\nsummarize()\n\na new column created according to other columns for example: mean() or sd() + often used with…\n\ngroup_by()\n\ngrouping categories in column(s)"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#arguments",
+    "href": "slides/w4_dplyr.html#arguments",
+    "title": "Week 4: Data Wrangling",
+    "section": "Arguments",
+    "text": "Arguments\n\n{dplyr} always takes a data frame (tibble) as the first argument\n\njust like {ggplot}\n\nsubsequent functions tell {dplyr} what to do with the data frame\neach function applied returns the modified data frame"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#select-1",
+    "href": "slides/w4_dplyr.html#select-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "select()",
+    "text": "select()\nchoose columns\n\n\n\ndata.frame |&gt; \n  select(a, c)\n\n\n\n\n\n\nImage from Software Carpentry"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#examples",
+    "href": "slides/w4_dplyr.html#examples",
+    "title": "Week 4: Data Wrangling",
+    "section": "Examples",
+    "text": "Examples\nLet’s go back to the penguins dataset\n\nlibrary(tidyverse)\n#install.packages(\"palmerpenguins\")\nlibrary(palmerpenguins)\n\npenguins\n\n\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#select-penguins-species-and-island-and-body_mass_g",
+    "href": "slides/w4_dplyr.html#select-penguins-species-and-island-and-body_mass_g",
+    "title": "Week 4: Data Wrangling",
+    "section": "select penguins species and island and body_mass_g",
+    "text": "select penguins species and island and body_mass_g\n\nselect(penguins, species, island, body_mass_g)\n\n\nOR more typically\n\npenguins |&gt;\n    select(species, island, body_mass_g)\n\n# A tibble: 344 × 3\n   species island    body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;int&gt;\n 1 Adelie  Torgersen        3750\n 2 Adelie  Torgersen        3800\n 3 Adelie  Torgersen        3250\n 4 Adelie  Torgersen          NA\n 5 Adelie  Torgersen        3450\n 6 Adelie  Torgersen        3650\n 7 Adelie  Torgersen        3625\n 8 Adelie  Torgersen        4675\n 9 Adelie  Torgersen        3475\n10 Adelie  Torgersen        4250\n# ℹ 334 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#negation--",
+    "href": "slides/w4_dplyr.html#negation--",
+    "title": "Week 4: Data Wrangling",
+    "section": "Negation -",
+    "text": "Negation -\nDon’t select (or drop) variable(s)\n\npenguins |&gt;\n    select(-year)\n\n# A tibble: 344 × 7\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 1 more variable: sex &lt;fct&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#negation---1",
+    "href": "slides/w4_dplyr.html#negation---1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Negation -",
+    "text": "Negation -\nDon’t select (or drop) variable(s)\n\npenguins |&gt;\n    select(-bill_length_mm, -bill_depth_mm)\n\nOR maybe better\n\npenguins |&gt;\n    select(-c(bill_length_mm, bill_depth_mm))\n\n# A tibble: 344 × 6\n   species island    flipper_length_mm body_mass_g sex     year\n   &lt;fct&gt;   &lt;fct&gt;                 &lt;int&gt;       &lt;int&gt; &lt;fct&gt;  &lt;int&gt;\n 1 Adelie  Torgersen               181        3750 male    2007\n 2 Adelie  Torgersen               186        3800 female  2007\n 3 Adelie  Torgersen               195        3250 female  2007\n 4 Adelie  Torgersen                NA          NA &lt;NA&gt;    2007\n 5 Adelie  Torgersen               193        3450 female  2007\n 6 Adelie  Torgersen               190        3650 male    2007\n 7 Adelie  Torgersen               181        3625 female  2007\n 8 Adelie  Torgersen               195        4675 male    2007\n 9 Adelie  Torgersen               193        3475 &lt;NA&gt;    2007\n10 Adelie  Torgersen               190        4250 &lt;NA&gt;    2007\n# ℹ 334 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#indexing",
+    "href": "slides/w4_dplyr.html#indexing",
+    "title": "Week 4: Data Wrangling",
+    "section": "Indexing",
+    "text": "Indexing\nLess preferable because variable orders change\n\npenguins |&gt;\n    select(1:3)\n\n# A tibble: 344 × 3\n   species island    bill_length_mm\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;\n 1 Adelie  Torgersen           39.1\n 2 Adelie  Torgersen           39.5\n 3 Adelie  Torgersen           40.3\n 4 Adelie  Torgersen           NA  \n 5 Adelie  Torgersen           36.7\n 6 Adelie  Torgersen           39.3\n 7 Adelie  Torgersen           38.9\n 8 Adelie  Torgersen           39.2\n 9 Adelie  Torgersen           34.1\n10 Adelie  Torgersen           42  \n# ℹ 334 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#use-multiple-methods",
+    "href": "slides/w4_dplyr.html#use-multiple-methods",
+    "title": "Week 4: Data Wrangling",
+    "section": "Use multiple methods",
+    "text": "Use multiple methods\n\npenguins |&gt;\n    select(species, 3, 5)\n\n# A tibble: 344 × 3\n   species bill_length_mm flipper_length_mm\n   &lt;fct&gt;            &lt;dbl&gt;             &lt;int&gt;\n 1 Adelie            39.1               181\n 2 Adelie            39.5               186\n 3 Adelie            40.3               195\n 4 Adelie            NA                  NA\n 5 Adelie            36.7               193\n 6 Adelie            39.3               190\n 7 Adelie            38.9               181\n 8 Adelie            39.2               195\n 9 Adelie            34.1               193\n10 Adelie            42                 190\n# ℹ 334 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#use-select-to-order-columns",
+    "href": "slides/w4_dplyr.html#use-select-to-order-columns",
+    "title": "Week 4: Data Wrangling",
+    "section": "Use select() to order columns",
+    "text": "Use select() to order columns\nselect() helper functions\n\neverything()\nstarts_with()\nends_with()\ncontains()\nall_of()\nany_of()"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#helper-functions",
+    "href": "slides/w4_dplyr.html#helper-functions",
+    "title": "Week 4: Data Wrangling",
+    "section": "Helper functions",
+    "text": "Helper functions\nFirst: this code may not work for you - why?\n\nreads &lt;- read_csv(here(\"data\", \"Project_Reads_Scores.csv\")) |&gt; \n  clean_names()\nreads\n\n\n\n# A tibble: 48 × 25\n   test_year      test_type test_site student_id pre_test_score pre_test_percent\n   &lt;chr&gt;          &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;           \n 1 06/01/2016 12… YEAR END  VIRDEN    Virden 1               43 29%             \n 2 06/01/2016 12… YEAR END  VIRDEN    Virden 2               46 31%             \n 3 06/01/2016 12… YEAR END  VIRDEN    Virden 3               39 26%             \n 4 06/01/2016 12… YEAR END  VIRDEN    Virden 4               35 23%             \n 5 06/01/2016 12… YEAR END  VIRDEN    Virden 5               46 31%             \n 6 06/01/2016 12… YEAR END  VIRDEN    Virden 6               35 23%             \n 7 06/01/2016 12… YEAR END  VIRDEN    Virden 7               40 27%             \n 8 06/01/2016 12… YEAR END  VIRDEN    Virden 8               39 26%             \n 9 06/01/2016 12… YEAR END  VIRDEN    Virden 9               40 27%             \n10 06/01/2016 12… YEAR END  VIRDEN    Virden 10              45 30%             \n# ℹ 38 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#use-select-to-order-columns-1",
+    "href": "slides/w4_dplyr.html#use-select-to-order-columns-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Use select() to order columns",
+    "text": "Use select() to order columns\n\nreads |&gt;\n    select(student_id, test_site, test_type, test_year, everything())\n\n\n\n# A tibble: 48 × 25\n   student_id test_site test_type test_year      pre_test_score pre_test_percent\n   &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;                   &lt;dbl&gt; &lt;chr&gt;           \n 1 Virden 1   VIRDEN    YEAR END  06/01/2016 12…             43 29%             \n 2 Virden 2   VIRDEN    YEAR END  06/01/2016 12…             46 31%             \n 3 Virden 3   VIRDEN    YEAR END  06/01/2016 12…             39 26%             \n 4 Virden 4   VIRDEN    YEAR END  06/01/2016 12…             35 23%             \n 5 Virden 5   VIRDEN    YEAR END  06/01/2016 12…             46 31%             \n 6 Virden 6   VIRDEN    YEAR END  06/01/2016 12…             35 23%             \n 7 Virden 7   VIRDEN    YEAR END  06/01/2016 12…             40 27%             \n 8 Virden 8   VIRDEN    YEAR END  06/01/2016 12…             39 26%             \n 9 Virden 9   VIRDEN    YEAR END  06/01/2016 12…             40 27%             \n10 Virden 10  VIRDEN    YEAR END  06/01/2016 12…             45 30%             \n# ℹ 38 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …\n\n\n\neverything() is a helper verb that includes all column names"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#starts_with",
+    "href": "slides/w4_dplyr.html#starts_with",
+    "title": "Week 4: Data Wrangling",
+    "section": "starts_with()",
+    "text": "starts_with()\n\nreads |&gt; \n    select(starts_with(\"test\"))\n\n# A tibble: 48 × 3\n   test_year              test_type test_site\n   &lt;chr&gt;                  &lt;chr&gt;     &lt;chr&gt;    \n 1 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 2 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 3 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 4 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 5 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 6 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 7 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 8 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n 9 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n10 06/01/2016 12:00:00 AM YEAR END  VIRDEN   \n# ℹ 38 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#ends_with",
+    "href": "slides/w4_dplyr.html#ends_with",
+    "title": "Week 4: Data Wrangling",
+    "section": "ends_with()",
+    "text": "ends_with()\n\nreads |&gt; \n    select(ends_with(\"score\"))\n\n# A tibble: 48 × 10\n   pre_test_score post_test_score unit_1_score unit_2_score unit_3_score\n            &lt;dbl&gt;           &lt;dbl&gt;        &lt;dbl&gt;        &lt;dbl&gt;        &lt;dbl&gt;\n 1             43              92            3            4            6\n 2             46             104            5            5            6\n 3             39              75            4            4            6\n 4             35             115            4            4            6\n 5             46              85            2            5            6\n 6             35              91            5            5            7\n 7             40              96            5            5            6\n 8             39              74            4            5            5\n 9             40              90            6            4            5\n10             45              86            4            5            5\n# ℹ 38 more rows\n# ℹ 5 more variables: unit_4_score &lt;dbl&gt;, unit_5_6_score &lt;dbl&gt;,\n#   unit_7_score &lt;dbl&gt;, unit_8_score &lt;dbl&gt;, total_score &lt;dbl&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#contains",
+    "href": "slides/w4_dplyr.html#contains",
+    "title": "Week 4: Data Wrangling",
+    "section": "contains()",
+    "text": "contains()\n\nreads |&gt; \n    select(contains(\"test\"))\n\n# A tibble: 48 × 7\n   test_year test_type test_site pre_test_score pre_test_percent post_test_score\n   &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;              &lt;dbl&gt; &lt;chr&gt;                      &lt;dbl&gt;\n 1 06/01/20… YEAR END  VIRDEN                43 29%                           92\n 2 06/01/20… YEAR END  VIRDEN                46 31%                          104\n 3 06/01/20… YEAR END  VIRDEN                39 26%                           75\n 4 06/01/20… YEAR END  VIRDEN                35 23%                          115\n 5 06/01/20… YEAR END  VIRDEN                46 31%                           85\n 6 06/01/20… YEAR END  VIRDEN                35 23%                           91\n 7 06/01/20… YEAR END  VIRDEN                40 27%                           96\n 8 06/01/20… YEAR END  VIRDEN                39 26%                           74\n 9 06/01/20… YEAR END  VIRDEN                40 27%                           90\n10 06/01/20… YEAR END  VIRDEN                45 30%                           86\n# ℹ 38 more rows\n# ℹ 1 more variable: post_test_percent &lt;chr&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#all_of",
+    "href": "slides/w4_dplyr.html#all_of",
+    "title": "Week 4: Data Wrangling",
+    "section": "all_of()",
+    "text": "all_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\n\n\n\n\n\n\nreads |&gt; \n    select(all_of(vars))\n\n\n\n# A tibble: 48 × 4\n   pre_test_score pre_test_percent post_test_score post_test_percent\n            &lt;dbl&gt; &lt;chr&gt;                      &lt;dbl&gt; &lt;chr&gt;            \n 1             43 29%                           92 61%              \n 2             46 31%                          104 69%              \n 3             39 26%                           75 50%              \n 4             35 23%                          115 77%              \n 5             46 31%                           85 57%              \n 6             35 23%                           91 61%              \n 7             40 27%                           96 64%              \n 8             39 26%                           74 49%              \n 9             40 27%                           90 60%              \n10             45 30%                           86 57%              \n# ℹ 38 more rows\n\n\n\n\nmpg |&gt; \n    select(all_of(vars))\n\n\n\nError in `select()`:\nℹ In argument: `all_of(vars)`.\nCaused by error in `all_of()`:\n! Can't subset elements that don't exist.\n✖ Elements `pre_test_score`, `pre_test_percent`, `post_test_score`, and `post_test_percent` don't exist."
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#all_of-1",
+    "href": "slides/w4_dplyr.html#all_of-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "all_of()",
+    "text": "all_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\nmpg |&gt; \n    select(all_of(vars))\n\n\n\nError in `select()`:\nℹ In argument: `all_of(vars)`.\nCaused by error in `all_of()`:\n! Can't subset elements that don't exist.\n✖ Elements `pre_test_score`, `pre_test_percent`, `post_test_score`, and `post_test_percent` don't exist."
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#any_of",
+    "href": "slides/w4_dplyr.html#any_of",
+    "title": "Week 4: Data Wrangling",
+    "section": "any_of()",
+    "text": "any_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\n\n\n\n\n\n\nreads |&gt; \n    select(any_of(vars))\n\n# A tibble: 48 × 4\n   pre_test_score pre_test_percent post_test_score post_test_percent\n            &lt;dbl&gt; &lt;chr&gt;                      &lt;dbl&gt; &lt;chr&gt;            \n 1             43 29%                           92 61%              \n 2             46 31%                          104 69%              \n 3             39 26%                           75 50%              \n 4             35 23%                          115 77%              \n 5             46 31%                           85 57%              \n 6             35 23%                           91 61%              \n 7             40 27%                           96 64%              \n 8             39 26%                           74 49%              \n 9             40 27%                           90 60%              \n10             45 30%                           86 57%              \n# ℹ 38 more rows\n\n\n\n\nmpg |&gt; \n    select(any_of(vars))\n\n\n\n# A tibble: 234 × 0"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#any_of-1",
+    "href": "slides/w4_dplyr.html#any_of-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "any_of()",
+    "text": "any_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\nmpg |&gt; \n    select(any_of(vars))\n\n\n\n# A tibble: 234 × 0"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#mix-select-methods-and-helpers",
+    "href": "slides/w4_dplyr.html#mix-select-methods-and-helpers",
+    "title": "Week 4: Data Wrangling",
+    "section": "Mix select methods and helpers",
+    "text": "Mix select methods and helpers\nYou can mix types and helper functions\n\nreads |&gt; \n    select(student_id, 1, starts_with(\"total\"))\n\n# A tibble: 48 × 4\n   student_id test_year              total_score total_percent_correct\n   &lt;chr&gt;      &lt;chr&gt;                        &lt;dbl&gt; &lt;chr&gt;                \n 1 Virden 1   06/01/2016 12:00:00 AM         207 41%                  \n 2 Virden 2   06/01/2016 12:00:00 AM         224 45%                  \n 3 Virden 3   06/01/2016 12:00:00 AM         193 39%                  \n 4 Virden 4   06/01/2016 12:00:00 AM         223 45%                  \n 5 Virden 5   06/01/2016 12:00:00 AM         198 40%                  \n 6 Virden 6   06/01/2016 12:00:00 AM         210 42%                  \n 7 Virden 7   06/01/2016 12:00:00 AM         211 42%                  \n 8 Virden 8   06/01/2016 12:00:00 AM         180 36%                  \n 9 Virden 9   06/01/2016 12:00:00 AM         206 41%                  \n10 Virden 10  06/01/2016 12:00:00 AM         206 41%                  \n# ℹ 38 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#mix-select-methods-and-helpers-1",
+    "href": "slides/w4_dplyr.html#mix-select-methods-and-helpers-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Mix select methods and helpers",
+    "text": "Mix select methods and helpers\nYou can also use select to rearrange your columns\n\nreads |&gt; \n    select(student_id, 1, starts_with(\"total\"), everything())\n\n# A tibble: 48 × 25\n   student_id test_year    total_score total_percent_correct test_type test_site\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt; &lt;chr&gt;                 &lt;chr&gt;     &lt;chr&gt;    \n 1 Virden 1   06/01/2016 …         207 41%                   YEAR END  VIRDEN   \n 2 Virden 2   06/01/2016 …         224 45%                   YEAR END  VIRDEN   \n 3 Virden 3   06/01/2016 …         193 39%                   YEAR END  VIRDEN   \n 4 Virden 4   06/01/2016 …         223 45%                   YEAR END  VIRDEN   \n 5 Virden 5   06/01/2016 …         198 40%                   YEAR END  VIRDEN   \n 6 Virden 6   06/01/2016 …         210 42%                   YEAR END  VIRDEN   \n 7 Virden 7   06/01/2016 …         211 42%                   YEAR END  VIRDEN   \n 8 Virden 8   06/01/2016 …         180 36%                   YEAR END  VIRDEN   \n 9 Virden 9   06/01/2016 …         206 41%                   YEAR END  VIRDEN   \n10 Virden 10  06/01/2016 …         206 41%                   YEAR END  VIRDEN   \n# ℹ 38 more rows\n# ℹ 19 more variables: pre_test_score &lt;dbl&gt;, pre_test_percent &lt;chr&gt;,\n#   post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;, percentage_change &lt;chr&gt;,\n#   unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;, unit_2_score &lt;dbl&gt;,\n#   unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;, unit_3_percent &lt;chr&gt;,\n#   unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;, unit_5_6_score &lt;dbl&gt;,\n#   unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;, unit_7_percent &lt;chr&gt;, …"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#relocate",
+    "href": "slides/w4_dplyr.html#relocate",
+    "title": "Week 4: Data Wrangling",
+    "section": "relocate()",
+    "text": "relocate()\nrelocate(.data, … .before = NULL, .after = NULL)\n\n.data = dataframe/tibble\n… = columns to move\n.before = variable to move before\n.after = variable to move after\n\nsupplying neither .before nor .after moves columns to the left-hand side by default\nspecifying both is an error"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#relocate-1",
+    "href": "slides/w4_dplyr.html#relocate-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "relocate()",
+    "text": "relocate()\n\n\n\npenguins \n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\n\n\n\n\npenguins |&gt; \n  relocate(year)\n\n# A tibble: 344 × 8\n    year species island    bill_length_mm bill_depth_mm flipper_length_mm\n   &lt;int&gt; &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;\n 1  2007 Adelie  Torgersen           39.1          18.7               181\n 2  2007 Adelie  Torgersen           39.5          17.4               186\n 3  2007 Adelie  Torgersen           40.3          18                 195\n 4  2007 Adelie  Torgersen           NA            NA                  NA\n 5  2007 Adelie  Torgersen           36.7          19.3               193\n 6  2007 Adelie  Torgersen           39.3          20.6               190\n 7  2007 Adelie  Torgersen           38.9          17.8               181\n 8  2007 Adelie  Torgersen           39.2          19.6               195\n 9  2007 Adelie  Torgersen           34.1          18.1               193\n10  2007 Adelie  Torgersen           42            20.2               190\n# ℹ 334 more rows\n# ℹ 2 more variables: body_mass_g &lt;int&gt;, sex &lt;fct&gt;\n\n\n\n\n\nmoves “year” to far left (default)"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#relocate-2",
+    "href": "slides/w4_dplyr.html#relocate-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "relocate()",
+    "text": "relocate()\n\npenguins |&gt; \n  relocate(year, .after = species)\n\n# A tibble: 344 × 8\n   species  year island    bill_length_mm bill_depth_mm flipper_length_mm\n   &lt;fct&gt;   &lt;int&gt; &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;\n 1 Adelie   2007 Torgersen           39.1          18.7               181\n 2 Adelie   2007 Torgersen           39.5          17.4               186\n 3 Adelie   2007 Torgersen           40.3          18                 195\n 4 Adelie   2007 Torgersen           NA            NA                  NA\n 5 Adelie   2007 Torgersen           36.7          19.3               193\n 6 Adelie   2007 Torgersen           39.3          20.6               190\n 7 Adelie   2007 Torgersen           38.9          17.8               181\n 8 Adelie   2007 Torgersen           39.2          19.6               195\n 9 Adelie   2007 Torgersen           34.1          18.1               193\n10 Adelie   2007 Torgersen           42            20.2               190\n# ℹ 334 more rows\n# ℹ 2 more variables: body_mass_g &lt;int&gt;, sex &lt;fct&gt;\n\n\n\n\nmoves “year” after “species”"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#relocate-3",
+    "href": "slides/w4_dplyr.html#relocate-3",
+    "title": "Week 4: Data Wrangling",
+    "section": "relocate()",
+    "text": "relocate()\n\npenguins |&gt; \n  relocate(year, .before = bill_length_mm)\n\n# A tibble: 344 × 8\n   species island     year bill_length_mm bill_depth_mm flipper_length_mm\n   &lt;fct&gt;   &lt;fct&gt;     &lt;int&gt;          &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;\n 1 Adelie  Torgersen  2007           39.1          18.7               181\n 2 Adelie  Torgersen  2007           39.5          17.4               186\n 3 Adelie  Torgersen  2007           40.3          18                 195\n 4 Adelie  Torgersen  2007           NA            NA                  NA\n 5 Adelie  Torgersen  2007           36.7          19.3               193\n 6 Adelie  Torgersen  2007           39.3          20.6               190\n 7 Adelie  Torgersen  2007           38.9          17.8               181\n 8 Adelie  Torgersen  2007           39.2          19.6               195\n 9 Adelie  Torgersen  2007           34.1          18.1               193\n10 Adelie  Torgersen  2007           42            20.2               190\n# ℹ 334 more rows\n# ℹ 2 more variables: body_mass_g &lt;int&gt;, sex &lt;fct&gt;\n\n\n\n\nmoves “year” before “bill_length_mm”"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#filter-1",
+    "href": "slides/w4_dplyr.html#filter-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "filter()",
+    "text": "filter()\nchoose rows that satisfy your condition (== TRUE)\n\n\n\ndf |&gt; \n  filter(\n    type == \"otter\",\n    site == \"bay\"\n  )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIllustration by Allison Horst"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#filter-2",
+    "href": "slides/w4_dplyr.html#filter-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "filter()",
+    "text": "filter()\n\n\nComplete set of boolean operations\n\nx is the left-hand circle\ny is the right-hand circle\nthe shaded region show which parts each operator selects\n\nxor == x or y except where they overlap\n\n\n\n==\n\nequal\n\n!\n\nnegates\n\n!=\n\nNOT equal\n\n&\n\nand\n\n|\n\nor"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#filter-numeric",
+    "href": "slides/w4_dplyr.html#filter-numeric",
+    "title": "Week 4: Data Wrangling",
+    "section": "filter() numeric",
+    "text": "filter() numeric\n\n\n\nmpg |&gt; \n  filter(cyl == 4)\n\n# A tibble: 81 × 11\n   manufacturer model      displ  year   cyl trans drv     cty   hwy fl    class\n   &lt;chr&gt;        &lt;chr&gt;      &lt;dbl&gt; &lt;int&gt; &lt;int&gt; &lt;chr&gt; &lt;chr&gt; &lt;int&gt; &lt;int&gt; &lt;chr&gt; &lt;chr&gt;\n 1 audi         a4           1.8  1999     4 auto… f        18    29 p     comp…\n 2 audi         a4           1.8  1999     4 manu… f        21    29 p     comp…\n 3 audi         a4           2    2008     4 manu… f        20    31 p     comp…\n 4 audi         a4           2    2008     4 auto… f        21    30 p     comp…\n 5 audi         a4 quattro   1.8  1999     4 manu… 4        18    26 p     comp…\n 6 audi         a4 quattro   1.8  1999     4 auto… 4        16    25 p     comp…\n 7 audi         a4 quattro   2    2008     4 manu… 4        20    28 p     comp…\n 8 audi         a4 quattro   2    2008     4 auto… 4        19    27 p     comp…\n 9 chevrolet    malibu       2.4  1999     4 auto… f        19    27 r     mids…\n10 chevrolet    malibu       2.4  2008     4 auto… f        22    30 r     mids…\n# ℹ 71 more rows\n\n\n\n\nmpg |&gt; \n  filter(hwy &gt;= 22)\n\n# A tibble: 143 × 11\n   manufacturer model      displ  year   cyl trans drv     cty   hwy fl    class\n   &lt;chr&gt;        &lt;chr&gt;      &lt;dbl&gt; &lt;int&gt; &lt;int&gt; &lt;chr&gt; &lt;chr&gt; &lt;int&gt; &lt;int&gt; &lt;chr&gt; &lt;chr&gt;\n 1 audi         a4           1.8  1999     4 auto… f        18    29 p     comp…\n 2 audi         a4           1.8  1999     4 manu… f        21    29 p     comp…\n 3 audi         a4           2    2008     4 manu… f        20    31 p     comp…\n 4 audi         a4           2    2008     4 auto… f        21    30 p     comp…\n 5 audi         a4           2.8  1999     6 auto… f        16    26 p     comp…\n 6 audi         a4           2.8  1999     6 manu… f        18    26 p     comp…\n 7 audi         a4           3.1  2008     6 auto… f        18    27 p     comp…\n 8 audi         a4 quattro   1.8  1999     4 manu… 4        18    26 p     comp…\n 9 audi         a4 quattro   1.8  1999     4 auto… 4        16    25 p     comp…\n10 audi         a4 quattro   2    2008     4 manu… 4        20    28 p     comp…\n# ℹ 133 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#filter-character",
+    "href": "slides/w4_dplyr.html#filter-character",
+    "title": "Week 4: Data Wrangling",
+    "section": "filter character",
+    "text": "filter character\nuse == NOT =\n\n\n\npenguins |&gt;\n    filter(species == \"Gentoo\")\n\n# A tibble: 124 × 8\n   species island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Gentoo  Biscoe           46.1          13.2               211        4500\n 2 Gentoo  Biscoe           50            16.3               230        5700\n 3 Gentoo  Biscoe           48.7          14.1               210        4450\n 4 Gentoo  Biscoe           50            15.2               218        5700\n 5 Gentoo  Biscoe           47.6          14.5               215        5400\n 6 Gentoo  Biscoe           46.5          13.5               210        4550\n 7 Gentoo  Biscoe           45.4          14.6               211        4800\n 8 Gentoo  Biscoe           46.7          15.3               219        5200\n 9 Gentoo  Biscoe           43.3          13.4               209        4400\n10 Gentoo  Biscoe           46.8          15.4               215        5150\n# ℹ 114 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\n\n\n\n\npenguins |&gt;\n    filter(species = \"Gentoo\")\n\nError in `filter()`:\n! We detected a named input.\nℹ This usually means that you've used `=` instead of `==`.\nℹ Did you mean `species == \"Gentoo\"`?"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#gentoo-starting-after-2007",
+    "href": "slides/w4_dplyr.html#gentoo-starting-after-2007",
+    "title": "Week 4: Data Wrangling",
+    "section": "Gentoo starting after 2007",
+    "text": "Gentoo starting after 2007\n, is equivalent to &\n\n\n\npenguins |&gt; \n  filter(\n    species == \"Gentoo\" &\n    year &gt; 2007\n  )\n\n# A tibble: 90 × 8\n   species island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Gentoo  Biscoe           49.1          14.8               220        5150\n 2 Gentoo  Biscoe           48.4          16.3               220        5400\n 3 Gentoo  Biscoe           42.6          13.7               213        4950\n 4 Gentoo  Biscoe           44.4          17.3               219        5250\n 5 Gentoo  Biscoe           44            13.6               208        4350\n 6 Gentoo  Biscoe           48.7          15.7               208        5350\n 7 Gentoo  Biscoe           42.7          13.7               208        3950\n 8 Gentoo  Biscoe           49.6          16                 225        5700\n 9 Gentoo  Biscoe           45.3          13.7               210        4300\n10 Gentoo  Biscoe           49.6          15                 216        4750\n# ℹ 80 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\n\n\n\n\npenguins |&gt; \n  filter(\n    species == \"Gentoo\",\n    year &gt; 2007\n  )\n\n# A tibble: 90 × 8\n   species island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Gentoo  Biscoe           49.1          14.8               220        5150\n 2 Gentoo  Biscoe           48.4          16.3               220        5400\n 3 Gentoo  Biscoe           42.6          13.7               213        4950\n 4 Gentoo  Biscoe           44.4          17.3               219        5250\n 5 Gentoo  Biscoe           44            13.6               208        4350\n 6 Gentoo  Biscoe           48.7          15.7               208        5350\n 7 Gentoo  Biscoe           42.7          13.7               208        3950\n 8 Gentoo  Biscoe           49.6          16                 225        5700\n 9 Gentoo  Biscoe           45.3          13.7               210        4300\n10 Gentoo  Biscoe           49.6          15                 216        4750\n# ℹ 80 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#filter-note",
+    "href": "slides/w4_dplyr.html#filter-note",
+    "title": "Week 4: Data Wrangling",
+    "section": "filter() note",
+    "text": "filter() note\n\n\nCan’t write:\n\npenguins |&gt; \n  filter(island == \"Briscoe\" | \"Dream\")\n\n\n\nError in `filter()`:\nℹ In argument: `island == \"Briscoe\" | \"Dream\"`.\nCaused by error in `island == \"Briscoe\" | \"Dream\"`:\n! operations are possible only for numeric, logical or complex types\n\n\n\nMust be:\n\npenguins |&gt; \n  filter(island == \"Briscoe\" | island == \"Dream\")\n\n\n\n# A tibble: 124 × 8\n   species island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Dream            39.5          16.7               178        3250\n 2 Adelie  Dream            37.2          18.1               178        3900\n 3 Adelie  Dream            39.5          17.8               188        3300\n 4 Adelie  Dream            40.9          18.9               184        3900\n 5 Adelie  Dream            36.4          17                 195        3325\n 6 Adelie  Dream            39.2          21.1               196        4150\n 7 Adelie  Dream            38.8          20                 190        3950\n 8 Adelie  Dream            42.2          18.5               180        3550\n 9 Adelie  Dream            37.6          19.3               181        3300\n10 Adelie  Dream            39.8          19.1               184        4650\n# ℹ 114 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#more-filter",
+    "href": "slides/w4_dplyr.html#more-filter",
+    "title": "Week 4: Data Wrangling",
+    "section": "more filter()",
+    "text": "more filter()\n\nreads\n\n# A tibble: 48 × 25\n   test_year      test_type test_site student_id pre_test_score pre_test_percent\n   &lt;chr&gt;          &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;           \n 1 06/01/2016 12… YEAR END  VIRDEN    Virden 1               43 29%             \n 2 06/01/2016 12… YEAR END  VIRDEN    Virden 2               46 31%             \n 3 06/01/2016 12… YEAR END  VIRDEN    Virden 3               39 26%             \n 4 06/01/2016 12… YEAR END  VIRDEN    Virden 4               35 23%             \n 5 06/01/2016 12… YEAR END  VIRDEN    Virden 5               46 31%             \n 6 06/01/2016 12… YEAR END  VIRDEN    Virden 6               35 23%             \n 7 06/01/2016 12… YEAR END  VIRDEN    Virden 7               40 27%             \n 8 06/01/2016 12… YEAR END  VIRDEN    Virden 8               39 26%             \n 9 06/01/2016 12… YEAR END  VIRDEN    Virden 9               40 27%             \n10 06/01/2016 12… YEAR END  VIRDEN    Virden 10              45 30%             \n# ℹ 38 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#more-filter-1",
+    "href": "slides/w4_dplyr.html#more-filter-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "more filter()",
+    "text": "more filter()\nAnomaly in the data\n\nreads |&gt;\n count(student_id)\n\n# A tibble: 46 × 2\n   student_id                 n\n   &lt;chr&gt;                  &lt;int&gt;\n 1 All Students (Average)     3\n 2 Jones 1                    1\n 3 Jones 10                   1\n 4 Jones 11                   1\n 5 Jones 12                   1\n 6 Jones 13                   1\n 7 Jones 14                   1\n 8 Jones 15                   1\n 9 Jones 2                    1\n10 Jones 3                    1\n# ℹ 36 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#lets-remove-these-aggregate-rows",
+    "href": "slides/w4_dplyr.html#lets-remove-these-aggregate-rows",
+    "title": "Week 4: Data Wrangling",
+    "section": "Let’s remove these aggregate rows",
+    "text": "Let’s remove these aggregate rows\n\nstudents_only &lt;- reads |&gt;\n  filter(student_id != \"All Students (Average)\") \n\nstudents_only |&gt; \n  count(student_id)\n\n# A tibble: 45 × 2\n   student_id     n\n   &lt;chr&gt;      &lt;int&gt;\n 1 Jones 1        1\n 2 Jones 10       1\n 3 Jones 11       1\n 4 Jones 12       1\n 5 Jones 13       1\n 6 Jones 14       1\n 7 Jones 15       1\n 8 Jones 2        1\n 9 Jones 3        1\n10 Jones 4        1\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#not-equal",
+    "href": "slides/w4_dplyr.html#not-equal",
+    "title": "Week 4: Data Wrangling",
+    "section": "Not equal",
+    "text": "Not equal\n! means NOT\n!= means NOT equal\nNote:\n\nIf you want values that are NOT NA:\n\nfilter(!is.na(variable))\nfilter(variable != NA)"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#chaining-dplyr-functions",
+    "href": "slides/w4_dplyr.html#chaining-dplyr-functions",
+    "title": "Week 4: Data Wrangling",
+    "section": "Chaining {dplyr} functions",
+    "text": "Chaining {dplyr} functions\nWhat if we wanted to filter then select a data set?\nSelect “island” and “species” of penguins over 4200 grams\n\n\nTwo step method 😐\n\n\npenguins_big &lt;- filter(penguins, body_mass_g &gt; 4200)\n\npenguins_big &lt;- select(penguins_big, island, species)"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#chaining-dplyr-functions-1",
+    "href": "slides/w4_dplyr.html#chaining-dplyr-functions-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Chaining {dplyr} functions",
+    "text": "Chaining {dplyr} functions\n\nAlternatively, we could wrap select around filter ☹️\n\n\nselect(filter(penguins, body_mass_g &gt; 4200), island, species)\n\n# A tibble: 149 × 2\n   island    species\n   &lt;fct&gt;     &lt;fct&gt;  \n 1 Torgersen Adelie \n 2 Torgersen Adelie \n 3 Torgersen Adelie \n 4 Torgersen Adelie \n 5 Dream     Adelie \n 6 Dream     Adelie \n 7 Dream     Adelie \n 8 Biscoe    Adelie \n 9 Biscoe    Adelie \n10 Torgersen Adelie \n# ℹ 139 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#chaining-dplyr-functions-2",
+    "href": "slides/w4_dplyr.html#chaining-dplyr-functions-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "Chaining {dplyr} functions",
+    "text": "Chaining {dplyr} functions\n\nPiping functions 🎉\n\nWe could use the pipe function to help increase the readability of our code:  |&gt; \nCalled the “pipe” operator and “piping functions”\n\nfilter(penguins, body_mass_g &gt; 4200) |&gt; \n  select(island, species)\n\n# A tibble: 149 × 2\n   island    species\n   &lt;fct&gt;     &lt;fct&gt;  \n 1 Torgersen Adelie \n 2 Torgersen Adelie \n 3 Torgersen Adelie \n 4 Torgersen Adelie \n 5 Dream     Adelie \n 6 Dream     Adelie \n 7 Dream     Adelie \n 8 Biscoe    Adelie \n 9 Biscoe    Adelie \n10 Torgersen Adelie \n# ℹ 139 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#piping-functions",
+    "href": "slides/w4_dplyr.html#piping-functions",
+    "title": "Week 4: Data Wrangling",
+    "section": "Piping functions",
+    "text": "Piping functions\nEven better:\n\nGenerally when using the pipe, the first argument is the data set, which gets piped through the corresponding functions\nSo the code on the prior slide would be:\n\n\npenguins |&gt; \n  filter(body_mass_g &gt; 4200) |&gt; \n  select(island, species)\n\n# A tibble: 149 × 2\n   island    species\n   &lt;fct&gt;     &lt;fct&gt;  \n 1 Torgersen Adelie \n 2 Torgersen Adelie \n 3 Torgersen Adelie \n 4 Torgersen Adelie \n 5 Dream     Adelie \n 6 Dream     Adelie \n 7 Dream     Adelie \n 8 Biscoe    Adelie \n 9 Biscoe    Adelie \n10 Torgersen Adelie \n# ℹ 139 more rows\n\n\n\n\nNote the lovely indentations and line breaks to help keep things straight! This is nice!"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#filter_out",
+    "href": "slides/w4_dplyr.html#filter_out",
+    "title": "Week 4: Data Wrangling",
+    "section": "filter_out()",
+    "text": "filter_out()\nHot out the tidyverse factory!\n\n\nfilter() is designed around supplying rules about which rows to keep\nWe need a verb designed around supplying which rows to drop\n\nBoth filter() and filter_out() treats NA values as FALSE\n\nfilter_out() expects that you are going to tell it which rows to drop, so the default behavior of treating NA like FALSE works with you rather than against you"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#quick-example",
+    "href": "slides/w4_dplyr.html#quick-example",
+    "title": "Week 4: Data Wrangling",
+    "section": "Quick example",
+    "text": "Quick example\nFilter out rows where the patient is deceased and the year was before 2012\n\n(patients &lt;- tibble(\n  name = c(\"Anne\", \"Mark\", \"Sarah\", \"Davis\", \"Max\", \"Derek\", \"Tina\"),\n  deceased = c(FALSE, TRUE, NA, TRUE, NA, FALSE, TRUE),\n  date = c(2005, 2010, NA, 2020, 2010, NA, NA)\n))\n\n# A tibble: 7 × 3\n  name  deceased  date\n  &lt;chr&gt; &lt;lgl&gt;    &lt;dbl&gt;\n1 Anne  FALSE     2005\n2 Mark  TRUE      2010\n3 Sarah NA          NA\n4 Davis TRUE      2020\n5 Max   NA        2010\n6 Derek FALSE       NA\n7 Tina  TRUE        NA"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#what-we-think-we-want",
+    "href": "slides/w4_dplyr.html#what-we-think-we-want",
+    "title": "Week 4: Data Wrangling",
+    "section": "What we think we want",
+    "text": "What we think we want\n\npatients |&gt;\n  filter(!(deceased & date &lt; 2012))\n\n\nBut the result shows…\n\n\n# A tibble: 4 × 3\n  name  deceased  date\n  &lt;chr&gt; &lt;lgl&gt;    &lt;dbl&gt;\n1 Mark  TRUE      2010\n2 Sarah NA          NA\n3 Max   NA        2010\n4 Tina  TRUE        NA\n\n\nWe dropped rows with NA because we aren’t sure about the condition\nWe only should have dropped “Mark”!"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#correct-with-filter",
+    "href": "slides/w4_dplyr.html#correct-with-filter",
+    "title": "Week 4: Data Wrangling",
+    "section": "Correct with filter()",
+    "text": "Correct with filter()\n\n\n\npatients |&gt;\n  filter(\n    !((deceased & !is.na(deceased)) &\n      (date &lt; 2012 & !is.na(date)))\n  )\n\n# A tibble: 6 × 3\n  name  deceased  date\n  &lt;chr&gt; &lt;lgl&gt;    &lt;dbl&gt;\n1 Anne  FALSE     2005\n2 Sarah NA          NA\n3 Davis TRUE      2020\n4 Max   NA        2010\n5 Derek FALSE       NA\n6 Tina  TRUE        NA"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#better-with-filter_out",
+    "href": "slides/w4_dplyr.html#better-with-filter_out",
+    "title": "Week 4: Data Wrangling",
+    "section": "Better with filter_out()",
+    "text": "Better with filter_out()\n\npatients |&gt;\n  filter_out(deceased, date &lt; 2012)\n\n# A tibble: 6 × 3\n  name  deceased  date\n  &lt;chr&gt; &lt;lgl&gt;    &lt;dbl&gt;\n1 Anne  FALSE     2005\n2 Sarah NA          NA\n3 Davis TRUE      2020\n4 Max   NA        2010\n5 Derek FALSE       NA\n6 Tina  TRUE        NA"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#some-new-data",
+    "href": "slides/w4_dplyr.html#some-new-data",
+    "title": "Week 4: Data Wrangling",
+    "section": "Some new data",
+    "text": "Some new data\n\n(prepost &lt;- reads |&gt; \n  filter(student_id != \"All Students (Average)\") |&gt; \n  select(student_id, test_site, pre_test_score, post_test_score))\n\n\n\n# A tibble: 45 × 4\n   student_id test_site pre_test_score post_test_score\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92\n 2 Virden 2   VIRDEN                46             104\n 3 Virden 3   VIRDEN                39              75\n 4 Virden 4   VIRDEN                35             115\n 5 Virden 5   VIRDEN                46              85\n 6 Virden 6   VIRDEN                35              91\n 7 Virden 7   VIRDEN                40              96\n 8 Virden 8   VIRDEN                39              74\n 9 Virden 9   VIRDEN                40              90\n10 Virden 10  VIRDEN                45              86\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#mutate-1",
+    "href": "slides/w4_dplyr.html#mutate-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "mutate()",
+    "text": "mutate()\nAdd a variable\n\nprepost |&gt; \n  mutate(gain = post_test_score - pre_test_score)\n\n\n\n# A tibble: 45 × 5\n   student_id test_site pre_test_score post_test_score  gain\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92    49\n 2 Virden 2   VIRDEN                46             104    58\n 3 Virden 3   VIRDEN                39              75    36\n 4 Virden 4   VIRDEN                35             115    80\n 5 Virden 5   VIRDEN                46              85    39\n 6 Virden 6   VIRDEN                35              91    56\n 7 Virden 7   VIRDEN                40              96    56\n 8 Virden 8   VIRDEN                39              74    35\n 9 Virden 9   VIRDEN                40              90    50\n10 Virden 10  VIRDEN                45              86    41\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#section-3",
+    "href": "slides/w4_dplyr.html#section-3",
+    "title": "Week 4: Data Wrangling",
+    "section": "",
+    "text": "names(prepost)\n\n[1] \"student_id\"      \"test_site\"       \"pre_test_score\"  \"post_test_score\"\n\n\n\nWhy do we not see the new gain column?"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#mutate-2",
+    "href": "slides/w4_dplyr.html#mutate-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "mutate()",
+    "text": "mutate()\nAdd multiple variables…\nUse a variable you just created!\n\nprepost &lt;- prepost |&gt;\n  mutate(\n    gain = post_test_score - pre_test_score,\n    sum_tests = post_test_score + pre_test_score,\n    pct_tests = (sum_tests/180) * 100\n  )\nprepost\n\n\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92    49       135      75  \n 2 Virden 2   VIRDEN                46             104    58       150      83.3\n 3 Virden 3   VIRDEN                39              75    36       114      63.3\n 4 Virden 4   VIRDEN                35             115    80       150      83.3\n 5 Virden 5   VIRDEN                46              85    39       131      72.8\n 6 Virden 6   VIRDEN                35              91    56       126      70  \n 7 Virden 7   VIRDEN                40              96    56       136      75.6\n 8 Virden 8   VIRDEN                39              74    35       113      62.8\n 9 Virden 9   VIRDEN                40              90    50       130      72.2\n10 Virden 10  VIRDEN                45              86    41       131      72.8\n# ℹ 35 more rows\n\n\n\n\nAgain, note the line breaks to help keep things straight! This is nice!"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#mutate-3",
+    "href": "slides/w4_dplyr.html#mutate-3",
+    "title": "Week 4: Data Wrangling",
+    "section": "mutate()",
+    "text": "mutate()\nChange a variable\n\nprepost &lt;- prepost |&gt; \n  mutate(student_id = parse_number(student_id))\nprepost\n\n\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1          1 VIRDEN                43              92    49       135      75  \n 2          2 VIRDEN                46             104    58       150      83.3\n 3          3 VIRDEN                39              75    36       114      63.3\n 4          4 VIRDEN                35             115    80       150      83.3\n 5          5 VIRDEN                46              85    39       131      72.8\n 6          6 VIRDEN                35              91    56       126      70  \n 7          7 VIRDEN                40              96    56       136      75.6\n 8          8 VIRDEN                39              74    35       113      62.8\n 9          9 VIRDEN                40              90    50       130      72.2\n10         10 VIRDEN                45              86    41       131      72.8\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#arrange-1",
+    "href": "slides/w4_dplyr.html#arrange-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "arrange()",
+    "text": "arrange()\nOrder the data\n\nOrder by “gain”, ascending [default]\n\n\nprepost |&gt; \n  arrange(gain)\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1         12 JONES                 27              32     5        59      32.8\n 2          6 WESTSIDE              57              82    25       139      77.2\n 3          8 VIRDEN                39              74    35       113      62.8\n 4          3 VIRDEN                39              75    36       114      63.3\n 5          5 VIRDEN                46              85    39       131      72.8\n 6         10 VIRDEN                45              86    41       131      72.8\n 7          3 JONES                 54              95    41       149      82.8\n 8          1 VIRDEN                43              92    49       135      75  \n 9         13 JONES                 49              98    49       147      81.7\n10         13 WESTSIDE              45              94    49       139      77.2\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#arrange-2",
+    "href": "slides/w4_dplyr.html#arrange-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "arrange()",
+    "text": "arrange()\nOrder the data\n\nOrder by “pre_test_score” and “gain”, ascending\n\n\nprepost |&gt; \n  arrange(pre_test_score, gain)\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1         11 JONES                 24             108    84       132      73.3\n 2          4 JONES                 25              99    74       124      68.9\n 3         12 JONES                 27              32     5        59      32.8\n 4         12 VIRDEN                31             102    71       133      73.9\n 5         11 VIRDEN                32              91    59       123      68.3\n 6         13 VIRDEN                33              86    53       119      66.1\n 7          6 VIRDEN                35              91    56       126      70  \n 8         15 VIRDEN                35             101    66       136      75.6\n 9          9 JONES                 35             109    74       144      80  \n10          4 VIRDEN                35             115    80       150      83.3\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#arrange-3",
+    "href": "slides/w4_dplyr.html#arrange-3",
+    "title": "Week 4: Data Wrangling",
+    "section": "arrange()",
+    "text": "arrange()\nOrder the data\n\nOrder by “gain”, descending\n\n\nprepost |&gt; \n  arrange(desc(gain))\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1         11 JONES                 24             108    84       132      73.3\n 2          4 VIRDEN                35             115    80       150      83.3\n 3          4 JONES                 25              99    74       124      68.9\n 4          5 JONES                 36             110    74       146      81.1\n 5          9 JONES                 35             109    74       144      80  \n 6         12 VIRDEN                31             102    71       133      73.9\n 7          1 JONES                 36             103    67       139      77.2\n 8         15 VIRDEN                35             101    66       136      75.6\n 9          6 JONES                 40             106    66       146      81.1\n10          8 WESTSIDE              43             109    66       152      84.4\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#arrange-4",
+    "href": "slides/w4_dplyr.html#arrange-4",
+    "title": "Week 4: Data Wrangling",
+    "section": "arrange()",
+    "text": "arrange()\nOrder the data\n\nOrder by “pre_test_score” and “gain”, descending\n\n\nprepost |&gt; \n  arrange(desc(pre_test_score), desc(gain))\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1          6 WESTSIDE              57              82    25       139      77.2\n 2          3 JONES                 54              95    41       149      82.8\n 3          1 WESTSIDE              53             109    56       162      90  \n 4          2 WESTSIDE              51             105    54       156      86.7\n 5          3 WESTSIDE              51             105    54       156      86.7\n 6          8 JONES                 50             101    51       151      83.9\n 7          7 WESTSIDE              49             109    60       158      87.8\n 8          7 JONES                 49             104    55       153      85  \n 9         13 JONES                 49              98    49       147      81.7\n10          5 WESTSIDE              46             106    60       152      84.4\n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#summarize-1",
+    "href": "slides/w4_dplyr.html#summarize-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "summarize()",
+    "text": "summarize()\nsummarize() or summarise()\n\nHere: compute the mean and standard deviation of the gain scores\nWhat are we looking at?\n\n\nprepost |&gt; \n  summarize(mean_gain = mean(gain, na.rm = TRUE),\n            sd_gain = sd(gain, na.rm = TRUE))\n\n# A tibble: 1 × 2\n  mean_gain sd_gain\n      &lt;dbl&gt;   &lt;dbl&gt;\n1      56.4    14.1\n\n\n\nThis is a good start for a descriptive table!"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#section-4",
+    "href": "slides/w4_dplyr.html#section-4",
+    "title": "Week 4: Data Wrangling",
+    "section": "",
+    "text": "Image from Software Carpentry"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#group_by-1",
+    "href": "slides/w4_dplyr.html#group_by-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "group_by()",
+    "text": "group_by()\nConduct an operation for each level of a grouping factor\nHere, compute the mean gain for each test site\n\nprepost |&gt; \n  group_by(test_site) |&gt; \n  summarize(mean_gain = mean(gain))\n\n\n\n# A tibble: 3 × 2\n  test_site mean_gain\n  &lt;chr&gt;         &lt;dbl&gt;\n1 JONES          59  \n2 VIRDEN         53.8\n3 WESTSIDE       56.3"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#group_by-2",
+    "href": "slides/w4_dplyr.html#group_by-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "group_by()",
+    "text": "group_by()\nWhen you use group_by() and summarize()\n\n\nYou will get a row for each unique group\n\nmpg |&gt; \n  group_by(cyl) |&gt; \n  summarize(max_hwy = max(hwy))\n\n# A tibble: 4 × 2\n    cyl max_hwy\n  &lt;int&gt;   &lt;int&gt;\n1     4      44\n2     5      29\n3     6      29\n4     8      26\n\n\n\nIf you have multiple grouping variables, you will get a row for each unique combination of groups\n\nmpg |&gt; \n  group_by(cyl, drv) |&gt; \n  summarize(max_hwy = max(hwy))\n\n# A tibble: 9 × 3\n# Groups:   cyl [4]\n    cyl drv   max_hwy\n  &lt;int&gt; &lt;chr&gt;   &lt;int&gt;\n1     4 4          28\n2     4 f          44\n3     5 f          29\n4     6 4          25\n5     6 f          29\n6     6 r          26\n7     8 4          23\n8     8 f          25\n9     8 r          26"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#add-summarized-column-to-full-data",
+    "href": "slides/w4_dplyr.html#add-summarized-column-to-full-data",
+    "title": "Week 4: Data Wrangling",
+    "section": "Add summarized column to full data",
+    "text": "Add summarized column to full data\nUse mutate()!\n\nprepost |&gt; \n  group_by(test_site) |&gt; \n  mutate(mean_gain = mean(gain))\n\n# A tibble: 45 × 8\n# Groups:   test_site [3]\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1          1 VIRDEN                43              92    49       135      75  \n 2          2 VIRDEN                46             104    58       150      83.3\n 3          3 VIRDEN                39              75    36       114      63.3\n 4          4 VIRDEN                35             115    80       150      83.3\n 5          5 VIRDEN                46              85    39       131      72.8\n 6          6 VIRDEN                35              91    56       126      70  \n 7          7 VIRDEN                40              96    56       136      75.6\n 8          8 VIRDEN                39              74    35       113      62.8\n 9          9 VIRDEN                40              90    50       130      72.2\n10         10 VIRDEN                45              86    41       131      72.8\n# ℹ 35 more rows\n# ℹ 1 more variable: mean_gain &lt;dbl&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#retain-only-summarized-columns",
+    "href": "slides/w4_dplyr.html#retain-only-summarized-columns",
+    "title": "Week 4: Data Wrangling",
+    "section": "Retain only summarized columns",
+    "text": "Retain only summarized columns\nUse summarize()!\n\nprepost |&gt; \n  group_by(test_site) |&gt; \n  summarize(mean_gain = mean(gain))\n\n# A tibble: 3 × 2\n  test_site mean_gain\n  &lt;chr&gt;         &lt;dbl&gt;\n1 JONES          59  \n2 VIRDEN         53.8\n3 WESTSIDE       56.3"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#pipe-to-ggplot",
+    "href": "slides/w4_dplyr.html#pipe-to-ggplot",
+    "title": "Week 4: Data Wrangling",
+    "section": "Pipe to {ggplot}!",
+    "text": "Pipe to {ggplot}!\n\nprepost |&gt; \n  group_by(test_site) |&gt; \n  summarize(mean_gain = mean(gain)) |&gt; \n  ggplot(aes(test_site, mean_gain)) + \n  geom_col(fill = \"cornflowerblue\", alpha = .7) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#summarizing-and-plotting",
+    "href": "slides/w4_dplyr.html#summarizing-and-plotting",
+    "title": "Week 4: Data Wrangling",
+    "section": "Summarizing and Plotting",
+    "text": "Summarizing and Plotting\n\nCalculate mean post_test_score by test site\n\n\nstudents_only |&gt;\n  group_by(test_site) |&gt;\n  summarize(mean = mean(post_test_score))\n\n# A tibble: 3 × 2\n  test_site  mean\n  &lt;chr&gt;     &lt;dbl&gt;\n1 JONES      97.8\n2 VIRDEN     92.5\n3 WESTSIDE  103."
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#plot-it",
+    "href": "slides/w4_dplyr.html#plot-it",
+    "title": "Week 4: Data Wrangling",
+    "section": "Plot it",
+    "text": "Plot it\n\ntheme_set(theme_minimal(base_size = 18))\n\nstudents_only |&gt;\n  group_by(test_site) |&gt;\n  summarize(mean = mean(post_test_score)) |&gt;\n  ggplot(aes(test_site, mean)) +\n  geom_col(alpha = 0.8)"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-with-ifelse",
+    "href": "slides/w4_dplyr.html#recode-with-ifelse",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode with ifelse()",
+    "text": "Recode with ifelse()\nRecoding into dichotomous variable with ifelse()\nifelse(test, test == TRUE, test == FALSE)\nor\nifelse(logical statement, do this if TRUE, else do this)"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-with-ifelse-1",
+    "href": "slides/w4_dplyr.html#recode-with-ifelse-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode with ifelse()",
+    "text": "Recode with ifelse()\nRecoding into dichotomous variable with ifelse()\nRemember to pair with mutate()!\n\nstudents_only |&gt; \n  mutate(new_test_site = ifelse(test_site == \"JONES\", \"district 1\", \"district 2\")) |&gt; \n  select(test_site, new_test_site)\n\n\n\n# A tibble: 45 × 2\n   test_site new_test_site\n   &lt;chr&gt;     &lt;chr&gt;        \n 1 VIRDEN    district 2   \n 2 VIRDEN    district 2   \n 3 VIRDEN    district 2   \n 4 VIRDEN    district 2   \n 5 VIRDEN    district 2   \n 6 VIRDEN    district 2   \n 7 VIRDEN    district 2   \n 8 VIRDEN    district 2   \n 9 VIRDEN    district 2   \n10 VIRDEN    district 2   \n# ℹ 35 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-with-recode",
+    "href": "slides/w4_dplyr.html#recode-with-recode",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode with recode()",
+    "text": "Recode with recode()\nRecoding into multinomial variable\n\nrecode(variable,\n       old_category_1 = \"new_category_1\",\n         old_category_2 = \"new_category_2\",\n         old_category_3 = \"new_category_3\",\n       ...\n)"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-with-recode-1",
+    "href": "slides/w4_dplyr.html#recode-with-recode-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode with recode()",
+    "text": "Recode with recode()\nRecoding into multinomial variable\nRemember to pair with mutate()\n\nstudents_only |&gt; \n  mutate(test_site = recode(test_site,\n                            JONES = \"Jones Middle\",\n                            VIRDEN = \"Virden Elementary\",\n                            WESTSIDE = \"Westside High\"\n                            )\n        )\n\n\n\n# A tibble: 45 × 25\n   test_year      test_type test_site student_id pre_test_score pre_test_percent\n   &lt;chr&gt;          &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;           \n 1 06/01/2016 12… YEAR END  Virden E… Virden 1               43 29%             \n 2 06/01/2016 12… YEAR END  Virden E… Virden 2               46 31%             \n 3 06/01/2016 12… YEAR END  Virden E… Virden 3               39 26%             \n 4 06/01/2016 12… YEAR END  Virden E… Virden 4               35 23%             \n 5 06/01/2016 12… YEAR END  Virden E… Virden 5               46 31%             \n 6 06/01/2016 12… YEAR END  Virden E… Virden 6               35 23%             \n 7 06/01/2016 12… YEAR END  Virden E… Virden 7               40 27%             \n 8 06/01/2016 12… YEAR END  Virden E… Virden 8               39 26%             \n 9 06/01/2016 12… YEAR END  Virden E… Virden 9               40 27%             \n10 06/01/2016 12… YEAR END  Virden E… Virden 10              45 30%             \n# ℹ 35 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-with-recode-2",
+    "href": "slides/w4_dplyr.html#recode-with-recode-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode with recode()",
+    "text": "Recode with recode()\nRemember to use backticks `` for special characters\n\nmtcars |&gt; \n  mutate(cyl_str = recode(cyl,\n                      `4` = \"cylinders4\",\n                      `6` = \"cylinders6\",\n                      `8` = \"cylinders8\"\n                      )\n         ) |&gt; \n  as_tibble()\n\n\n\n# A tibble: 32 × 12\n     mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb cyl_str   \n   &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;     \n 1  21       6  160    110  3.9   2.62  16.5     0     1     4     4 cylinders6\n 2  21       6  160    110  3.9   2.88  17.0     0     1     4     4 cylinders6\n 3  22.8     4  108     93  3.85  2.32  18.6     1     1     4     1 cylinders4\n 4  21.4     6  258    110  3.08  3.22  19.4     1     0     3     1 cylinders6\n 5  18.7     8  360    175  3.15  3.44  17.0     0     0     3     2 cylinders8\n 6  18.1     6  225    105  2.76  3.46  20.2     1     0     3     1 cylinders6\n 7  14.3     8  360    245  3.21  3.57  15.8     0     0     3     4 cylinders8\n 8  24.4     4  147.    62  3.69  3.19  20       1     0     4     2 cylinders4\n 9  22.8     4  141.    95  3.92  3.15  22.9     1     0     4     2 cylinders4\n10  19.2     6  168.   123  3.92  3.44  18.3     1     0     4     4 cylinders6\n# ℹ 22 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-with-case_when",
+    "href": "slides/w4_dplyr.html#recode-with-case_when",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode with case_when()",
+    "text": "Recode with case_when()\nRecoding across several variables, or if you find yourself using nested ifelse() statements\nRemember to pair with mutate()\n\nlibrary(palmerpenguins)\n\npenguins |&gt; \n  mutate(species_big = \n           case_when(\n             body_mass_g &gt; 4500 & species == \"Adelie\" ~ \"adelie_big\",\n             body_mass_g &gt; 4600 & species == \"Chinstrap\" ~ \"chinstrap_big\",\n             body_mass_g &gt; 6000 & species == \"Gentoo\" ~ \"gentoo_big\",\n             .default = \"other\"\n           ))\n\n\n.default equivalent to all else"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-with-case_when-1",
+    "href": "slides/w4_dplyr.html#recode-with-case_when-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode with case_when()",
+    "text": "Recode with case_when()\n.default equivalent to all else\n.unmatched = \"error\" rather than .default and case_when() will error if that assertion doesn’t hold\nThis is great for defensive programming!\n\npenguins |&gt; \n  mutate(species_big = \n           case_when(\n             body_mass_g &gt; 4500 & species == \"Adelie\" ~ \"adelie_big\",\n             body_mass_g &gt; 4600 & species == \"Chinstrap\" ~ \"chinstrap_big\",\n             body_mass_g &gt; 6000 & species == \"Gentoo\" ~ \"gentoo_big\",\n             .unmatched = \"error\"\n           ))\n\n\n\nError in `mutate()`:\nℹ In argument: `species_big = case_when(...)`.\nCaused by error in `case_when()`:\n! Each location must be matched.\n✖ Locations 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, …, 343, and 344 are unmatched."
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-some-values",
+    "href": "slides/w4_dplyr.html#recode-some-values",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode some values",
+    "text": "Recode some values\nreplace_when() is useful when you’re updating an existing column and not mutating an entirely new one\n\n(pets &lt;- tibble(\n  name = c(\"Max\", \"Bella\", \"Chuck\", \"Luna\", \"Cooper\"),\n  type = factor(\n    c(\"dog\", \"dog\", \"cat\", \"dog\", \"cat\"),\n    levels = c(\"dog\", \"cat\", \"puppy\")\n  ),\n  age = c(1, 3, 5, 2, 4)\n))\n\n# A tibble: 5 × 3\n  name   type    age\n  &lt;chr&gt;  &lt;fct&gt; &lt;dbl&gt;\n1 Max    dog       1\n2 Bella  dog       3\n3 Chuck  cat       5\n4 Luna   dog       2\n5 Cooper cat       4"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#recode-some-values-1",
+    "href": "slides/w4_dplyr.html#recode-some-values-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "Recode some values",
+    "text": "Recode some values\nReplace some type values with \"puppy\" based on certain conditions\n\npets |&gt;\n  mutate(\n    type = replace_when(type, \n                        type == \"dog\" & age &lt;= 2 ~ \"puppy\")\n  )\n\n# A tibble: 5 × 3\n  name   type    age\n  &lt;chr&gt;  &lt;fct&gt; &lt;dbl&gt;\n1 Max    puppy     1\n2 Bella  dog       3\n3 Chuck  cat       5\n4 Luna   puppy     2\n5 Cooper cat       4\n\n\n\nEasier to read with the pipe\n\npets |&gt;\n  mutate(\n    type = type |&gt; \n      replace_when(\n        type == \"dog\" & age &lt;= 2 ~ \"puppy\")\n  )\n\n# A tibble: 5 × 3\n  name   type    age\n  &lt;chr&gt;  &lt;fct&gt; &lt;dbl&gt;\n1 Max    puppy     1\n2 Bella  dog       3\n3 Chuck  cat       5\n4 Luna   puppy     2\n5 Cooper cat       4"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#rename",
+    "href": "slides/w4_dplyr.html#rename",
+    "title": "Week 4: Data Wrangling",
+    "section": "rename()",
+    "text": "rename()\nrename(new_name = old_name)\nNOT paired with mutate()\n\npenguins |&gt;\n  rename(\n    home = island,\n    bill_length = bill_length_mm\n  )\n\n# A tibble: 344 × 8\n   species home    bill_length bill_depth_mm flipper_length_mm body_mass_g sex  \n   &lt;fct&gt;   &lt;fct&gt;         &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt; &lt;fct&gt;\n 1 Adelie  Torger…        39.1          18.7               181        3750 male \n 2 Adelie  Torger…        39.5          17.4               186        3800 fema…\n 3 Adelie  Torger…        40.3          18                 195        3250 fema…\n 4 Adelie  Torger…        NA            NA                  NA          NA &lt;NA&gt; \n 5 Adelie  Torger…        36.7          19.3               193        3450 fema…\n 6 Adelie  Torger…        39.3          20.6               190        3650 male \n 7 Adelie  Torger…        38.9          17.8               181        3625 fema…\n 8 Adelie  Torger…        39.2          19.6               195        4675 male \n 9 Adelie  Torger…        34.1          18.1               193        3475 &lt;NA&gt; \n10 Adelie  Torger…        42            20.2               190        4250 &lt;NA&gt; \n# ℹ 334 more rows\n# ℹ 1 more variable: year &lt;int&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#rename-with-select",
+    "href": "slides/w4_dplyr.html#rename-with-select",
+    "title": "Week 4: Data Wrangling",
+    "section": "rename with select()",
+    "text": "rename with select()\n\npenguins |&gt; \n  select(species, home = island, bill_length = bill_length_mm, year) \n\n# A tibble: 344 × 4\n   species home      bill_length  year\n   &lt;fct&gt;   &lt;fct&gt;           &lt;dbl&gt; &lt;int&gt;\n 1 Adelie  Torgersen        39.1  2007\n 2 Adelie  Torgersen        39.5  2007\n 3 Adelie  Torgersen        40.3  2007\n 4 Adelie  Torgersen        NA    2007\n 5 Adelie  Torgersen        36.7  2007\n 6 Adelie  Torgersen        39.3  2007\n 7 Adelie  Torgersen        38.9  2007\n 8 Adelie  Torgersen        39.2  2007\n 9 Adelie  Torgersen        34.1  2007\n10 Adelie  Torgersen        42    2007\n# ℹ 334 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#final-notes-on-dplyr",
+    "href": "slides/w4_dplyr.html#final-notes-on-dplyr",
+    "title": "Week 4: Data Wrangling",
+    "section": "Final notes on {dplyr}",
+    "text": "Final notes on {dplyr}\n\nWe could spend weeks on this\nWe’ll be using it all term long\nVerbs can help you gain fluency\nThere are also conditional and all-inclusive versions of mutate(), select(), and summarize()"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across-2",
+    "href": "slides/w4_dplyr.html#across-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nLets’ do the same with across()\n\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~.x/25.4)\n  )\n\n\n# A tibble: 344 × 3\n   bill_length_mm bill_depth_mm flipper_length_mm\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;\n 1           1.54         0.736              7.13\n 2           1.56         0.685              7.32\n 3           1.59         0.709              7.68\n 4          NA           NA                 NA   \n 5           1.44         0.760              7.60\n 6           1.55         0.811              7.48\n 7           1.53         0.701              7.13\n 8           1.54         0.772              7.68\n 9           1.34         0.713              7.60\n10           1.65         0.795              7.48\n# ℹ 334 more rows\n\n\n\nuse helper functions to select columns\n\nor c(bill_length_mm, bill_depth_mm, flipper_length_mm)\n\n.x is a placeholder for all\nKeeps the same names"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across-3",
+    "href": "slides/w4_dplyr.html#across-3",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nSame thing but let’s change the names\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~.x/25.4, .names = \"{sub('_mm', '_in', .col)}\")\n  )\n\n\n\n# A tibble: 344 × 6\n   bill_length_mm bill_depth_mm flipper_length_mm bill_length_in bill_depth_in\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;          &lt;dbl&gt;         &lt;dbl&gt;\n 1           39.1          18.7               181           1.54         0.736\n 2           39.5          17.4               186           1.56         0.685\n 3           40.3          18                 195           1.59         0.709\n 4           NA            NA                  NA          NA           NA    \n 5           36.7          19.3               193           1.44         0.760\n 6           39.3          20.6               190           1.55         0.811\n 7           38.9          17.8               181           1.53         0.701\n 8           39.2          19.6               195           1.54         0.772\n 9           34.1          18.1               193           1.34         0.713\n10           42            20.2               190           1.65         0.795\n# ℹ 334 more rows\n# ℹ 1 more variable: flipper_length_in &lt;dbl&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#before-next-class",
+    "href": "slides/w4_dplyr.html#before-next-class",
+    "title": "Week 4: Data Wrangling",
+    "section": "Before next class",
+    "text": "Before next class\n\nFinal Project\n\nFinal Project: Outline\n\nReading\n\nBryan (2017)\n\nActivities\n\nDownload GitKraken\nWatch What is a Git repository?\nWatch What is a remote repository?\n\nHomework\n\nHomework 4"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#select-2",
+    "href": "slides/w4_dplyr.html#select-2",
+    "title": "Week 4: Data Wrangling",
+    "section": "select()",
+    "text": "select()\nfrom penguins: species and island and body_mass_g\n\nselect(penguins, species, island, body_mass_g)\n\n\nOR more typically\n\npenguins |&gt;\n    select(species, island, body_mass_g)\n\n# A tibble: 344 × 3\n   species island    body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;int&gt;\n 1 Adelie  Torgersen        3750\n 2 Adelie  Torgersen        3800\n 3 Adelie  Torgersen        3250\n 4 Adelie  Torgersen          NA\n 5 Adelie  Torgersen        3450\n 6 Adelie  Torgersen        3650\n 7 Adelie  Torgersen        3625\n 8 Adelie  Torgersen        4675\n 9 Adelie  Torgersen        3475\n10 Adelie  Torgersen        4250\n# ℹ 334 more rows"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across-4",
+    "href": "slides/w4_dplyr.html#across-4",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nLet’s round some columns to the whole number\n\npenguins |&gt; \n  mutate(\n    across(ends_with(\"mm\"), round)\n  )\n\n\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;int&gt;\n 1 Adelie  Torgersen             39            19               181        3750\n 2 Adelie  Torgersen             40            17               186        3800\n 3 Adelie  Torgersen             40            18               195        3250\n 4 Adelie  Torgersen             NA            NA                NA          NA\n 5 Adelie  Torgersen             37            19               193        3450\n 6 Adelie  Torgersen             39            21               190        3650\n 7 Adelie  Torgersen             39            18               181        3625\n 8 Adelie  Torgersen             39            20               195        4675\n 9 Adelie  Torgersen             34            18               193        3475\n10 Adelie  Torgersen             42            20               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across-5",
+    "href": "slides/w4_dplyr.html#across-5",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nLet’s round some columns to the second decimal\n\npenguins |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~round(., 2))\n  )\n\n\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across-6",
+    "href": "slides/w4_dplyr.html#across-6",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nHow about with summarize()?\n\npenguins %&gt;%\n  group_by(species) %&gt;%\n  summarise(across(c(bill_length_mm:body_mass_g), ~mean(.x, na.rm = TRUE)))\n\n\n\n# A tibble: 3 × 5\n  species   bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n  &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;dbl&gt;\n1 Adelie              38.8          18.3              190.       3701.\n2 Chinstrap           48.8          18.4              196.       3733.\n3 Gentoo              47.5          15.0              217.       5076."
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across-7",
+    "href": "slides/w4_dplyr.html#across-7",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nLet’s add better names\n\npenguins %&gt;%\n  group_by(species) %&gt;%\n  summarise(across(c(bill_length_mm:body_mass_g), ~mean(.x, na.rm = TRUE),\n                   .names = \"mean_{col}\"))\n\n\n\n# A tibble: 3 × 5\n  species   mean_bill_length_mm mean_bill_depth_mm mean_flipper_length_mm\n  &lt;fct&gt;                   &lt;dbl&gt;              &lt;dbl&gt;                  &lt;dbl&gt;\n1 Adelie                   38.8               18.3                   190.\n2 Chinstrap                48.8               18.4                   196.\n3 Gentoo                   47.5               15.0                   217.\n# ℹ 1 more variable: mean_body_mass_g &lt;dbl&gt;"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across",
+    "href": "slides/w4_dplyr.html#across",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nUse across() to apply the same transformation to multiple columns\n\nacross(.cols, .funs, …)\n\n\n.cols = columns to transform\n.fns = function to apply to each of the selected columns"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html#across-1",
+    "href": "slides/w4_dplyr.html#across-1",
+    "title": "Week 4: Data Wrangling",
+    "section": "across()",
+    "text": "across()\nLet’s transform the penguins columns in mm to in by dividing by 25.4\n\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    bill_length_in = bill_length_mm/25.4,\n    bill_depth_in = bill_depth_mm/25.4,\n    flitter_length_in = flipper_length_mm/25.4\n  )\n\n\n\n# A tibble: 344 × 6\n   bill_length_mm bill_depth_mm flipper_length_mm bill_length_in bill_depth_in\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;          &lt;dbl&gt;         &lt;dbl&gt;\n 1           39.1          18.7               181           1.54         0.736\n 2           39.5          17.4               186           1.56         0.685\n 3           40.3          18                 195           1.59         0.709\n 4           NA            NA                  NA          NA           NA    \n 5           36.7          19.3               193           1.44         0.760\n 6           39.3          20.6               190           1.55         0.811\n 7           38.9          17.8               181           1.53         0.701\n 8           39.2          19.6               195           1.54         0.772\n 9           34.1          18.1               193           1.34         0.713\n10           42            20.2               190           1.65         0.795\n# ℹ 334 more rows\n# ℹ 1 more variable: flitter_length_in &lt;dbl&gt;"
   }
 ]
