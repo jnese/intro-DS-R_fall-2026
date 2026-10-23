@@ -294,7 +294,7 @@ penguins |>
 
 ## Use `select()` to order columns
 
-`select()` [helper](https://tidyselect.r-lib.org/reference/select_helpers.html) functions
+`select()` [helper](https://tidyselect.r-lib.org/reference/language.html) functions
 
 * `everything()`
 * `starts_with()`
@@ -1340,7 +1340,7 @@ Lets' do the same with `across()`
 penguins |> 
   select(ends_with("mm")) |> 
   mutate(
-    across(ends_with("mm"), ~.x/25.4)
+    across(c(bill_length_mm, bill_depth_mm, flipper_length_mm), ~.x/25.4)
   )
 ```
 
