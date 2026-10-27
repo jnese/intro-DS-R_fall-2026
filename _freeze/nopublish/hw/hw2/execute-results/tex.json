@@ -1,0 +1,17 @@
+{
+  "hash": "5b212496786ffab9686076ec64861232",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Homework 2\"\nformat: pdf\nexecute:\n  error: false\n  message: false\n  warning: false\n  echo: false\nembed-resources: true\n---\n\n\n\n**First:**\n\nBe sure to use a .qmd file for this assignment.\n\nSubmit your .qmd file, as well as the rendered .html or .pdf file. If you render to .html, please be sure to `embed-resources` in your qmd YAML (see below). If you render to .pdf, you do NOT need to do this.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nformat:\n  html:\n    embed-resources: true\n```\n:::\n\n\n**Then:**\n\n1.  Install the `{nlme}` package\n\n2.  Load `{nlme}`, `{janitor}`, and the `{tidyverse}` packages\n\n3.  Run the chunk below to prep some data from the `{nmle}` package for plotting\n\n\n::: {.cell}\n\n```{.r .cell-code}\npd <- Oxboys %>% \n  clean_names() %>% \n  mutate(subject = factor(subject),\n         occasion = factor(occasion)) %>% \n  filter(subject == \"10\" | subject == \"4\" | subject == \"7\") %>% \n  as_tibble()\n```\n:::\n\n\n\\newpage\n\n4.  Reproduce the following two plots, using the *pd* data. You can use whatever theme you want (I used `theme_minimal()`), but all else should be the same. Note that Plot 1 is a line plot, not a \"smooth.\" Note that Plot 2 is a line plot also.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/plots1-1.pdf)\n:::\n\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/plots1-2.pdf)\n:::\n:::\n\n\n\\newpage\n\n5.  Use the *mtcars* dataset from base `R` to replicate the following plots. (Just type *mtcars* into the console to see the dataset).\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/plots2-1.pdf)\n:::\n\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/plots2-2.pdf)\n:::\n\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/plots2-3.pdf)\n:::\n\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/plots2-4.pdf)\n:::\n:::\n\n\n\\newpage\n\n6.  Use the *Orange* dataset, also part of base `R`, to replicate the following plots. See slides from the week 3 class for labels.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/orange-plots-1.pdf)\n:::\n\n::: {.cell-output-display}\n![](hw2_files/figure-pdf/orange-plots-2.pdf)\n:::\n:::\n\n",
+    "supporting": [
+      "hw2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

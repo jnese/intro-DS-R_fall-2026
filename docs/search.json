@@ -18,7 +18,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Before Week 1\nPlease complete the following five installs before our first class.\nInstructions for each are on the Installs page.\n\nInstall R\nInstall RStudio\nRegister a GitHub account\nInstall Git\nInstall GitKraken\n\n\n\nWeek 1: Introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned2\nDue\n\n\n\n\nSep-30\nR4DS(2e) 5\n\n\nA Quick Tour of the RStudio IDE\nInstalls\n\n\n\n\nR4DS(2e) 3\n\n\n\n\nCodecademy: Introduction to R Syntax\n\n\n\n\n\n\nR4DS(2e) 7\n\n\n\n\n\nFinal Project\n\nFinal Project\n\n\n\n\n\n\nOptional: MD 1.1\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: UT3phr?C\n\n\n2 I do not rearrange my RStudio panes as he does.\n\n\n\n\n\n\n\n\n\n\nWeek 2: Workflow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-07\nProject-oriented Workflow\n\n\nCodecademy: Introduction to Data Frames in R\nA Quick Tour of the RStudio IDE\n\n\n\n\nR4DS(2e) 29\n\n\n\n\nCodecademy: Introduction to Visualization with R\nCodecademy: Introduction to R Syntax\n\n\n\n\nhere::here() Jenny Bryan\n\n\n\n\nHomework 1\n\n\n\n\n\n\n{rio} vignette\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: 5bH*g@K1\n\n\n\n\n\n\n\n\n\n\nWeek 3: {ggplot2}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-14\nR4DS(2e) 2\n\n\nCodecademy: Modifying Data Frames\nCodecademy: Introduction to Data Frames in R\n\n\n\n\nOptional: MD 2.0 to 2.9\n\n\n\n\nCodecademy: Aggregates in R\nCodecademy: Introduction to Visualization with R\n\n\n\n\nOptional: Healy Ch 3\n\n\n\n\nHomework 2\nHomework 1\n\n\n\n\n\n\n\n\n\n\nHomework 3\n\nFinal Project: Finalize Groups\n\nFinal Project: Finalize Groups\n\n\n\n1 Passcode: ^&e8MuR.\n\n\n\n\n\n\n\n\n\n\nWeek 4: {dplyr}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-21\nR4DS(2e) 4\n\n\nDownload GitKraken\nCodecademy: Modifying Data Frames\n\n\n\n\nOptional: MD 3.1 to 3.6, 3.8\n\n\n\n\nWatch What is a Git repository?\nCodecademy: Aggregates in R\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\nHomework 2\n\n\n\n\n\n\n\n\n\n\nHomework 4\nHomework 3\n\n\n\n1 Passcode: =+sh=q4Sw\n\n\n\n\n\n\n\n\n\n\nWeek 5: GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-28\nBryan 2017\n\n\n\n\nMarkdown Tutorial\nDownload GitKraken\n\n\n\n\n\n\n\n\n\n\nHomework 5\nWatch What is a Git repository?\n\n\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Outline\n\nFinal Project: Outline\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 6: Quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-04\nR4DS(2e) 29\n\n\n\n\nCodecademy: Joining Tables in R\nMarkdown Tutorial\n\n\n\n\n\n\n\n\n\n\nHomework 6\nHomework 5\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 7: Mutating Joins\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-11\nR4DS(2e) 13\n\n\n\n\nCodecademy: Data Cleaning in R\nCodecademy: Joining Tables in R\n\n\n\n\n\n\n\n\n\n\nHomework 8\nHomework 6\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 8: Tidy Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-18\nR4DS(2e) 12\n\n\n\n\nHomework 9\nCodecademy: Data Cleaning in R\n\n\n\n\nWickham 2014\n\n\n\n\n\n\nHomework 8\n\n\n\n\nR-Ladies Sydney CleanItUp 2\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n\n\n\nOptional: MD 4.2 - 4.4\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 9: Factors & Pull Request\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-25\nR4DS(2e) 17\n\n\n\n\nHomework 10\nHomework 9\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Peer Review of Script\n\nFinal Project: Peer Review of Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 10: Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nDec-02\n\n\n\n\n\n\n\n\nHomework 10\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Presentation\n\nFinal Project: Presentation\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 11: No class: Final papers due"
+    "text": "Before Week 1\nPlease complete the following five installs before our first class.\nInstructions for each are on the Installs page.\n\nInstall R\nInstall RStudio\nRegister a GitHub account\nInstall Git\nInstall GitKraken\n\n\n\nWeek 1: Introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned2\nDue\n\n\n\n\nSep-30\nR4DS(2e) 5\n\n\nA Quick Tour of the RStudio IDE\nInstalls\n\n\n\n\nR4DS(2e) 3\n\n\n\n\nCodecademy: Introduction to R Syntax\n\n\n\n\n\n\nR4DS(2e) 7\n\n\n\n\n\nFinal Project\n\nFinal Project\n\n\n\n\n\n\nOptional: MD 1.1\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: UT3phr?C\n\n\n2 I do not rearrange my RStudio panes as he does.\n\n\n\n\n\n\n\n\n\n\nWeek 2: Workflow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-07\nProject-oriented Workflow\n\n\nCodecademy: Introduction to Data Frames in R\nA Quick Tour of the RStudio IDE\n\n\n\n\nR4DS(2e) 29\n\n\n\n\nCodecademy: Introduction to Visualization with R\nCodecademy: Introduction to R Syntax\n\n\n\n\nhere::here() Jenny Bryan\n\n\n\n\nHomework 1\n\n\n\n\n\n\n{rio} vignette\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: 5bH*g@K1\n\n\n\n\n\n\n\n\n\n\nWeek 3: {ggplot2}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-14\nR4DS(2e) 2\n\n\nCodecademy: Modifying Data Frames\nCodecademy: Introduction to Data Frames in R\n\n\n\n\nOptional: MD 2.0 to 2.9\n\n\n\n\nCodecademy: Aggregates in R\nCodecademy: Introduction to Visualization with R\n\n\n\n\nOptional: Healy Ch 3\n\n\n\n\nHomework 2\nHomework 1\n\n\n\n\n\n\n\n\n\n\nHomework 3\n\nFinal Project: Finalize Groups\n\nFinal Project: Finalize Groups\n\n\n\n1 Passcode: ^&e8MuR.\n\n\n\n\n\n\n\n\n\n\nWeek 4: {dplyr}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-21\nR4DS(2e) 4\n\n\nDownload GitKraken\nCodecademy: Modifying Data Frames\n\n\n\n\nOptional: MD 3.1 to 3.6, 3.8\n\n\n\n\nWatch What is a Git repository?\nCodecademy: Aggregates in R\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\nHomework 2\n\n\n\n\n\n\n\n\n\n\nHomework 4\nHomework 3\n\n\n\n1 Passcode: =+sh=q4Sw\n\n\n\n\n\n\n\n\n\n\nWeek 5: GitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nOct-28\nBryan 2017\n\n\n\nMarkdown Tutorial\nDownload GitKraken\n\n\n\n\n\n\n\n\n\n\nHomework 5\nWatch What is a Git repository?\n\n\n\n\n\n\n\n\n\n\n\n\nWatch What is a remote repository?\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 4\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Outline\n\nFinal Project: Outline\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 6: Quarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-04\nR4DS(2e) 29\n\n\n\n\nCodecademy: Joining Tables in R\nMarkdown Tutorial\n\n\n\n\n\n\n\n\n\n\nHomework 6\nHomework 5\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 7: Mutating Joins\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-11\nR4DS(2e) 13\n\n\n\n\nCodecademy: Data Cleaning in R\nCodecademy: Joining Tables in R\n\n\n\n\n\n\n\n\n\n\nHomework 8\nHomework 6\n\n\n\n\n\n\n\n\n\n\n\n\nHomework 7\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 8: Tidy Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-18\nR4DS(2e) 12\n\n\n\n\nHomework 9\nCodecademy: Data Cleaning in R\n\n\n\n\nWickham 2014\n\n\n\n\n\n\nHomework 8\n\n\n\n\nR-Ladies Sydney CleanItUp 2\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n\n\n\nOptional: MD 4.2 - 4.4\n\n\n\n\n\n\n\n\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 9: Factors & Pull Request\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nNov-25\nR4DS(2e) 17\n\n\n\n\nHomework 10\nHomework 9\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Peer Review of Script\n\nFinal Project: Peer Review of Script\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Draft Data Script\n\nFinal Project: Draft Data Script\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 10: Presentations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReading\nSlides\nLecture1\nAssigned\nDue\n\n\n\n\nDec-02\n\n\n\n\n\n\n\n\nHomework 10\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Project: Presentation\n\nFinal Project: Presentation\n\n\n\n1 Passcode: NA\n\n\n\n\n\n\n\n\n\n\nWeek 11: No class: Final papers due"
   },
   {
     "objectID": "slides/w1_intro.html#how-many-popcorn-kernels-are-in-the-jar",
@@ -1970,8 +1970,8 @@
     "objectID": "slides/w4_dplyr.html#housekeeping",
     "href": "slides/w4_dplyr.html#housekeeping",
     "title": "Week 4: Data Wrangling",
-    "section": "Housekeeping",
-    "text": "Housekeeping\nMidway Student Experience Survey\n\nDuckweb\n\nlog into DuckWeb\nclick the Course Surveys link on the Main Menu page\nclick “Open the Course Surveys site” and choosing this course\n\nCanvas\n\nsurvey link appears in the course site on the left navbar"
+    "section": "",
+    "text": "Midway Student Experience Survey\n\nDuckweb\n\nlog into DuckWeb\nclick the Course Surveys link on the Main Menu page\nclick “Open the Course Surveys site” and choosing this course\n\nCanvas\n\nsurvey link appears in the course site on the left navbar"
   },
   {
     "objectID": "slides/w4_dplyr.html#housekeeping-1",
@@ -2034,14 +2034,14 @@
     "href": "slides/w4_dplyr.html#select-1",
     "title": "Week 4: Data Wrangling",
     "section": "select()",
-    "text": "select()\nchoose columns\n\n\n\ndata.frame |&gt; \n  select(a, c)\n\n\n\n\n\n\nImage from Software Carpentry"
+    "text": "select()\nchoose columns\n\n\n\ndata.frame |&gt; \n  select(a, c)\n\n\n\n\n\n\n\nImage from Software Carpentry"
   },
   {
     "objectID": "slides/w4_dplyr.html#examples",
     "href": "slides/w4_dplyr.html#examples",
     "title": "Week 4: Data Wrangling",
     "section": "Examples",
-    "text": "Examples\nLet’s go back to the penguins dataset\n\nlibrary(tidyverse)\n#install.packages(\"palmerpenguins\")\nlibrary(palmerpenguins)\n\npenguins\n\n\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+    "text": "Examples\nLet’s go back to the penguins dataset\n\nlibrary(tidyverse)\n#install.packages(\"palmerpenguins\")\nlibrary(palmerpenguins)\n\npenguins\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
   },
   {
     "objectID": "slides/w4_dplyr.html#select-penguins-species-and-island-and-body_mass_g",
@@ -2090,14 +2090,14 @@
     "href": "slides/w4_dplyr.html#helper-functions",
     "title": "Week 4: Data Wrangling",
     "section": "Helper functions",
-    "text": "Helper functions\nFirst: this code may not work for you - why?\n\nreads &lt;- read_csv(here(\"data\", \"Project_Reads_Scores.csv\")) |&gt; \n  clean_names()\nreads\n\n\n\n# A tibble: 48 × 25\n   test_year      test_type test_site student_id pre_test_score pre_test_percent\n   &lt;chr&gt;          &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;           \n 1 06/01/2016 12… YEAR END  VIRDEN    Virden 1               43 29%             \n 2 06/01/2016 12… YEAR END  VIRDEN    Virden 2               46 31%             \n 3 06/01/2016 12… YEAR END  VIRDEN    Virden 3               39 26%             \n 4 06/01/2016 12… YEAR END  VIRDEN    Virden 4               35 23%             \n 5 06/01/2016 12… YEAR END  VIRDEN    Virden 5               46 31%             \n 6 06/01/2016 12… YEAR END  VIRDEN    Virden 6               35 23%             \n 7 06/01/2016 12… YEAR END  VIRDEN    Virden 7               40 27%             \n 8 06/01/2016 12… YEAR END  VIRDEN    Virden 8               39 26%             \n 9 06/01/2016 12… YEAR END  VIRDEN    Virden 9               40 27%             \n10 06/01/2016 12… YEAR END  VIRDEN    Virden 10              45 30%             \n# ℹ 38 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …"
+    "text": "Helper functions\nFirst: this code may not work for you - why?\n\nreads &lt;- read_csv(here(\"data\", \"Project_Reads_Scores.csv\")) |&gt; \n  clean_names()\nreads\n\n# A tibble: 48 × 25\n   test_year      test_type test_site student_id pre_test_score pre_test_percent\n   &lt;chr&gt;          &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;           \n 1 06/01/2016 12… YEAR END  VIRDEN    Virden 1               43 29%             \n 2 06/01/2016 12… YEAR END  VIRDEN    Virden 2               46 31%             \n 3 06/01/2016 12… YEAR END  VIRDEN    Virden 3               39 26%             \n 4 06/01/2016 12… YEAR END  VIRDEN    Virden 4               35 23%             \n 5 06/01/2016 12… YEAR END  VIRDEN    Virden 5               46 31%             \n 6 06/01/2016 12… YEAR END  VIRDEN    Virden 6               35 23%             \n 7 06/01/2016 12… YEAR END  VIRDEN    Virden 7               40 27%             \n 8 06/01/2016 12… YEAR END  VIRDEN    Virden 8               39 26%             \n 9 06/01/2016 12… YEAR END  VIRDEN    Virden 9               40 27%             \n10 06/01/2016 12… YEAR END  VIRDEN    Virden 10              45 30%             \n# ℹ 38 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …"
   },
   {
     "objectID": "slides/w4_dplyr.html#use-select-to-order-columns-1",
     "href": "slides/w4_dplyr.html#use-select-to-order-columns-1",
     "title": "Week 4: Data Wrangling",
     "section": "Use select() to order columns",
-    "text": "Use select() to order columns\n\nreads |&gt;\n    select(student_id, test_site, test_type, test_year, everything())\n\n\n\n# A tibble: 48 × 25\n   student_id test_site test_type test_year      pre_test_score pre_test_percent\n   &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;                   &lt;dbl&gt; &lt;chr&gt;           \n 1 Virden 1   VIRDEN    YEAR END  06/01/2016 12…             43 29%             \n 2 Virden 2   VIRDEN    YEAR END  06/01/2016 12…             46 31%             \n 3 Virden 3   VIRDEN    YEAR END  06/01/2016 12…             39 26%             \n 4 Virden 4   VIRDEN    YEAR END  06/01/2016 12…             35 23%             \n 5 Virden 5   VIRDEN    YEAR END  06/01/2016 12…             46 31%             \n 6 Virden 6   VIRDEN    YEAR END  06/01/2016 12…             35 23%             \n 7 Virden 7   VIRDEN    YEAR END  06/01/2016 12…             40 27%             \n 8 Virden 8   VIRDEN    YEAR END  06/01/2016 12…             39 26%             \n 9 Virden 9   VIRDEN    YEAR END  06/01/2016 12…             40 27%             \n10 Virden 10  VIRDEN    YEAR END  06/01/2016 12…             45 30%             \n# ℹ 38 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …\n\n\n\neverything() is a helper verb that includes all column names"
+    "text": "Use select() to order columns\n\nreads |&gt;\n    select(student_id, test_site, test_type, test_year, everything())\n\n# A tibble: 48 × 25\n   student_id test_site test_type test_year      pre_test_score pre_test_percent\n   &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;                   &lt;dbl&gt; &lt;chr&gt;           \n 1 Virden 1   VIRDEN    YEAR END  06/01/2016 12…             43 29%             \n 2 Virden 2   VIRDEN    YEAR END  06/01/2016 12…             46 31%             \n 3 Virden 3   VIRDEN    YEAR END  06/01/2016 12…             39 26%             \n 4 Virden 4   VIRDEN    YEAR END  06/01/2016 12…             35 23%             \n 5 Virden 5   VIRDEN    YEAR END  06/01/2016 12…             46 31%             \n 6 Virden 6   VIRDEN    YEAR END  06/01/2016 12…             35 23%             \n 7 Virden 7   VIRDEN    YEAR END  06/01/2016 12…             40 27%             \n 8 Virden 8   VIRDEN    YEAR END  06/01/2016 12…             39 26%             \n 9 Virden 9   VIRDEN    YEAR END  06/01/2016 12…             40 27%             \n10 Virden 10  VIRDEN    YEAR END  06/01/2016 12…             45 30%             \n# ℹ 38 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …\n\n\n. . .\neverything() is a helper verb that includes all column names"
   },
   {
     "objectID": "slides/w4_dplyr.html#starts_with",
@@ -2125,7 +2125,7 @@
     "href": "slides/w4_dplyr.html#all_of",
     "title": "Week 4: Data Wrangling",
     "section": "all_of()",
-    "text": "all_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\n\n\n\n\n\n\nreads |&gt; \n    select(all_of(vars))\n\n\n\n# A tibble: 48 × 4\n   pre_test_score pre_test_percent post_test_score post_test_percent\n            &lt;dbl&gt; &lt;chr&gt;                      &lt;dbl&gt; &lt;chr&gt;            \n 1             43 29%                           92 61%              \n 2             46 31%                          104 69%              \n 3             39 26%                           75 50%              \n 4             35 23%                          115 77%              \n 5             46 31%                           85 57%              \n 6             35 23%                           91 61%              \n 7             40 27%                           96 64%              \n 8             39 26%                           74 49%              \n 9             40 27%                           90 60%              \n10             45 30%                           86 57%              \n# ℹ 38 more rows\n\n\n\n\nmpg |&gt; \n    select(all_of(vars))\n\n\n\nError in `select()`:\nℹ In argument: `all_of(vars)`.\nCaused by error in `all_of()`:\n! Can't subset elements that don't exist.\n✖ Elements `pre_test_score`, `pre_test_percent`, `post_test_score`, and `post_test_percent` don't exist."
+    "text": "all_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\n\n\n\nreads |&gt; \n    select(all_of(vars))\n\n# A tibble: 48 × 4\n   pre_test_score pre_test_percent post_test_score post_test_percent\n            &lt;dbl&gt; &lt;chr&gt;                      &lt;dbl&gt; &lt;chr&gt;            \n 1             43 29%                           92 61%              \n 2             46 31%                          104 69%              \n 3             39 26%                           75 50%              \n 4             35 23%                          115 77%              \n 5             46 31%                           85 57%              \n 6             35 23%                           91 61%              \n 7             40 27%                           96 64%              \n 8             39 26%                           74 49%              \n 9             40 27%                           90 60%              \n10             45 30%                           86 57%              \n# ℹ 38 more rows\n\n\n\n\nmpg |&gt; \n    select(all_of(vars))\n\nError in `select()`:\nℹ In argument: `all_of(vars)`.\nCaused by error in `all_of()`:\n! Can't subset elements that don't exist.\n✖ Elements `pre_test_score`, `pre_test_percent`, `post_test_score`, and `post_test_percent` don't exist."
   },
   {
     "objectID": "slides/w4_dplyr.html#all_of-1",
@@ -2139,7 +2139,7 @@
     "href": "slides/w4_dplyr.html#any_of",
     "title": "Week 4: Data Wrangling",
     "section": "any_of()",
-    "text": "any_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\n\n\n\n\n\n\nreads |&gt; \n    select(any_of(vars))\n\n# A tibble: 48 × 4\n   pre_test_score pre_test_percent post_test_score post_test_percent\n            &lt;dbl&gt; &lt;chr&gt;                      &lt;dbl&gt; &lt;chr&gt;            \n 1             43 29%                           92 61%              \n 2             46 31%                          104 69%              \n 3             39 26%                           75 50%              \n 4             35 23%                          115 77%              \n 5             46 31%                           85 57%              \n 6             35 23%                           91 61%              \n 7             40 27%                           96 64%              \n 8             39 26%                           74 49%              \n 9             40 27%                           90 60%              \n10             45 30%                           86 57%              \n# ℹ 38 more rows\n\n\n\n\nmpg |&gt; \n    select(any_of(vars))\n\n\n\n# A tibble: 234 × 0"
+    "text": "any_of()\n\nvars &lt;- c(\"pre_test_score\", \"pre_test_percent\", \"post_test_score\", \"post_test_percent\")\n\n\n\n\nreads |&gt; \n    select(any_of(vars))\n\n# A tibble: 48 × 4\n   pre_test_score pre_test_percent post_test_score post_test_percent\n            &lt;dbl&gt; &lt;chr&gt;                      &lt;dbl&gt; &lt;chr&gt;            \n 1             43 29%                           92 61%              \n 2             46 31%                          104 69%              \n 3             39 26%                           75 50%              \n 4             35 23%                          115 77%              \n 5             46 31%                           85 57%              \n 6             35 23%                           91 61%              \n 7             40 27%                           96 64%              \n 8             39 26%                           74 49%              \n 9             40 27%                           90 60%              \n10             45 30%                           86 57%              \n# ℹ 38 more rows\n\n\n\n\nmpg |&gt; \n    select(any_of(vars))\n\n# A tibble: 234 × 0"
   },
   {
     "objectID": "slides/w4_dplyr.html#any_of-1",
@@ -2167,14 +2167,14 @@
     "href": "slides/w4_dplyr.html#relocate",
     "title": "Week 4: Data Wrangling",
     "section": "relocate()",
-    "text": "relocate()\nrelocate(.data, … .before = NULL, .after = NULL)\n\n.data = dataframe/tibble\n… = columns to move\n.before = variable to move before\n.after = variable to move after\n\nsupplying neither .before nor .after moves columns to the left-hand side by default\nspecifying both is an error"
+    "text": "relocate()\nrelocate(.data, … .before = NULL, .after = NULL)\n. . .\n.data = dataframe/tibble\n… = columns to move\n.before = variable to move before\n.after = variable to move after\n\nsupplying neither .before nor .after moves columns to the left-hand side by default\nspecifying both is an error"
   },
   {
     "objectID": "slides/w4_dplyr.html#relocate-1",
     "href": "slides/w4_dplyr.html#relocate-1",
     "title": "Week 4: Data Wrangling",
     "section": "relocate()",
-    "text": "relocate()\n\n\n\npenguins \n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\n\n\n\n\npenguins |&gt; \n  relocate(year)\n\n# A tibble: 344 × 8\n    year species island    bill_length_mm bill_depth_mm flipper_length_mm\n   &lt;int&gt; &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;\n 1  2007 Adelie  Torgersen           39.1          18.7               181\n 2  2007 Adelie  Torgersen           39.5          17.4               186\n 3  2007 Adelie  Torgersen           40.3          18                 195\n 4  2007 Adelie  Torgersen           NA            NA                  NA\n 5  2007 Adelie  Torgersen           36.7          19.3               193\n 6  2007 Adelie  Torgersen           39.3          20.6               190\n 7  2007 Adelie  Torgersen           38.9          17.8               181\n 8  2007 Adelie  Torgersen           39.2          19.6               195\n 9  2007 Adelie  Torgersen           34.1          18.1               193\n10  2007 Adelie  Torgersen           42            20.2               190\n# ℹ 334 more rows\n# ℹ 2 more variables: body_mass_g &lt;int&gt;, sex &lt;fct&gt;\n\n\n\n\n\nmoves “year” to far left (default)"
+    "text": "relocate()\n\n\n\npenguins \n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\n\n\n\n\npenguins |&gt; \n  relocate(year)\n\n# A tibble: 344 × 8\n    year species island    bill_length_mm bill_depth_mm flipper_length_mm\n   &lt;int&gt; &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;\n 1  2007 Adelie  Torgersen           39.1          18.7               181\n 2  2007 Adelie  Torgersen           39.5          17.4               186\n 3  2007 Adelie  Torgersen           40.3          18                 195\n 4  2007 Adelie  Torgersen           NA            NA                  NA\n 5  2007 Adelie  Torgersen           36.7          19.3               193\n 6  2007 Adelie  Torgersen           39.3          20.6               190\n 7  2007 Adelie  Torgersen           38.9          17.8               181\n 8  2007 Adelie  Torgersen           39.2          19.6               195\n 9  2007 Adelie  Torgersen           34.1          18.1               193\n10  2007 Adelie  Torgersen           42            20.2               190\n# ℹ 334 more rows\n# ℹ 2 more variables: body_mass_g &lt;int&gt;, sex &lt;fct&gt;\n\n\n\n\n\n\nmoves “year” to far left (default)"
   },
   {
     "objectID": "slides/w4_dplyr.html#relocate-2",
@@ -2195,7 +2195,7 @@
     "href": "slides/w4_dplyr.html#filter-1",
     "title": "Week 4: Data Wrangling",
     "section": "filter()",
-    "text": "filter()\nchoose rows that satisfy your condition (== TRUE)\n\n\n\ndf |&gt; \n  filter(\n    type == \"otter\",\n    site == \"bay\"\n  )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIllustration by Allison Horst"
+    "text": "filter()\nchoose rows that satisfy your condition (== TRUE)\n\n\n\ndf |&gt; \n  filter(\n    type == \"otter\",\n    site == \"bay\"\n  )\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIllustration by Allison Horst"
   },
   {
     "objectID": "slides/w4_dplyr.html#filter-2",
@@ -2230,7 +2230,7 @@
     "href": "slides/w4_dplyr.html#filter-note",
     "title": "Week 4: Data Wrangling",
     "section": "filter() note",
-    "text": "filter() note\n\n\nCan’t write:\n\npenguins |&gt; \n  filter(island == \"Briscoe\" | \"Dream\")\n\n\n\nError in `filter()`:\nℹ In argument: `island == \"Briscoe\" | \"Dream\"`.\nCaused by error in `island == \"Briscoe\" | \"Dream\"`:\n! operations are possible only for numeric, logical or complex types\n\n\n\nMust be:\n\npenguins |&gt; \n  filter(island == \"Briscoe\" | island == \"Dream\")\n\n\n\n# A tibble: 124 × 8\n   species island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Dream            39.5          16.7               178        3250\n 2 Adelie  Dream            37.2          18.1               178        3900\n 3 Adelie  Dream            39.5          17.8               188        3300\n 4 Adelie  Dream            40.9          18.9               184        3900\n 5 Adelie  Dream            36.4          17                 195        3325\n 6 Adelie  Dream            39.2          21.1               196        4150\n 7 Adelie  Dream            38.8          20                 190        3950\n 8 Adelie  Dream            42.2          18.5               180        3550\n 9 Adelie  Dream            37.6          19.3               181        3300\n10 Adelie  Dream            39.8          19.1               184        4650\n# ℹ 114 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+    "text": "filter() note\n\n\nCan’t write:\n\npenguins |&gt; \n  filter(island == \"Briscoe\" | \"Dream\")\n\nError in `filter()`:\nℹ In argument: `island == \"Briscoe\" | \"Dream\"`.\nCaused by error in `island == \"Briscoe\" | \"Dream\"`:\n! operations are possible only for numeric, logical or complex types\n\n\n\nMust be:\n\npenguins |&gt; \n  filter(island == \"Briscoe\" | island == \"Dream\")\n\n# A tibble: 124 × 8\n   species island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie  Dream            39.5          16.7               178        3250\n 2 Adelie  Dream            37.2          18.1               178        3900\n 3 Adelie  Dream            39.5          17.8               188        3300\n 4 Adelie  Dream            40.9          18.9               184        3900\n 5 Adelie  Dream            36.4          17                 195        3325\n 6 Adelie  Dream            39.2          21.1               196        4150\n 7 Adelie  Dream            38.8          20                 190        3950\n 8 Adelie  Dream            42.2          18.5               180        3550\n 9 Adelie  Dream            37.6          19.3               181        3300\n10 Adelie  Dream            39.8          19.1               184        4650\n# ℹ 114 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
   },
   {
     "objectID": "slides/w4_dplyr.html#more-filter",
@@ -2265,7 +2265,7 @@
     "href": "slides/w4_dplyr.html#chaining-dplyr-functions",
     "title": "Week 4: Data Wrangling",
     "section": "Chaining {dplyr} functions",
-    "text": "Chaining {dplyr} functions\nWhat if we wanted to filter then select a data set?\nSelect “island” and “species” of penguins over 4200 grams\n\n\nTwo step method 😐\n\n\npenguins_big &lt;- filter(penguins, body_mass_g &gt; 4200)\n\npenguins_big &lt;- select(penguins_big, island, species)"
+    "text": "Chaining {dplyr} functions\nWhat if we wanted to filter then select a data set?\nSelect “island” and “species” of penguins over 4200 grams\n. . .\n\nTwo step method 😐\n\n\npenguins_big &lt;- filter(penguins, body_mass_g &gt; 4200)\n\npenguins_big &lt;- select(penguins_big, island, species)"
   },
   {
     "objectID": "slides/w4_dplyr.html#chaining-dplyr-functions-1",
@@ -2293,7 +2293,7 @@
     "href": "slides/w4_dplyr.html#filter_out",
     "title": "Week 4: Data Wrangling",
     "section": "filter_out()",
-    "text": "filter_out()\nHot out the tidyverse factory!\n\n\nfilter() is designed around supplying rules about which rows to keep\nWe need a verb designed around supplying which rows to drop\n\nBoth filter() and filter_out() treats NA values as FALSE\n\nfilter_out() expects that you are going to tell it which rows to drop, so the default behavior of treating NA like FALSE works with you rather than against you"
+    "text": "filter_out()\nHot out the tidyverse factory!\n. . .\n\nfilter() is designed around supplying rules about which rows to keep\nWe need a verb designed around supplying which rows to drop\n\nBoth filter() and filter_out() treats NA values as FALSE\n\nfilter_out() expects that you are going to tell it which rows to drop, so the default behavior of treating NA like FALSE works with you rather than against you"
   },
   {
     "objectID": "slides/w4_dplyr.html#quick-example",
@@ -2307,7 +2307,7 @@
     "href": "slides/w4_dplyr.html#what-we-think-we-want",
     "title": "Week 4: Data Wrangling",
     "section": "What we think we want",
-    "text": "What we think we want\n\npatients |&gt;\n  filter(!(deceased & date &lt; 2012))\n\n\nBut the result shows…\n\n\n# A tibble: 4 × 3\n  name  deceased  date\n  &lt;chr&gt; &lt;lgl&gt;    &lt;dbl&gt;\n1 Mark  TRUE      2010\n2 Sarah NA          NA\n3 Max   NA        2010\n4 Tina  TRUE        NA\n\n\nWe dropped rows with NA because we aren’t sure about the condition\nWe only should have dropped “Mark”!"
+    "text": "What we think we want\n\npatients |&gt;\n  filter(!(deceased & date &lt; 2012))\n\n. . .\nBut the result shows…\n\n\n# A tibble: 4 × 3\n  name  deceased  date\n  &lt;chr&gt; &lt;lgl&gt;    &lt;dbl&gt;\n1 Mark  TRUE      2010\n2 Sarah NA          NA\n3 Max   NA        2010\n4 Tina  TRUE        NA\n\n\nWe dropped rows with NA because we aren’t sure about the condition\nWe only should have dropped “Mark”!"
   },
   {
     "objectID": "slides/w4_dplyr.html#correct-with-filter",
@@ -2328,35 +2328,35 @@
     "href": "slides/w4_dplyr.html#some-new-data",
     "title": "Week 4: Data Wrangling",
     "section": "Some new data",
-    "text": "Some new data\n\n(prepost &lt;- reads |&gt; \n  filter(student_id != \"All Students (Average)\") |&gt; \n  select(student_id, test_site, pre_test_score, post_test_score))\n\n\n\n# A tibble: 45 × 4\n   student_id test_site pre_test_score post_test_score\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92\n 2 Virden 2   VIRDEN                46             104\n 3 Virden 3   VIRDEN                39              75\n 4 Virden 4   VIRDEN                35             115\n 5 Virden 5   VIRDEN                46              85\n 6 Virden 6   VIRDEN                35              91\n 7 Virden 7   VIRDEN                40              96\n 8 Virden 8   VIRDEN                39              74\n 9 Virden 9   VIRDEN                40              90\n10 Virden 10  VIRDEN                45              86\n# ℹ 35 more rows"
+    "text": "Some new data\n\n(prepost &lt;- reads |&gt; \n  filter(student_id != \"All Students (Average)\") |&gt; \n  select(student_id, test_site, pre_test_score, post_test_score))\n\n# A tibble: 45 × 4\n   student_id test_site pre_test_score post_test_score\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92\n 2 Virden 2   VIRDEN                46             104\n 3 Virden 3   VIRDEN                39              75\n 4 Virden 4   VIRDEN                35             115\n 5 Virden 5   VIRDEN                46              85\n 6 Virden 6   VIRDEN                35              91\n 7 Virden 7   VIRDEN                40              96\n 8 Virden 8   VIRDEN                39              74\n 9 Virden 9   VIRDEN                40              90\n10 Virden 10  VIRDEN                45              86\n# ℹ 35 more rows"
   },
   {
     "objectID": "slides/w4_dplyr.html#mutate-1",
     "href": "slides/w4_dplyr.html#mutate-1",
     "title": "Week 4: Data Wrangling",
     "section": "mutate()",
-    "text": "mutate()\nAdd a variable\n\nprepost |&gt; \n  mutate(gain = post_test_score - pre_test_score)\n\n\n\n# A tibble: 45 × 5\n   student_id test_site pre_test_score post_test_score  gain\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92    49\n 2 Virden 2   VIRDEN                46             104    58\n 3 Virden 3   VIRDEN                39              75    36\n 4 Virden 4   VIRDEN                35             115    80\n 5 Virden 5   VIRDEN                46              85    39\n 6 Virden 6   VIRDEN                35              91    56\n 7 Virden 7   VIRDEN                40              96    56\n 8 Virden 8   VIRDEN                39              74    35\n 9 Virden 9   VIRDEN                40              90    50\n10 Virden 10  VIRDEN                45              86    41\n# ℹ 35 more rows"
+    "text": "mutate()\nAdd a variable\n\nprepost |&gt; \n  mutate(gain = post_test_score - pre_test_score)\n\n# A tibble: 45 × 5\n   student_id test_site pre_test_score post_test_score  gain\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92    49\n 2 Virden 2   VIRDEN                46             104    58\n 3 Virden 3   VIRDEN                39              75    36\n 4 Virden 4   VIRDEN                35             115    80\n 5 Virden 5   VIRDEN                46              85    39\n 6 Virden 6   VIRDEN                35              91    56\n 7 Virden 7   VIRDEN                40              96    56\n 8 Virden 8   VIRDEN                39              74    35\n 9 Virden 9   VIRDEN                40              90    50\n10 Virden 10  VIRDEN                45              86    41\n# ℹ 35 more rows"
   },
   {
     "objectID": "slides/w4_dplyr.html#section-3",
     "href": "slides/w4_dplyr.html#section-3",
     "title": "Week 4: Data Wrangling",
     "section": "",
-    "text": "names(prepost)\n\n[1] \"student_id\"      \"test_site\"       \"pre_test_score\"  \"post_test_score\"\n\n\n\nWhy do we not see the new gain column?"
+    "text": "names(prepost)\n\n[1] \"student_id\"      \"test_site\"       \"pre_test_score\"  \"post_test_score\"\n\n\n. . .\nWhy do we not see the new gain column?"
   },
   {
     "objectID": "slides/w4_dplyr.html#mutate-2",
     "href": "slides/w4_dplyr.html#mutate-2",
     "title": "Week 4: Data Wrangling",
     "section": "mutate()",
-    "text": "mutate()\nAdd multiple variables…\nUse a variable you just created!\n\nprepost &lt;- prepost |&gt;\n  mutate(\n    gain = post_test_score - pre_test_score,\n    sum_tests = post_test_score + pre_test_score,\n    pct_tests = (sum_tests/180) * 100\n  )\nprepost\n\n\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92    49       135      75  \n 2 Virden 2   VIRDEN                46             104    58       150      83.3\n 3 Virden 3   VIRDEN                39              75    36       114      63.3\n 4 Virden 4   VIRDEN                35             115    80       150      83.3\n 5 Virden 5   VIRDEN                46              85    39       131      72.8\n 6 Virden 6   VIRDEN                35              91    56       126      70  \n 7 Virden 7   VIRDEN                40              96    56       136      75.6\n 8 Virden 8   VIRDEN                39              74    35       113      62.8\n 9 Virden 9   VIRDEN                40              90    50       130      72.2\n10 Virden 10  VIRDEN                45              86    41       131      72.8\n# ℹ 35 more rows\n\n\n\n\nAgain, note the line breaks to help keep things straight! This is nice!"
+    "text": "mutate()\nAdd multiple variables…\nUse a variable you just created!\n\nprepost &lt;- prepost |&gt;\n  mutate(\n    gain = post_test_score - pre_test_score,\n    sum_tests = post_test_score + pre_test_score,\n    pct_tests = (sum_tests/180) * 100\n  )\nprepost\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n   &lt;chr&gt;      &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1 Virden 1   VIRDEN                43              92    49       135      75  \n 2 Virden 2   VIRDEN                46             104    58       150      83.3\n 3 Virden 3   VIRDEN                39              75    36       114      63.3\n 4 Virden 4   VIRDEN                35             115    80       150      83.3\n 5 Virden 5   VIRDEN                46              85    39       131      72.8\n 6 Virden 6   VIRDEN                35              91    56       126      70  \n 7 Virden 7   VIRDEN                40              96    56       136      75.6\n 8 Virden 8   VIRDEN                39              74    35       113      62.8\n 9 Virden 9   VIRDEN                40              90    50       130      72.2\n10 Virden 10  VIRDEN                45              86    41       131      72.8\n# ℹ 35 more rows\n\n\n\n\nAgain, note the line breaks to help keep things straight! This is nice!"
   },
   {
     "objectID": "slides/w4_dplyr.html#mutate-3",
     "href": "slides/w4_dplyr.html#mutate-3",
     "title": "Week 4: Data Wrangling",
     "section": "mutate()",
-    "text": "mutate()\nChange a variable\n\nprepost &lt;- prepost |&gt; \n  mutate(student_id = parse_number(student_id))\nprepost\n\n\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1          1 VIRDEN                43              92    49       135      75  \n 2          2 VIRDEN                46             104    58       150      83.3\n 3          3 VIRDEN                39              75    36       114      63.3\n 4          4 VIRDEN                35             115    80       150      83.3\n 5          5 VIRDEN                46              85    39       131      72.8\n 6          6 VIRDEN                35              91    56       126      70  \n 7          7 VIRDEN                40              96    56       136      75.6\n 8          8 VIRDEN                39              74    35       113      62.8\n 9          9 VIRDEN                40              90    50       130      72.2\n10         10 VIRDEN                45              86    41       131      72.8\n# ℹ 35 more rows"
+    "text": "mutate()\nChange a variable\n\nprepost &lt;- prepost |&gt; \n  mutate(student_id = parse_number(student_id))\nprepost\n\n# A tibble: 45 × 7\n   student_id test_site pre_test_score post_test_score  gain sum_tests pct_tests\n        &lt;dbl&gt; &lt;chr&gt;              &lt;dbl&gt;           &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n 1          1 VIRDEN                43              92    49       135      75  \n 2          2 VIRDEN                46             104    58       150      83.3\n 3          3 VIRDEN                39              75    36       114      63.3\n 4          4 VIRDEN                35             115    80       150      83.3\n 5          5 VIRDEN                46              85    39       131      72.8\n 6          6 VIRDEN                35              91    56       126      70  \n 7          7 VIRDEN                40              96    56       136      75.6\n 8          8 VIRDEN                39              74    35       113      62.8\n 9          9 VIRDEN                40              90    50       130      72.2\n10         10 VIRDEN                45              86    41       131      72.8\n# ℹ 35 more rows"
   },
   {
     "objectID": "slides/w4_dplyr.html#arrange-1",
@@ -2391,7 +2391,7 @@
     "href": "slides/w4_dplyr.html#summarize-1",
     "title": "Week 4: Data Wrangling",
     "section": "summarize()",
-    "text": "summarize()\nsummarize() or summarise()\n\nHere: compute the mean and standard deviation of the gain scores\nWhat are we looking at?\n\n\nprepost |&gt; \n  summarize(mean_gain = mean(gain, na.rm = TRUE),\n            sd_gain = sd(gain, na.rm = TRUE))\n\n# A tibble: 1 × 2\n  mean_gain sd_gain\n      &lt;dbl&gt;   &lt;dbl&gt;\n1      56.4    14.1\n\n\n\nThis is a good start for a descriptive table!"
+    "text": "summarize()\nsummarize() or summarise()\n\nHere: compute the mean and standard deviation of the gain scores\nWhat are we looking at?\n\n\nprepost |&gt; \n  summarize(mean_gain = mean(gain, na.rm = TRUE),\n            sd_gain = sd(gain, na.rm = TRUE))\n\n# A tibble: 1 × 2\n  mean_gain sd_gain\n      &lt;dbl&gt;   &lt;dbl&gt;\n1      56.4    14.1\n\n\n. . .\nThis is a good start for a descriptive table!"
   },
   {
     "objectID": "slides/w4_dplyr.html#section-4",
@@ -2405,7 +2405,7 @@
     "href": "slides/w4_dplyr.html#group_by-1",
     "title": "Week 4: Data Wrangling",
     "section": "group_by()",
-    "text": "group_by()\nConduct an operation for each level of a grouping factor\nHere, compute the mean gain for each test site\n\nprepost |&gt; \n  group_by(test_site) |&gt; \n  summarize(mean_gain = mean(gain))\n\n\n\n# A tibble: 3 × 2\n  test_site mean_gain\n  &lt;chr&gt;         &lt;dbl&gt;\n1 JONES          59  \n2 VIRDEN         53.8\n3 WESTSIDE       56.3"
+    "text": "group_by()\nConduct an operation for each level of a grouping factor\nHere, compute the mean gain for each test site\n\nprepost |&gt; \n  group_by(test_site) |&gt; \n  summarize(mean_gain = mean(gain))\n\n# A tibble: 3 × 2\n  test_site mean_gain\n  &lt;chr&gt;         &lt;dbl&gt;\n1 JONES          59  \n2 VIRDEN         53.8\n3 WESTSIDE       56.3"
   },
   {
     "objectID": "slides/w4_dplyr.html#group_by-2",
@@ -2461,7 +2461,7 @@
     "href": "slides/w4_dplyr.html#recode-with-ifelse-1",
     "title": "Week 4: Data Wrangling",
     "section": "Recode with ifelse()",
-    "text": "Recode with ifelse()\nRecoding into dichotomous variable with ifelse()\nRemember to pair with mutate()!\n\nstudents_only |&gt; \n  mutate(new_test_site = ifelse(test_site == \"JONES\", \"district 1\", \"district 2\")) |&gt; \n  select(test_site, new_test_site)\n\n\n\n# A tibble: 45 × 2\n   test_site new_test_site\n   &lt;chr&gt;     &lt;chr&gt;        \n 1 VIRDEN    district 2   \n 2 VIRDEN    district 2   \n 3 VIRDEN    district 2   \n 4 VIRDEN    district 2   \n 5 VIRDEN    district 2   \n 6 VIRDEN    district 2   \n 7 VIRDEN    district 2   \n 8 VIRDEN    district 2   \n 9 VIRDEN    district 2   \n10 VIRDEN    district 2   \n# ℹ 35 more rows"
+    "text": "Recode with ifelse()\nRecoding into dichotomous variable with ifelse()\nRemember to pair with mutate()!\n\nstudents_only |&gt; \n  mutate(new_test_site = ifelse(test_site == \"JONES\", \"district 1\", \"district 2\")) |&gt; \n  select(test_site, new_test_site)\n\n# A tibble: 45 × 2\n   test_site new_test_site\n   &lt;chr&gt;     &lt;chr&gt;        \n 1 VIRDEN    district 2   \n 2 VIRDEN    district 2   \n 3 VIRDEN    district 2   \n 4 VIRDEN    district 2   \n 5 VIRDEN    district 2   \n 6 VIRDEN    district 2   \n 7 VIRDEN    district 2   \n 8 VIRDEN    district 2   \n 9 VIRDEN    district 2   \n10 VIRDEN    district 2   \n# ℹ 35 more rows"
   },
   {
     "objectID": "slides/w4_dplyr.html#recode-with-recode",
@@ -2475,28 +2475,28 @@
     "href": "slides/w4_dplyr.html#recode-with-recode-1",
     "title": "Week 4: Data Wrangling",
     "section": "Recode with recode()",
-    "text": "Recode with recode()\nRecoding into multinomial variable\nRemember to pair with mutate()\n\nstudents_only |&gt; \n  mutate(test_site = recode(test_site,\n                            JONES = \"Jones Middle\",\n                            VIRDEN = \"Virden Elementary\",\n                            WESTSIDE = \"Westside High\"\n                            )\n        )\n\n\n\n# A tibble: 45 × 25\n   test_year      test_type test_site student_id pre_test_score pre_test_percent\n   &lt;chr&gt;          &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;           \n 1 06/01/2016 12… YEAR END  Virden E… Virden 1               43 29%             \n 2 06/01/2016 12… YEAR END  Virden E… Virden 2               46 31%             \n 3 06/01/2016 12… YEAR END  Virden E… Virden 3               39 26%             \n 4 06/01/2016 12… YEAR END  Virden E… Virden 4               35 23%             \n 5 06/01/2016 12… YEAR END  Virden E… Virden 5               46 31%             \n 6 06/01/2016 12… YEAR END  Virden E… Virden 6               35 23%             \n 7 06/01/2016 12… YEAR END  Virden E… Virden 7               40 27%             \n 8 06/01/2016 12… YEAR END  Virden E… Virden 8               39 26%             \n 9 06/01/2016 12… YEAR END  Virden E… Virden 9               40 27%             \n10 06/01/2016 12… YEAR END  Virden E… Virden 10              45 30%             \n# ℹ 35 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …"
+    "text": "Recode with recode()\nRecoding into multinomial variable\nRemember to pair with mutate()\n\nstudents_only |&gt; \n  mutate(test_site = recode(test_site,\n                            JONES = \"Jones Middle\",\n                            VIRDEN = \"Virden Elementary\",\n                            WESTSIDE = \"Westside High\"\n                            )\n        )\n\n# A tibble: 45 × 25\n   test_year      test_type test_site student_id pre_test_score pre_test_percent\n   &lt;chr&gt;          &lt;chr&gt;     &lt;chr&gt;     &lt;chr&gt;               &lt;dbl&gt; &lt;chr&gt;           \n 1 06/01/2016 12… YEAR END  Virden E… Virden 1               43 29%             \n 2 06/01/2016 12… YEAR END  Virden E… Virden 2               46 31%             \n 3 06/01/2016 12… YEAR END  Virden E… Virden 3               39 26%             \n 4 06/01/2016 12… YEAR END  Virden E… Virden 4               35 23%             \n 5 06/01/2016 12… YEAR END  Virden E… Virden 5               46 31%             \n 6 06/01/2016 12… YEAR END  Virden E… Virden 6               35 23%             \n 7 06/01/2016 12… YEAR END  Virden E… Virden 7               40 27%             \n 8 06/01/2016 12… YEAR END  Virden E… Virden 8               39 26%             \n 9 06/01/2016 12… YEAR END  Virden E… Virden 9               40 27%             \n10 06/01/2016 12… YEAR END  Virden E… Virden 10              45 30%             \n# ℹ 35 more rows\n# ℹ 19 more variables: post_test_score &lt;dbl&gt;, post_test_percent &lt;chr&gt;,\n#   percentage_change &lt;chr&gt;, unit_1_score &lt;dbl&gt;, unit_1_percent &lt;chr&gt;,\n#   unit_2_score &lt;dbl&gt;, unit_2_percent &lt;chr&gt;, unit_3_score &lt;dbl&gt;,\n#   unit_3_percent &lt;chr&gt;, unit_4_score &lt;dbl&gt;, unit_4_percent &lt;chr&gt;,\n#   unit_5_6_score &lt;dbl&gt;, unit_5_6_percent &lt;chr&gt;, unit_7_score &lt;dbl&gt;,\n#   unit_7_percent &lt;chr&gt;, unit_8_score &lt;dbl&gt;, unit_8_percent &lt;chr&gt;, …"
   },
   {
     "objectID": "slides/w4_dplyr.html#recode-with-recode-2",
     "href": "slides/w4_dplyr.html#recode-with-recode-2",
     "title": "Week 4: Data Wrangling",
     "section": "Recode with recode()",
-    "text": "Recode with recode()\nRemember to use backticks `` for special characters\n\nmtcars |&gt; \n  mutate(cyl_str = recode(cyl,\n                      `4` = \"cylinders4\",\n                      `6` = \"cylinders6\",\n                      `8` = \"cylinders8\"\n                      )\n         ) |&gt; \n  as_tibble()\n\n\n\n# A tibble: 32 × 12\n     mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb cyl_str   \n   &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;     \n 1  21       6  160    110  3.9   2.62  16.5     0     1     4     4 cylinders6\n 2  21       6  160    110  3.9   2.88  17.0     0     1     4     4 cylinders6\n 3  22.8     4  108     93  3.85  2.32  18.6     1     1     4     1 cylinders4\n 4  21.4     6  258    110  3.08  3.22  19.4     1     0     3     1 cylinders6\n 5  18.7     8  360    175  3.15  3.44  17.0     0     0     3     2 cylinders8\n 6  18.1     6  225    105  2.76  3.46  20.2     1     0     3     1 cylinders6\n 7  14.3     8  360    245  3.21  3.57  15.8     0     0     3     4 cylinders8\n 8  24.4     4  147.    62  3.69  3.19  20       1     0     4     2 cylinders4\n 9  22.8     4  141.    95  3.92  3.15  22.9     1     0     4     2 cylinders4\n10  19.2     6  168.   123  3.92  3.44  18.3     1     0     4     4 cylinders6\n# ℹ 22 more rows"
+    "text": "Recode with recode()\nRemember to use backticks `` for special characters\n\nmtcars |&gt; \n  mutate(cyl_str = recode(cyl,\n                      `4` = \"cylinders4\",\n                      `6` = \"cylinders6\",\n                      `8` = \"cylinders8\"\n                      )\n         ) |&gt; \n  as_tibble()\n\n# A tibble: 32 × 12\n     mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb cyl_str   \n   &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;     \n 1  21       6  160    110  3.9   2.62  16.5     0     1     4     4 cylinders6\n 2  21       6  160    110  3.9   2.88  17.0     0     1     4     4 cylinders6\n 3  22.8     4  108     93  3.85  2.32  18.6     1     1     4     1 cylinders4\n 4  21.4     6  258    110  3.08  3.22  19.4     1     0     3     1 cylinders6\n 5  18.7     8  360    175  3.15  3.44  17.0     0     0     3     2 cylinders8\n 6  18.1     6  225    105  2.76  3.46  20.2     1     0     3     1 cylinders6\n 7  14.3     8  360    245  3.21  3.57  15.8     0     0     3     4 cylinders8\n 8  24.4     4  147.    62  3.69  3.19  20       1     0     4     2 cylinders4\n 9  22.8     4  141.    95  3.92  3.15  22.9     1     0     4     2 cylinders4\n10  19.2     6  168.   123  3.92  3.44  18.3     1     0     4     4 cylinders6\n# ℹ 22 more rows"
   },
   {
     "objectID": "slides/w4_dplyr.html#recode-with-case_when",
     "href": "slides/w4_dplyr.html#recode-with-case_when",
     "title": "Week 4: Data Wrangling",
     "section": "Recode with case_when()",
-    "text": "Recode with case_when()\nRecoding across several variables, or if you find yourself using nested ifelse() statements\nRemember to pair with mutate()\n\nlibrary(palmerpenguins)\n\npenguins |&gt; \n  mutate(species_big = \n           case_when(\n             body_mass_g &gt; 4500 & species == \"Adelie\" ~ \"adelie_big\",\n             body_mass_g &gt; 4600 & species == \"Chinstrap\" ~ \"chinstrap_big\",\n             body_mass_g &gt; 6000 & species == \"Gentoo\" ~ \"gentoo_big\",\n             .default = \"other\"\n           ))\n\n\n.default equivalent to all else"
+    "text": "Recode with case_when()\nRecoding across several variables, or if you find yourself using nested ifelse() statements\nRemember to pair with mutate()\n\nlibrary(palmerpenguins)\n\npenguins |&gt; \n  mutate(species_big = \n           case_when(\n             body_mass_g &gt; 4500 & species == \"Adelie\" ~ \"adelie_big\",\n             body_mass_g &gt; 4600 & species == \"Chinstrap\" ~ \"chinstrap_big\",\n             body_mass_g &gt; 6000 & species == \"Gentoo\" ~ \"gentoo_big\",\n             .default = \"other\"\n           ))\n\n. . .\n.default equivalent to all else"
   },
   {
     "objectID": "slides/w4_dplyr.html#recode-with-case_when-1",
     "href": "slides/w4_dplyr.html#recode-with-case_when-1",
     "title": "Week 4: Data Wrangling",
     "section": "Recode with case_when()",
-    "text": "Recode with case_when()\n.default equivalent to all else\n.unmatched = \"error\" rather than .default and case_when() will error if that assertion doesn’t hold\nThis is great for defensive programming!\n\npenguins |&gt; \n  mutate(species_big = \n           case_when(\n             body_mass_g &gt; 4500 & species == \"Adelie\" ~ \"adelie_big\",\n             body_mass_g &gt; 4600 & species == \"Chinstrap\" ~ \"chinstrap_big\",\n             body_mass_g &gt; 6000 & species == \"Gentoo\" ~ \"gentoo_big\",\n             .unmatched = \"error\"\n           ))\n\n\n\nError in `mutate()`:\nℹ In argument: `species_big = case_when(...)`.\nCaused by error in `case_when()`:\n! Each location must be matched.\n✖ Locations 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, …, 343, and 344 are unmatched."
+    "text": "Recode with case_when()\n.default equivalent to all else\n.unmatched = \"error\" rather than .default and case_when() will error if that assertion doesn’t hold\nThis is great for defensive programming!\n\npenguins |&gt; \n  mutate(species_big = \n           case_when(\n             body_mass_g &gt; 4500 & species == \"Adelie\" ~ \"adelie_big\",\n             body_mass_g &gt; 4600 & species == \"Chinstrap\" ~ \"chinstrap_big\",\n             body_mass_g &gt; 6000 & species == \"Gentoo\" ~ \"gentoo_big\",\n             .unmatched = \"error\"\n           ))\n\nError in `mutate()`:\nℹ In argument: `species_big = case_when(...)`.\nCaused by error in `case_when()`:\n! Each location must be matched.\n✖ Locations 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, …, 343, and 344 are unmatched."
   },
   {
     "objectID": "slides/w4_dplyr.html#recode-some-values",
@@ -2510,7 +2510,7 @@
     "href": "slides/w4_dplyr.html#recode-some-values-1",
     "title": "Week 4: Data Wrangling",
     "section": "Recode some values",
-    "text": "Recode some values\nReplace some type values with \"puppy\" based on certain conditions\n\npets |&gt;\n  mutate(\n    type = replace_when(type, \n                        type == \"dog\" & age &lt;= 2 ~ \"puppy\")\n  )\n\n# A tibble: 5 × 3\n  name   type    age\n  &lt;chr&gt;  &lt;fct&gt; &lt;dbl&gt;\n1 Max    puppy     1\n2 Bella  dog       3\n3 Chuck  cat       5\n4 Luna   puppy     2\n5 Cooper cat       4\n\n\n\nEasier to read with the pipe\n\npets |&gt;\n  mutate(\n    type = type |&gt; \n      replace_when(\n        type == \"dog\" & age &lt;= 2 ~ \"puppy\")\n  )\n\n# A tibble: 5 × 3\n  name   type    age\n  &lt;chr&gt;  &lt;fct&gt; &lt;dbl&gt;\n1 Max    puppy     1\n2 Bella  dog       3\n3 Chuck  cat       5\n4 Luna   puppy     2\n5 Cooper cat       4"
+    "text": "Recode some values\nReplace some type values with \"puppy\" based on certain conditions\n\npets |&gt;\n  mutate(\n    type = replace_when(type, \n                        type == \"dog\" & age &lt;= 2 ~ \"puppy\")\n  )\n\n# A tibble: 5 × 3\n  name   type    age\n  &lt;chr&gt;  &lt;fct&gt; &lt;dbl&gt;\n1 Max    puppy     1\n2 Bella  dog       3\n3 Chuck  cat       5\n4 Luna   puppy     2\n5 Cooper cat       4\n\n\n. . .\nEasier to read with the pipe\n\npets |&gt;\n  mutate(\n    type = type |&gt; \n      replace_when(\n        type == \"dog\" & age &lt;= 2 ~ \"puppy\")\n  )\n\n# A tibble: 5 × 3\n  name   type    age\n  &lt;chr&gt;  &lt;fct&gt; &lt;dbl&gt;\n1 Max    puppy     1\n2 Bella  dog       3\n3 Chuck  cat       5\n4 Luna   puppy     2\n5 Cooper cat       4"
   },
   {
     "objectID": "slides/w4_dplyr.html#rename",
@@ -2538,14 +2538,14 @@
     "href": "slides/w4_dplyr.html#across-2",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nLets’ do the same with across()\n\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~.x/25.4)\n  )\n\n\n# A tibble: 344 × 3\n   bill_length_mm bill_depth_mm flipper_length_mm\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;\n 1           1.54         0.736              7.13\n 2           1.56         0.685              7.32\n 3           1.59         0.709              7.68\n 4          NA           NA                 NA   \n 5           1.44         0.760              7.60\n 6           1.55         0.811              7.48\n 7           1.53         0.701              7.13\n 8           1.54         0.772              7.68\n 9           1.34         0.713              7.60\n10           1.65         0.795              7.48\n# ℹ 334 more rows\n\n\n\nuse helper functions to select columns\n\nor c(bill_length_mm, bill_depth_mm, flipper_length_mm)\n\n.x is a placeholder for all\nKeeps the same names"
+    "text": "across()\nLets’ do the same with across()\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    across(c(bill_length_mm, bill_depth_mm, flipper_length_mm), ~.x/25.4)\n  )\n\n# A tibble: 344 × 3\n   bill_length_mm bill_depth_mm flipper_length_mm\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;\n 1           1.54         0.736              7.13\n 2           1.56         0.685              7.32\n 3           1.59         0.709              7.68\n 4          NA           NA                 NA   \n 5           1.44         0.760              7.60\n 6           1.55         0.811              7.48\n 7           1.53         0.701              7.13\n 8           1.54         0.772              7.68\n 9           1.34         0.713              7.60\n10           1.65         0.795              7.48\n# ℹ 334 more rows\n\n\n\nuse helper functions to select columns\n\nor c(bill_length_mm, bill_depth_mm, flipper_length_mm)\n\n.x is a placeholder for all\nKeeps the same names"
   },
   {
     "objectID": "slides/w4_dplyr.html#across-3",
     "href": "slides/w4_dplyr.html#across-3",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nSame thing but let’s change the names\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~.x/25.4, .names = \"{sub('_mm', '_in', .col)}\")\n  )\n\n\n\n# A tibble: 344 × 6\n   bill_length_mm bill_depth_mm flipper_length_mm bill_length_in bill_depth_in\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;          &lt;dbl&gt;         &lt;dbl&gt;\n 1           39.1          18.7               181           1.54         0.736\n 2           39.5          17.4               186           1.56         0.685\n 3           40.3          18                 195           1.59         0.709\n 4           NA            NA                  NA          NA           NA    \n 5           36.7          19.3               193           1.44         0.760\n 6           39.3          20.6               190           1.55         0.811\n 7           38.9          17.8               181           1.53         0.701\n 8           39.2          19.6               195           1.54         0.772\n 9           34.1          18.1               193           1.34         0.713\n10           42            20.2               190           1.65         0.795\n# ℹ 334 more rows\n# ℹ 1 more variable: flipper_length_in &lt;dbl&gt;"
+    "text": "across()\nSame thing but let’s change the names\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~.x/25.4, .names = \"{sub('_mm', '_in', .col)}\")\n  )\n\n# A tibble: 344 × 6\n   bill_length_mm bill_depth_mm flipper_length_mm bill_length_in bill_depth_in\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;          &lt;dbl&gt;         &lt;dbl&gt;\n 1           39.1          18.7               181           1.54         0.736\n 2           39.5          17.4               186           1.56         0.685\n 3           40.3          18                 195           1.59         0.709\n 4           NA            NA                  NA          NA           NA    \n 5           36.7          19.3               193           1.44         0.760\n 6           39.3          20.6               190           1.55         0.811\n 7           38.9          17.8               181           1.53         0.701\n 8           39.2          19.6               195           1.54         0.772\n 9           34.1          18.1               193           1.34         0.713\n10           42            20.2               190           1.65         0.795\n# ℹ 334 more rows\n# ℹ 1 more variable: flipper_length_in &lt;dbl&gt;"
   },
   {
     "objectID": "slides/w4_dplyr.html#before-next-class",
@@ -2559,48 +2559,706 @@
     "href": "slides/w4_dplyr.html#select-2",
     "title": "Week 4: Data Wrangling",
     "section": "select()",
-    "text": "select()\nfrom penguins: species and island and body_mass_g\n\nselect(penguins, species, island, body_mass_g)\n\n\nOR more typically\n\npenguins |&gt;\n    select(species, island, body_mass_g)\n\n# A tibble: 344 × 3\n   species island    body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;int&gt;\n 1 Adelie  Torgersen        3750\n 2 Adelie  Torgersen        3800\n 3 Adelie  Torgersen        3250\n 4 Adelie  Torgersen          NA\n 5 Adelie  Torgersen        3450\n 6 Adelie  Torgersen        3650\n 7 Adelie  Torgersen        3625\n 8 Adelie  Torgersen        4675\n 9 Adelie  Torgersen        3475\n10 Adelie  Torgersen        4250\n# ℹ 334 more rows"
+    "text": "select()\nfrom penguins: species and island and body_mass_g\n\nselect(penguins, species, island, body_mass_g)\n\n. . .\nOR more typically\n\npenguins |&gt;\n    select(species, island, body_mass_g)\n\n# A tibble: 344 × 3\n   species island    body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;           &lt;int&gt;\n 1 Adelie  Torgersen        3750\n 2 Adelie  Torgersen        3800\n 3 Adelie  Torgersen        3250\n 4 Adelie  Torgersen          NA\n 5 Adelie  Torgersen        3450\n 6 Adelie  Torgersen        3650\n 7 Adelie  Torgersen        3625\n 8 Adelie  Torgersen        4675\n 9 Adelie  Torgersen        3475\n10 Adelie  Torgersen        4250\n# ℹ 334 more rows"
   },
   {
     "objectID": "slides/w4_dplyr.html#across-4",
     "href": "slides/w4_dplyr.html#across-4",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nLet’s round some columns to the whole number\n\npenguins |&gt; \n  mutate(\n    across(ends_with(\"mm\"), round)\n  )\n\n\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;int&gt;\n 1 Adelie  Torgersen             39            19               181        3750\n 2 Adelie  Torgersen             40            17               186        3800\n 3 Adelie  Torgersen             40            18               195        3250\n 4 Adelie  Torgersen             NA            NA                NA          NA\n 5 Adelie  Torgersen             37            19               193        3450\n 6 Adelie  Torgersen             39            21               190        3650\n 7 Adelie  Torgersen             39            18               181        3625\n 8 Adelie  Torgersen             39            20               195        4675\n 9 Adelie  Torgersen             34            18               193        3475\n10 Adelie  Torgersen             42            20               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+    "text": "across()\nLet’s round some columns to the whole number\n\npenguins |&gt; \n  mutate(\n    across(ends_with(\"mm\"), round)\n  )\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;int&gt;\n 1 Adelie  Torgersen             39            19               181        3750\n 2 Adelie  Torgersen             40            17               186        3800\n 3 Adelie  Torgersen             40            18               195        3250\n 4 Adelie  Torgersen             NA            NA                NA          NA\n 5 Adelie  Torgersen             37            19               193        3450\n 6 Adelie  Torgersen             39            21               190        3650\n 7 Adelie  Torgersen             39            18               181        3625\n 8 Adelie  Torgersen             39            20               195        4675\n 9 Adelie  Torgersen             34            18               193        3475\n10 Adelie  Torgersen             42            20               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
   },
   {
     "objectID": "slides/w4_dplyr.html#across-5",
     "href": "slides/w4_dplyr.html#across-5",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nLet’s round some columns to the second decimal\n\npenguins |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~round(., 2))\n  )\n\n\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
+    "text": "across()\nLet’s round some columns to the second decimal\n\npenguins |&gt; \n  mutate(\n    across(ends_with(\"mm\"), ~round(., 2))\n  )\n\n# A tibble: 344 × 8\n   species island    bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;   &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;int&gt;\n 1 Adelie  Torgersen           39.1          18.7               181        3750\n 2 Adelie  Torgersen           39.5          17.4               186        3800\n 3 Adelie  Torgersen           40.3          18                 195        3250\n 4 Adelie  Torgersen           NA            NA                  NA          NA\n 5 Adelie  Torgersen           36.7          19.3               193        3450\n 6 Adelie  Torgersen           39.3          20.6               190        3650\n 7 Adelie  Torgersen           38.9          17.8               181        3625\n 8 Adelie  Torgersen           39.2          19.6               195        4675\n 9 Adelie  Torgersen           34.1          18.1               193        3475\n10 Adelie  Torgersen           42            20.2               190        4250\n# ℹ 334 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;"
   },
   {
     "objectID": "slides/w4_dplyr.html#across-6",
     "href": "slides/w4_dplyr.html#across-6",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nHow about with summarize()?\n\npenguins %&gt;%\n  group_by(species) %&gt;%\n  summarise(across(c(bill_length_mm:body_mass_g), ~mean(.x, na.rm = TRUE)))\n\n\n\n# A tibble: 3 × 5\n  species   bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n  &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;dbl&gt;\n1 Adelie              38.8          18.3              190.       3701.\n2 Chinstrap           48.8          18.4              196.       3733.\n3 Gentoo              47.5          15.0              217.       5076."
+    "text": "across()\nHow about with summarize()?\n\npenguins %&gt;%\n  group_by(species) %&gt;%\n  summarise(across(c(bill_length_mm:body_mass_g), ~mean(.x, na.rm = TRUE)))\n\n# A tibble: 3 × 5\n  species   bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n  &lt;fct&gt;              &lt;dbl&gt;         &lt;dbl&gt;             &lt;dbl&gt;       &lt;dbl&gt;\n1 Adelie              38.8          18.3              190.       3701.\n2 Chinstrap           48.8          18.4              196.       3733.\n3 Gentoo              47.5          15.0              217.       5076."
   },
   {
     "objectID": "slides/w4_dplyr.html#across-7",
     "href": "slides/w4_dplyr.html#across-7",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nLet’s add better names\n\npenguins %&gt;%\n  group_by(species) %&gt;%\n  summarise(across(c(bill_length_mm:body_mass_g), ~mean(.x, na.rm = TRUE),\n                   .names = \"mean_{col}\"))\n\n\n\n# A tibble: 3 × 5\n  species   mean_bill_length_mm mean_bill_depth_mm mean_flipper_length_mm\n  &lt;fct&gt;                   &lt;dbl&gt;              &lt;dbl&gt;                  &lt;dbl&gt;\n1 Adelie                   38.8               18.3                   190.\n2 Chinstrap                48.8               18.4                   196.\n3 Gentoo                   47.5               15.0                   217.\n# ℹ 1 more variable: mean_body_mass_g &lt;dbl&gt;"
+    "text": "across()\nLet’s add better names\n\npenguins %&gt;%\n  group_by(species) %&gt;%\n  summarise(across(c(bill_length_mm:body_mass_g), ~mean(.x, na.rm = TRUE),\n                   .names = \"mean_{col}\"))\n\n# A tibble: 3 × 5\n  species   mean_bill_length_mm mean_bill_depth_mm mean_flipper_length_mm\n  &lt;fct&gt;                   &lt;dbl&gt;              &lt;dbl&gt;                  &lt;dbl&gt;\n1 Adelie                   38.8               18.3                   190.\n2 Chinstrap                48.8               18.4                   196.\n3 Gentoo                   47.5               15.0                   217.\n# ℹ 1 more variable: mean_body_mass_g &lt;dbl&gt;"
   },
   {
     "objectID": "slides/w4_dplyr.html#across",
     "href": "slides/w4_dplyr.html#across",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nUse across() to apply the same transformation to multiple columns\n\nacross(.cols, .funs, …)\n\n\n.cols = columns to transform\n.fns = function to apply to each of the selected columns"
+    "text": "across()\nUse across() to apply the same transformation to multiple columns\n. . .\nacross(.cols, .funs, …)\n. . .\n.cols = columns to transform\n.fns = function to apply to each of the selected columns"
   },
   {
     "objectID": "slides/w4_dplyr.html#across-1",
     "href": "slides/w4_dplyr.html#across-1",
     "title": "Week 4: Data Wrangling",
     "section": "across()",
-    "text": "across()\nLet’s transform the penguins columns in mm to in by dividing by 25.4\n\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    bill_length_in = bill_length_mm/25.4,\n    bill_depth_in = bill_depth_mm/25.4,\n    flitter_length_in = flipper_length_mm/25.4\n  )\n\n\n\n# A tibble: 344 × 6\n   bill_length_mm bill_depth_mm flipper_length_mm bill_length_in bill_depth_in\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;          &lt;dbl&gt;         &lt;dbl&gt;\n 1           39.1          18.7               181           1.54         0.736\n 2           39.5          17.4               186           1.56         0.685\n 3           40.3          18                 195           1.59         0.709\n 4           NA            NA                  NA          NA           NA    \n 5           36.7          19.3               193           1.44         0.760\n 6           39.3          20.6               190           1.55         0.811\n 7           38.9          17.8               181           1.53         0.701\n 8           39.2          19.6               195           1.54         0.772\n 9           34.1          18.1               193           1.34         0.713\n10           42            20.2               190           1.65         0.795\n# ℹ 334 more rows\n# ℹ 1 more variable: flitter_length_in &lt;dbl&gt;"
+    "text": "across()\nLet’s transform the penguins columns in mm to in by dividing by 25.4\n. . .\n\npenguins |&gt; \n  select(ends_with(\"mm\")) |&gt; \n  mutate(\n    bill_length_in = bill_length_mm/25.4,\n    bill_depth_in = bill_depth_mm/25.4,\n    flitter_length_in = flipper_length_mm/25.4\n  )\n\n# A tibble: 344 × 6\n   bill_length_mm bill_depth_mm flipper_length_mm bill_length_in bill_depth_in\n            &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;          &lt;dbl&gt;         &lt;dbl&gt;\n 1           39.1          18.7               181           1.54         0.736\n 2           39.5          17.4               186           1.56         0.685\n 3           40.3          18                 195           1.59         0.709\n 4           NA            NA                  NA          NA           NA    \n 5           36.7          19.3               193           1.44         0.760\n 6           39.3          20.6               190           1.55         0.811\n 7           38.9          17.8               181           1.53         0.701\n 8           39.2          19.6               195           1.54         0.772\n 9           34.1          18.1               193           1.34         0.713\n10           42            20.2               190           1.65         0.795\n# ℹ 334 more rows\n# ℹ 1 more variable: flitter_length_in &lt;dbl&gt;"
+  },
+  {
+    "objectID": "slides/w5_git.html#agenda",
+    "href": "slides/w5_git.html#agenda",
+    "title": "Week 5: git & GitHub",
+    "section": "Agenda",
+    "text": "Agenda\n\nIntroduce reasons for version control\nIntroduce\n\ngit\nGitHub\nGitKraken\n\n\nLearning Objectives\n\nUnderstand Introduce the basics of git and git terminology\nBe able to create repos, commit changes, push, pull, and clone\nBe prepared to collaborate on a project"
+  },
+  {
+    "objectID": "slides/w5_git.html#git-github-1",
+    "href": "slides/w5_git.html#git-github-1",
+    "title": "Week 5: git & GitHub",
+    "section": "git & GitHub",
+    "text": "git & GitHub\nWhat are they?\n\n\ngit\n\n\na version control system\nlives on your computer and keeps track of files and all changes made to them that you register with commits\n\n\nGitHub\n\n\nan online host for commits of code and data\nlives on the internet"
+  },
+  {
+    "objectID": "slides/w5_git.html#git-github-2",
+    "href": "slides/w5_git.html#git-github-2",
+    "title": "Week 5: git & GitHub",
+    "section": "git & GitHub",
+    "text": "git & GitHub\nWhy are they important?\nBackup: Easy way to upload files and add notes about changes. Excellent way to keep all your R work backed-up on the cloud\n\nVersion Control: Complete history of all changes and why they were made, and multiple branches of history\n\n\nOpen Access: Open, transparent, and public science. Some journals allow GitHub sites to be used to host data and code to meet their open-access requirements\n\n\nVisibility: GitHub makes it easy to make your open-access work visible to people who might be interested (collaborators, employers)\n\n\nCollaborative tool: Git and GitHub are designed for collaboration (even if you’re the only one coding). Easy to share files between collaborators, allows for merging work and reconciling conflicts.\n\n\nJob Skill: This is an important data science skill"
+  },
+  {
+    "objectID": "slides/w5_git.html#git-github-3",
+    "href": "slides/w5_git.html#git-github-3",
+    "title": "Week 5: git & GitHub",
+    "section": "git & GitHub",
+    "text": "git & GitHub\nHow?\n\nInstall git\nCreate a GitHub account (hopefully you all have done this)\nGet a GUI and/or learn the command-line tools\n\nI’m okay with either or both, as long as you (sort of) know what you’re doing\nWe’re going to use GitKraken in this course\n\nDevelop a solid understanding of the underlying structure, so you know what you want to do even if you don’t know how\n\ncommits, push, pull, fork"
+  },
+  {
+    "objectID": "slides/w5_git.html#git-can-be-frustrating-but",
+    "href": "slides/w5_git.html#git-can-be-frustrating-but",
+    "title": "Week 5: git & GitHub",
+    "section": "git can be frustrating, but…",
+    "text": "git can be frustrating, but…\nIt is transparent – mistakes and all\nCan be a powerful tool for collaboration\n\nCommunication between team members is important\nTry to avoid merge conflicts\n\nOne person working on one thing at a time\nPull first each and every time!\nPush often/at logical points\n\n\nExcellent for reproducibility (a tenet of the data science pipeline)\n\nOpen data and code\nTransparent\nForking paths"
+  },
+  {
+    "objectID": "slides/w5_git.html#open-reproducible-research",
+    "href": "slides/w5_git.html#open-reproducible-research",
+    "title": "Week 5: git & GitHub",
+    "section": "Open & Reproducible Research",
+    "text": "Open & Reproducible Research\n\nUse scripting\nUse dynamic documents\n\nQuarto is fantastic\n\nUse Git/GitHub\nUse open data whenever possible\n\nConsider ways you can make portions of the data open, if not all of it\n\nAdvanced – use tools that store software versions\n\n{renv} (Rstudio)"
+  },
+  {
+    "objectID": "slides/w5_git.html#all-the-things",
+    "href": "slides/w5_git.html#all-the-things",
+    "title": "Week 5: git & GitHub",
+    "section": "All the things",
+    "text": "All the things\n\ngit – a version control system that lives on your machine\nGitHub – repo host that lives online, works with git\nGitKraken – a GUI that lives on your machine and communicates with GitHub and git"
+  },
+  {
+    "objectID": "slides/w5_git.html#version-control",
+    "href": "slides/w5_git.html#version-control",
+    "title": "Week 5: git & GitHub",
+    "section": "Version Control",
+    "text": "Version Control\nWe can think of the changes as separate from the document\nYou can then think about “playing back” different sets of changes on the base document, ultimately resulting in different versions of that document\n\n\n\n\n\n\n\n\n\n\n\nswcarpentry"
+  },
+  {
+    "objectID": "slides/w5_git.html#version-control-1",
+    "href": "slides/w5_git.html#version-control-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Version Control",
+    "text": "Version Control\nThis means there are many possible versions of the same document\n\n\n\n\n\n\n\n\n\n\n\nswcarpentry"
+  },
+  {
+    "objectID": "slides/w5_git.html#version-control-2",
+    "href": "slides/w5_git.html#version-control-2",
+    "title": "Week 5: git & GitHub",
+    "section": "Version Control",
+    "text": "Version Control\nUnless there are merge conflicts , two changes from the same document can be merged together\n\n\n\n\n\n\n\n\n\n\n\nswcarpentry"
+  },
+  {
+    "objectID": "slides/w5_git.html#lets-talk-about-how",
+    "href": "slides/w5_git.html#lets-talk-about-how",
+    "title": "Week 5: git & GitHub",
+    "section": "Let’s talk about “how”",
+    "text": "Let’s talk about “how”\n\nUnderstand the structure of git\nActual method of completing the tasks is up to you\n\nGUI? Command line? RStudio?\n\nI’ve asked you to install GitKraken\n\nWorth it to manage merge conflicts alone\n\nIf you’re already using something else, that’s ok!\n\nLet me know"
+  },
+  {
+    "objectID": "slides/w5_git.html#terminology",
+    "href": "slides/w5_git.html#terminology",
+    "title": "Week 5: git & GitHub",
+    "section": "Terminology",
+    "text": "Terminology\n\n\nversion control system\n\nA tool to help us track changes. git is one such system (but there are others)\n\n\n\n\n\nrepository (repo)\n\nThe files, full commit history, and associated metadata for a project\n\n\n\n\n\nremote\n\nThe cloud-based server hosting the repo (that’s GitHub)\n\n\n\n\n\nlocal\n\nThe repo that lives on your machine"
+  },
+  {
+    "objectID": "slides/w5_git.html#connect-github-gitkraken",
+    "href": "slides/w5_git.html#connect-github-gitkraken",
+    "title": "Week 5: git & GitHub",
+    "section": "Connect GitHub & GitKraken",
+    "text": "Connect GitHub & GitKraken\nGo to GitKraken\n\n“Sign in with GitHub”\n“Continue with Authorization”\nYou should see “Success: GitHub and GitKraken are good to go!” or something like that\nCheck your email for an email from GitHub to verify (?)"
+  },
+  {
+    "objectID": "slides/w5_git.html#open-gitkraken",
+    "href": "slides/w5_git.html#open-gitkraken",
+    "title": "Week 5: git & GitHub",
+    "section": "Open GitKraken",
+    "text": "Open GitKraken"
+  },
+  {
+    "objectID": "slides/w5_git.html#connect-github-and-gitkraken",
+    "href": "slides/w5_git.html#connect-github-and-gitkraken",
+    "title": "Week 5: git & GitHub",
+    "section": "Connect GitHub and GitKraken",
+    "text": "Connect GitHub and GitKraken"
+  },
+  {
+    "objectID": "slides/w5_git.html#connect-github-and-gitkraken-1",
+    "href": "slides/w5_git.html#connect-github-and-gitkraken-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Connect GitHub and GitKraken",
+    "text": "Connect GitHub and GitKraken\nCheck your email (associated with your GitHub account)"
+  },
+  {
+    "objectID": "slides/w5_git.html#proposed-workflow",
+    "href": "slides/w5_git.html#proposed-workflow",
+    "title": "Week 5: git & GitHub",
+    "section": "Proposed Workflow",
+    "text": "Proposed Workflow\n\nGo to GitHub\nCreate new repo\nCopy path\nCreate a new RStudio Project\nGo to GitKraken to manage"
+  },
+  {
+    "objectID": "slides/w5_git.html#go-to-github",
+    "href": "slides/w5_git.html#go-to-github",
+    "title": "Week 5: git & GitHub",
+    "section": "1. Go to GitHub",
+    "text": "1. Go to GitHub\nSelect drop down by your profile, then “New Repository”"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-new-repo",
+    "href": "slides/w5_git.html#create-new-repo",
+    "title": "Week 5: git & GitHub",
+    "section": "2. Create new repo",
+    "text": "2. Create new repo"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-new-repo-1",
+    "href": "slides/w5_git.html#create-new-repo-1",
+    "title": "Week 5: git & GitHub",
+    "section": "2. Create new repo",
+    "text": "2. Create new repo\n\n\n\nGive it a Repository name\nMake it Public (this time)\n Add a README file\nAdd .gitignore\n\n.gitignore template: R\n\nCreate repository\n\n\n\n\n\n\nLicense - optional; I usually go with MIT"
+  },
+  {
+    "objectID": "slides/w5_git.html#repo-created",
+    "href": "slides/w5_git.html#repo-created",
+    "title": "Week 5: git & GitHub",
+    "section": "Repo created!",
+    "text": "Repo created!"
+  },
+  {
+    "objectID": "slides/w5_git.html#copy-path",
+    "href": "slides/w5_git.html#copy-path",
+    "title": "Week 5: git & GitHub",
+    "section": "3. Copy path",
+    "text": "3. Copy path"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-new-rstudio-project",
+    "href": "slides/w5_git.html#create-new-rstudio-project",
+    "title": "Week 5: git & GitHub",
+    "section": "4. Create New RStudio Project",
+    "text": "4. Create New RStudio Project\nSelect Version Control"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-new-rstudio-project-1",
+    "href": "slides/w5_git.html#create-new-rstudio-project-1",
+    "title": "Week 5: git & GitHub",
+    "section": "4. Create New RStudio Project",
+    "text": "4. Create New RStudio Project\nSelect Git"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-new-rstudio-project-2",
+    "href": "slides/w5_git.html#create-new-rstudio-project-2",
+    "title": "Week 5: git & GitHub",
+    "section": "4. Create New RStudio Project",
+    "text": "4. Create New RStudio Project\nClone Git Repository"
+  },
+  {
+    "objectID": "slides/w5_git.html#clone-git-repository",
+    "href": "slides/w5_git.html#clone-git-repository",
+    "title": "Week 5: git & GitHub",
+    "section": "Clone Git Repository",
+    "text": "Clone Git Repository\n\nPaste GitHub URL into Repository URL\nDecide where your RProject will live on your machine\nCreate Project"
+  },
+  {
+    "objectID": "slides/w5_git.html#this-will-open-your-new-rproj",
+    "href": "slides/w5_git.html#this-will-open-your-new-rproj",
+    "title": "Week 5: git & GitHub",
+    "section": "This will open your new Rproj",
+    "text": "This will open your new Rproj\n\nSee files we created are there\nWhere does it live?"
+  },
+  {
+    "objectID": "slides/w5_git.html#lets-go-to-github",
+    "href": "slides/w5_git.html#lets-go-to-github",
+    "title": "Week 5: git & GitHub",
+    "section": "Let’s go to GitHub",
+    "text": "Let’s go to GitHub\nWhere is our Rproj\n . . .\nWe haven’t pushed it yet"
+  },
+  {
+    "objectID": "slides/w5_git.html#go-to-gitkraken-to-manage",
+    "href": "slides/w5_git.html#go-to-gitkraken-to-manage",
+    "title": "Week 5: git & GitHub",
+    "section": "5. Go to GitKraken to manage",
+    "text": "5. Go to GitKraken to manage\nFile  New Tab"
+  },
+  {
+    "objectID": "slides/w5_git.html#go-to-gitkraken-to-manage-1",
+    "href": "slides/w5_git.html#go-to-gitkraken-to-manage-1",
+    "title": "Week 5: git & GitHub",
+    "section": "5. Go to GitKraken to manage",
+    "text": "5. Go to GitKraken to manage\n\nIn New Tab\nSelect Browse for a Repo\nOpen folder on your machine where your RProj lives"
+  },
+  {
+    "objectID": "slides/w5_git.html#welcome-to-gitkraken",
+    "href": "slides/w5_git.html#welcome-to-gitkraken",
+    "title": "Week 5: git & GitHub",
+    "section": "Welcome to GitKraken",
+    "text": "Welcome to GitKraken\n # Stage/Committ/Push changes"
+  },
+  {
+    "objectID": "slides/w5_git.html#welcome-to-gitkraken-1",
+    "href": "slides/w5_git.html#welcome-to-gitkraken-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Welcome to GitKraken",
+    "text": "Welcome to GitKraken\nWe can see in two places that we have changes to our repo\n\n“//WIP” - Work In Progress\nOn the right under “Unstaged Files”"
+  },
+  {
+    "objectID": "slides/w5_git.html#terminology-1",
+    "href": "slides/w5_git.html#terminology-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Terminology",
+    "text": "Terminology\n\n\nstage\n\nA file that is being prepared for a commit\n\n\n\n\n\ncommit\n\nChanges that have been made to the file(s)\n\n\n\n\n\npush\n\nAfter you commit the changes you want, push them from the local to the remote\n\n\n\n\nHalf the battle is learning these terms"
+  },
+  {
+    "objectID": "slides/w5_git.html#stage",
+    "href": "slides/w5_git.html#stage",
+    "title": "Week 5: git & GitHub",
+    "section": "Stage",
+    "text": "Stage\n“Stage All Changes” or\n“Stage File” individually"
+  },
+  {
+    "objectID": "slides/w5_git.html#stage-1",
+    "href": "slides/w5_git.html#stage-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Stage",
+    "text": "Stage\nAdd a commit comment as a note you and your collaborators what the change was"
+  },
+  {
+    "objectID": "slides/w5_git.html#commit",
+    "href": "slides/w5_git.html#commit",
+    "title": "Week 5: git & GitHub",
+    "section": "Commit",
+    "text": "Commit\nCommit changes"
+  },
+  {
+    "objectID": "slides/w5_git.html#commit-1",
+    "href": "slides/w5_git.html#commit-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Commit",
+    "text": "Commit\n\nNo //WIP\nLet’s check GitHub\n\n\nNo change"
+  },
+  {
+    "objectID": "slides/w5_git.html#push",
+    "href": "slides/w5_git.html#push",
+    "title": "Week 5: git & GitHub",
+    "section": "Push",
+    "text": "Push\nWe need to push the change to GitHub"
+  },
+  {
+    "objectID": "slides/w5_git.html#github",
+    "href": "slides/w5_git.html#github",
+    "title": "Week 5: git & GitHub",
+    "section": "GitHub",
+    "text": "GitHub\nNow we see our changes"
+  },
+  {
+    "objectID": "slides/w5_git.html#lets-make-another-change",
+    "href": "slides/w5_git.html#lets-make-another-change",
+    "title": "Week 5: git & GitHub",
+    "section": "Let’s make another change",
+    "text": "Let’s make another change\n\nMake demo.qmd\nRender\nstage / commit / push\nCheck GitHub\nMake edit\nCheck GitKraken for change\n\ndemo"
+  },
+  {
+    "objectID": "slides/w5_git.html#homework-5",
+    "href": "slides/w5_git.html#homework-5",
+    "title": "Week 5: git & GitHub",
+    "section": "Homework 5",
+    "text": "Homework 5\n\nSubmit a link to the repo you created today!\nUpload the link to Canvas\nSee me if you were unable to complete in class (for technical reasons etc.)\n\nIt is ok if you leave today a little lot confused!"
+  },
+  {
+    "objectID": "slides/w5_git.html#tracking-1",
+    "href": "slides/w5_git.html#tracking-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Tracking",
+    "text": "Tracking\n\nAs long as the .git folder exists, the entire folder will be tracked\nDo not create repos inside of repos\nIf you want a folder to show up, there needs to be something in it (e.g., a README.md)"
+  },
+  {
+    "objectID": "slides/w5_git.html#tracking-2",
+    "href": "slides/w5_git.html#tracking-2",
+    "title": "Week 5: git & GitHub",
+    "section": "Tracking",
+    "text": "Tracking\nShow hidden files\nPC\n\nOpen File Explorer\nSelect View at the top\nShow  Hidden Items\n\nMac\n\ncmd + shift + ."
+  },
+  {
+    "objectID": "slides/w5_git.html#ignoring-files",
+    "href": "slides/w5_git.html#ignoring-files",
+    "title": "Week 5: git & GitHub",
+    "section": "Ignoring files",
+    "text": "Ignoring files\n\nWhen we created the .Rproj the repo, we started it with a .gitignore file\nThe .gitignore file tells the repo not to track certain files\n\ne.g., proprietary data\n\nNot that important for now, but if you need to ignore a file in your repo for whatever reason, just put the name of the file(s) at the top of the .gitignore file\nOr, create a folder in your .Rproj (e..g, nopublish) and put all your documents to be ignored in that file\n\nthen on the first line of your .gitignore file, type: nopublish/"
+  },
+  {
+    "objectID": "slides/w5_git.html#section-2",
+    "href": "slides/w5_git.html#section-2",
+    "title": "Week 5: git & GitHub",
+    "section": "",
+    "text": "Image from Bryan (2017)"
+  },
+  {
+    "objectID": "slides/w5_git.html#pull",
+    "href": "slides/w5_git.html#pull",
+    "title": "Week 5: git & GitHub",
+    "section": "Pull",
+    "text": "Pull\n\npull before you start any collaborative work!!\npull any accepted changes from the remote to your local\n\n\n\npull before you start any collaborative work!!\n\n # Collaborating"
+  },
+  {
+    "objectID": "slides/w5_git.html#collaborating",
+    "href": "slides/w5_git.html#collaborating",
+    "title": "Week 5: git & GitHub",
+    "section": "Collaborating",
+    "text": "Collaborating\nTwo methods\n\nAdd users to a repo\nCreate an organization"
+  },
+  {
+    "objectID": "slides/w5_git.html#collaborating-1",
+    "href": "slides/w5_git.html#collaborating-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Collaborating",
+    "text": "Collaborating\n\nAdd users to a repo\n\nIn your GitHub repo\nSettings  Collaborators  Manage Access  Add people\nadd user with their GitHub username"
+  },
+  {
+    "objectID": "slides/w5_git.html#collaborating-2",
+    "href": "slides/w5_git.html#collaborating-2",
+    "title": "Week 5: git & GitHub",
+    "section": "Collaborating",
+    "text": "Collaborating\n\nCreate an organization\n\nNew organization"
+  },
+  {
+    "objectID": "slides/w5_git.html#collaborating-3",
+    "href": "slides/w5_git.html#collaborating-3",
+    "title": "Week 5: git & GitHub",
+    "section": "Collaborating",
+    "text": "Collaborating\n\nCreate an organization\n\nNew organization"
+  },
+  {
+    "objectID": "slides/w5_git.html#final-project-collaboration-1",
+    "href": "slides/w5_git.html#final-project-collaboration-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Final Project Collaboration",
+    "text": "Final Project Collaboration\nAdd users to a repo\n\nOne group member will Open a repo (like we just went over)\n\nPotentially the person who has the project data, but not necessarily\n\nWithin the repo on GitHub\n\nSettings  Collaborators  Manage Access  Add people"
+  },
+  {
+    "objectID": "slides/w5_git.html#collaborating-4",
+    "href": "slides/w5_git.html#collaborating-4",
+    "title": "Week 5: git & GitHub",
+    "section": "Collaborating",
+    "text": "Collaborating\n\nThe collaborators will receive an email from GitHub\nAccept the invitation\nclone the repo"
+  },
+  {
+    "objectID": "slides/w5_git.html#cloning",
+    "href": "slides/w5_git.html#cloning",
+    "title": "Week 5: git & GitHub",
+    "section": "Cloning",
+    "text": "Cloning\n\ncloning means that you are downloading the repo\nYou can clone any repo you like (even the {tidyverse})\nFor the Final Project, you will clone the repo you were invited to collaborate on"
+  },
+  {
+    "objectID": "slides/w5_git.html#clone-a-repo",
+    "href": "slides/w5_git.html#clone-a-repo",
+    "title": "Week 5: git & GitHub",
+    "section": "Clone a repo",
+    "text": "Clone a repo\n\nGo to the repo on GitHub\nClick the green “Code” button near the top\nCopy the URL"
+  },
+  {
+    "objectID": "slides/w5_git.html#clone-a-repo-1",
+    "href": "slides/w5_git.html#clone-a-repo-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Clone a repo",
+    "text": "Clone a repo\n\n\n\nGo to GitKraken\nClick the  folder icon in the upper left\nClick the  Clone button\n Clone with URL\nWhere to clone to: Specify where it will live on your machine\n\nhere it is on my desktop\n\nURL: Paste in the URL copied from GitHub\n“Clone the repo!”"
+  },
+  {
+    "objectID": "slides/w5_git.html#merge-conflict-1",
+    "href": "slides/w5_git.html#merge-conflict-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Merge Conflict",
+    "text": "Merge Conflict"
+  },
+  {
+    "objectID": "slides/w5_git.html#merge-conflict-2",
+    "href": "slides/w5_git.html#merge-conflict-2",
+    "title": "Week 5: git & GitHub",
+    "section": "Merge Conflict",
+    "text": "Merge Conflict\n\nAlways pull before you start working!!\nTry to stay in communication with your collaborators and don’t work on the exact same thing at the same time\nUse GitKraken to help manage merge conflicts that do come up"
+  },
+  {
+    "objectID": "slides/w5_git.html#merge-conflict-3",
+    "href": "slides/w5_git.html#merge-conflict-3",
+    "title": "Week 5: git & GitHub",
+    "section": "Merge Conflict",
+    "text": "Merge Conflict\n\nRemember to always pull first!!\nGitKraken has a really nice GUI to resolve merge conflicts\n\n\n\n\nlink"
+  },
+  {
+    "objectID": "slides/w5_git.html#merge-conflict-activity-15-mins",
+    "href": "slides/w5_git.html#merge-conflict-activity-15-mins",
+    "title": "Week 5: git & GitHub",
+    "section": "Merge Conflict Activity (15 mins)",
+    "text": "Merge Conflict Activity (15 mins)\n\nPair up: decide who is Partner 1 (P1) and Partner 2 (P2)\nP1: create a conflicted.qmd file in your repo from today\nP1: add P2 as a collaborator\nP2: accept the invite and clone the repo (then STOP, nobody edits yet)\nP1: edit the target line, commit, push\nP2: edit the same line differently, commit (don’t pull!)\nP2: try to push (it gets rejected)\nP2: pull (this creates the conflict)\nP2: open the file and inspect the weird markers\nP2: resolve the conflict in GitKraken\nP2: commit and push; P1 pulls to confirm"
+  },
+  {
+    "objectID": "slides/w5_git.html#quick-recap",
+    "href": "slides/w5_git.html#quick-recap",
+    "title": "Week 5: git & GitHub",
+    "section": "Quick Recap",
+    "text": "Quick Recap\nBasic workflow\n\nGitHub - Create new repo\nCopy path\nCreate a new RStudio Project  Version Control  Git\nUse GitKraken to manage\n\n\n\nadd collaborators\npull\nstage and commit changes\npush changes to repo"
+  },
+  {
+    "objectID": "slides/w5_git.html#revisiting-git-terminology",
+    "href": "slides/w5_git.html#revisiting-git-terminology",
+    "title": "Week 5: git & GitHub",
+    "section": "Revisiting git terminology",
+    "text": "Revisiting git terminology\nTalk with a neighbor about what each of these terms mean\n\nclone\npull\nstage\ncommit\npush\nrepo\nremote"
+  },
+  {
+    "objectID": "slides/w5_git.html#before-next-class",
+    "href": "slides/w5_git.html#before-next-class",
+    "title": "Week 5: git & GitHub",
+    "section": "Before next class",
+    "text": "Before next class\n\nReading\n\nR4DS(2e) Chapter 29 Quarto Formats\nMarkdown Tutorial\n\nHomework\n\nHomework 5 (hopefully completed in class today)"
+  },
+  {
+    "objectID": "slides/w5_git.html#if-you-already-have-an-existing-project",
+    "href": "slides/w5_git.html#if-you-already-have-an-existing-project",
+    "title": "Week 5: git & GitHub",
+    "section": "If you already have an existing project",
+    "text": "If you already have an existing project\n\nRStudio: Create your RStudio Project (as usual)\nGitKraken: Open a repo on GitKraken\nGitHub: Create new repo on GitHub\nGitKraken: Add remote on GitKraken"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-your-rstudio-project-as-usual",
+    "href": "slides/w5_git.html#create-your-rstudio-project-as-usual",
+    "title": "Week 5: git & GitHub",
+    "section": "1. Create your RStudio Project (as usual)",
+    "text": "1. Create your RStudio Project (as usual)\n\nMake a new RStudio Project (cal it “demo”)\n\nOpen a new R Markdown document and name it “foo”\n\nNote the name you gave the project (folder)\n “Create a git repository”\n\nDon’t add .gitignore in GiKraken or GitHub\n\n\nIf you did not  “Create a git repository”: Add .gitignore file in GitKraken or GitHub"
+  },
+  {
+    "objectID": "slides/w5_git.html#open-a-repo-on-gitkraken",
+    "href": "slides/w5_git.html#open-a-repo-on-gitkraken",
+    "title": "Week 5: git & GitHub",
+    "section": "2. Open a repo on GitKraken",
+    "text": "2. Open a repo on GitKraken\n\nIn New Tab\nSelect Browse for a Repo\nSelect project folder"
+  },
+  {
+    "objectID": "slides/w5_git.html#open-a-repo-on-gitkraken-1",
+    "href": "slides/w5_git.html#open-a-repo-on-gitkraken-1",
+    "title": "Week 5: git & GitHub",
+    "section": "2. Open a repo on GitKraken",
+    "text": "2. Open a repo on GitKraken\nClick Initialize"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-new-repo-on-github",
+    "href": "slides/w5_git.html#create-new-repo-on-github",
+    "title": "Week 5: git & GitHub",
+    "section": "3. Create new repo on GitHub",
+    "text": "3. Create new repo on GitHub\n\n\n\nRepository name – same as your Project name\n\nDescription – keep it brief, informative\nPublic\nDo not initialize\n“None”\ndo NOT add .gitignore\ndo NOT add a license"
+  },
+  {
+    "objectID": "slides/w5_git.html#create-new-repo-on-github-1",
+    "href": "slides/w5_git.html#create-new-repo-on-github-1",
+    "title": "Week 5: git & GitHub",
+    "section": "3. Create new repo on GitHub",
+    "text": "3. Create new repo on GitHub\nCopy path"
+  },
+  {
+    "objectID": "slides/w5_git.html#back-to-gitkraken-to-add-remote",
+    "href": "slides/w5_git.html#back-to-gitkraken-to-add-remote",
+    "title": "Week 5: git & GitHub",
+    "section": "4. Back to GitKraken to Add Remote",
+    "text": "4. Back to GitKraken to Add Remote\nAdd remote\n\nClick  URL\nName: Name of RProject\nPull URL: Paste URL copied from GitHub\nPush URL: Populates automatically"
+  },
+  {
+    "objectID": "slides/w5_git.html#quick-recap-1",
+    "href": "slides/w5_git.html#quick-recap-1",
+    "title": "Week 5: git & GitHub",
+    "section": "Quick Recap",
+    "text": "Quick Recap\nBasic workflow if you already have an existing project\n\ncreate an RStudio project\ncreate a repo\nadd collaborators\npull\nstage and commit changes\npush changes to remote"
+  },
+  {
+    "objectID": "slides/w5_git.html#all-the-things-1",
+    "href": "slides/w5_git.html#all-the-things-1",
+    "title": "Week 5: git & GitHub",
+    "section": "All the things",
+    "text": "All the things\n\ngit – a version control system that lives on your machine\nGitHub – repo host that lives online, works with git\nGitKraken – a GUI that lives on your machine and communicates with GitHub and git\n\n\nYou can basically forget about git going forward in this class"
+  },
+  {
+    "objectID": "slides/w5_git.html#the-rules-for-today",
+    "href": "slides/w5_git.html#the-rules-for-today",
+    "title": "Week 5: git & GitHub",
+    "section": "The Rules for Today",
+    "text": "The Rules for Today\n\n\n\n\n\n\nConflicts only happen when…\n\n\nBoth people change the same line with different text, and the second person tries to combine their work after the first person has pushed.\n\n\n\n\nFollow the exact text I give you\nFollow the order of the steps\nDon’t pull or “fix” anything early"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-1-pair-up",
+    "href": "slides/w5_git.html#step-1-pair-up",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 1: Pair Up",
+    "text": "Step 1: Pair Up\n\nFind a partner\nDecide who is Partner 1 (P1) and who is Partner 2 (P2)\nSit next to each other so you can coordinate timing\n\n\n\n\n\n\n\nNote\n\n\nYou will switch back and forth between working alone and waiting on your partner. Talk to each other!"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-2-p1-create-a-conflicted.qmd",
+    "href": "slides/w5_git.html#step-2-p1-create-a-conflicted.qmd",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 2: P1: create a conflicted.qmd",
+    "text": "Step 2: P1: create a conflicted.qmd\nP1: create a new .qmd file and paste in the text below\nSave it as conflicted.qmd in your repo from today\n---\ntitle: \"Merge Conflict Practice\"\nformat: html\n---\n\n## Team Info\n\nFavorite programming language: ______\n\nFavorite snack while coding: ______\n\n## Notes\n\nThis is the last line of the file."
+  },
+  {
+    "objectID": "slides/w5_git.html#step-3-p1-adds-p2-as-a-collaborator",
+    "href": "slides/w5_git.html#step-3-p1-adds-p2-as-a-collaborator",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 3: P1 Adds P2 as a Collaborator",
+    "text": "Step 3: P1 Adds P2 as a Collaborator\nP1 only:\n\nGo to your repo on GitHub\nClick Settings → Collaborators\nClick Add people\nEnter P2’s GitHub username and send the invite"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-4-p2-accepts-and-clones",
+    "href": "slides/w5_git.html#step-4-p2-accepts-and-clones",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 4: P2 Accepts and Clones",
+    "text": "Step 4: P2 Accepts and Clones\nP2 only:\n\nAccept the invitation (check your email or github.com/notifications)\nIn GitKraken: File → Clone Repo\nChoose the repo and a local folder, then click Clone\nConfirm you see conflicted.qmd and you’re on main\n\n\n\n\n\n\n\nSTOP!\n\n\nNobody edits anything until both partners have cloned and confirmed."
+  },
+  {
+    "objectID": "slides/w5_git.html#starter-file",
+    "href": "slides/w5_git.html#starter-file",
+    "title": "Week 5: git & GitHub",
+    "section": "Starter File",
+    "text": "Starter File\nBoth partners should see this in conflicted.qmd\n---\ntitle: \"Merge Conflict Practice\"\nformat: html\n---\n\n## Team Info\n\nFavorite programming language: ______\n\nFavorite snack while coding: ______\n\n## Notes\n\nThis is the last line of the file."
+  },
+  {
+    "objectID": "slides/w5_git.html#step-5-p1-edits-commits-pushes",
+    "href": "slides/w5_git.html#step-5-p1-edits-commits-pushes",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 5: P1 Edits, Commits, Pushes",
+    "text": "Step 5: P1 Edits, Commits, Pushes\nP1 only: Open conflicted.qmd and change this line:\n\n\nBefore\nFavorite programming language: ______\n\nAfter\nFavorite programming language: R\n\nThen in GitKraken:\n\nstage the file\ncommit with message: P1 favorite language\npush and wait for it to succeed"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-6-p2-edits-the-same-line",
+    "href": "slides/w5_git.html#step-6-p2-edits-the-same-line",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 6: P2 Edits the Same Line",
+    "text": "Step 6: P2 Edits the Same Line\nP2 only: After P1 has pushed, open conflicted.qmd and change the same line:\nFavorite programming language: Python\n\nstage the file\ncommit with message: P2 favorite language\n\n\n\n\n\n\n\nDo NOT pull or fetch yet!\n\n\nGitKraken may show you are “behind” by 1 commit. That’s expected. Ignore it for now."
+  },
+  {
+    "objectID": "slides/w5_git.html#step-7-p2-tries-to-push",
+    "href": "slides/w5_git.html#step-7-p2-tries-to-push",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 7: P2 Tries to Push",
+    "text": "Step 7: P2 Tries to Push\nP2: Click push.\n\nWhat happens? The push is rejected.\n\n\nWhy?\n\nP1’s commit is already on GitHub\nYour commit is only on your computer\nYour histories have diverged, and Git won’t overwrite your partner’s work"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-8-p2-pulls-to-trigger-the-conflict",
+    "href": "slides/w5_git.html#step-8-p2-pulls-to-trigger-the-conflict",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 8: P2 Pulls to Trigger the Conflict",
+    "text": "Step 8: P2 Pulls to Trigger the Conflict\nP2: Click Pull in GitKraken (choose Pull (merge) if asked).\n\nExpected result: GitKraken reports a merge conflict and conflicted.qmd appears as conflicted\n\n\n\n\n\n\nNo conflict?\n\n\nCheck that you both edited the same line with different text. Raise your hand if you’re stuck!"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-9-look-at-the-damage",
+    "href": "slides/w5_git.html#step-9-look-at-the-damage",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 9: Look at the Damage",
+    "text": "Step 9: Look at the Damage\nP2: Open conflicted.qmd in a text editor (not GitKraken). You should see:\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\nFavorite programming language: Python\n=======\nFavorite programming language: R\n&gt;&gt;&gt;&gt;&gt;&gt;&gt; origin/main\nDiscuss with your partner:\n\nWhich section is your version?\nWhich section is your partner’s?\nWhat do &lt;&lt;&lt;&lt;&lt;&lt;&lt;, =======, and &gt;&gt;&gt;&gt;&gt;&gt;&gt; mark?"
+  },
+  {
+    "objectID": "slides/w5_git.html#decoding-the-markers",
+    "href": "slides/w5_git.html#decoding-the-markers",
+    "title": "Week 5: git & GitHub",
+    "section": "Decoding the Markers",
+    "text": "Decoding the Markers\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD                          ← start of YOUR (local) version\nFavorite programming language: Python\n=======                               ← divider\nFavorite programming language: R      ← your PARTNER'S (remote) version\n&gt;&gt;&gt;&gt;&gt;&gt;&gt; origin/main                   ← end of conflict\n\nGit can’t decide which line is correct, so it asks you\nThese markers are not valid content, and they must be removed"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-10-resolve-in-gitkraken",
+    "href": "slides/w5_git.html#step-10-resolve-in-gitkraken",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 10: Resolve in GitKraken",
+    "text": "Step 10: Resolve in GitKraken\nP2:\n\nIn GitKraken, click the conflicted file in the Unstaged / Conflicted Files panel\nThe conflict resolution view opens\nCheck the box for P1’s line, P2’s line, or both\nOr edit the output pane yourself, for example:\n\nFavorite programming language: R, NOT Python\n\nConfirm the output has no &lt;&lt;&lt;&lt;&lt;&lt;&lt;, =======, or &gt;&gt;&gt;&gt;&gt;&gt;&gt;"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-10-commit-and-push-the-resolution",
+    "href": "slides/w5_git.html#step-10-commit-and-push-the-resolution",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 10: Commit and Push the Resolution",
+    "text": "Step 10: Commit and Push the Resolution\nP2:\n\nClick Save in the conflict view\nStage the resolved file\nCommit (keep the pre-filled merge commit message)\nPush\n\n\nP1: Click Pull and confirm you see the resolved line in your file."
+  },
+  {
+    "objectID": "slides/w5_git.html#step-11-check-the-commit-graph",
+    "href": "slides/w5_git.html#step-11-check-the-commit-graph",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 11: Check the Commit Graph",
+    "text": "Step 11: Check the Commit Graph\nBoth partners: Look at the graph in GitKraken.\n\nCan you spot where the history diverged?\nCan you spot the merge commit where it came back together?"
+  },
+  {
+    "objectID": "slides/w5_git.html#stuck-troubleshooting",
+    "href": "slides/w5_git.html#stuck-troubleshooting",
+    "title": "Week 5: git & GitHub",
+    "section": "Stuck? Troubleshooting",
+    "text": "Stuck? Troubleshooting\n\n\n\n\n\n\n\n\nSymptom\nLikely cause\nFix\n\n\n\n\nP2’s push succeeds\nP1 hadn’t pushed yet, or P2 pulled before committing\nRe-clone and redo steps 4 to 6 in order\n\n\nPull works, no conflict\nDifferent lines edited, or identical text typed\nUse the exact text on the slides\n\n\n“Pull” is greyed out\nUncommitted changes\nCommit first (Step 5)\n\n\nMarkers still in file\nResolution not saved\nRe-open the conflict view, remove markers, Save"
+  },
+  {
+    "objectID": "slides/w5_git.html#discussion-questions",
+    "href": "slides/w5_git.html#discussion-questions",
+    "title": "Week 5: git & GitHub",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nWhy did Git reject P2’s push?\nWhy couldn’t Git resolve this conflict automatically?\nWhat would have happened if you had edited different lines?\nHow can teams avoid conflicts in real projects?\n\n\nPull often, communicate, and work on separate files or branches."
+  },
+  {
+    "objectID": "slides/w5_git.html#bonus-round",
+    "href": "slides/w5_git.html#bonus-round",
+    "title": "Week 5: git & GitHub",
+    "section": "Bonus Round",
+    "text": "Bonus Round\nRepeat the exercise with the snack line, but this time:\n\nP1: deletes the line entirely, then commits and pushes\nP2: edits the line, then commits and tries to pull\n\nThis creates a modify/delete conflict, which looks different in GitKraken. How do you resolve it?"
+  },
+  {
+    "objectID": "slides/w5_git.html#step-11-commit-and-push-the-resolution",
+    "href": "slides/w5_git.html#step-11-commit-and-push-the-resolution",
+    "title": "Week 5: git & GitHub",
+    "section": "Step 11: Commit and Push the Resolution",
+    "text": "Step 11: Commit and Push the Resolution\nP2:\n\nClick Save in the conflict view\nstage the resolved file\ncommit (keep the pre-filled merge commit message)\npush\n\n\nP1: Click ****pull**** and confirm you see the resolved line in your file."
+  },
+  {
+    "objectID": "slides/w5_git.html#check-the-commit-graph",
+    "href": "slides/w5_git.html#check-the-commit-graph",
+    "title": "Week 5: git & GitHub",
+    "section": "Check the Commit Graph",
+    "text": "Check the Commit Graph\nBoth partners: Look at the graph in GitKraken.\n\nCan you spot where the history diverged?\nCan you spot the merge commit where it came back together?"
+  },
+  {
+    "objectID": "slides/w4_dplyr.html",
+    "href": "slides/w4_dplyr.html",
+    "title": "Week 4: Data Wrangling",
+    "section": "",
+    "text": "Midway Student Experience Survey\n\nDuckweb\n\nlog into DuckWeb\nclick the Course Surveys link on the Main Menu page\nclick “Open the Course Surveys site” and choosing this course\n\nCanvas\n\nsurvey link appears in the course site on the left navbar"
+  },
+  {
+    "objectID": "homeworks/hw2-key.html",
+    "href": "homeworks/hw2-key.html",
+    "title": "Homework 2",
+    "section": "",
+    "text": "Install the {nlme} package\nLoad {nlme}, {janitor}, and the {tidyverse} packages in the “setup” chunk\nRun the chunk below to prep some data from the {nmle} package for plotting\n\n\npd &lt;- Oxboys |&gt; \n  clean_names() |&gt; \n  mutate(subject = factor(subject),\n         occasion = factor(occasion)) |&gt; \n  filter(subject == \"10\" | subject == \"4\" | subject == \"7\") |&gt; \n  as_tibble()\n\n\n\nReproduce the following two plots, using the pd data. You can use whatever theme you want (I used theme_minimal()), but all else should be the same.\n\n\ntheme_set(theme_minimal())\n\n# Put code below for Plot 1. Note that Plot 1 is a line plot, not a \"smooth.\"\npd |&gt; \n  ggplot(aes(age, height)) +\n  geom_line() +\n  facet_wrap(~subject) +\n  labs(title = \"Plot 1\")\n\n\n\n\n\n\n\n# Put code below for Plot 2. Note that Plot 2 is a line plot also.\n\npd |&gt; \n  ggplot(aes(age, height, color = subject)) +\n  geom_line() +\n  labs(title = \"Plot 2\")\n\n\n\n\n\n\n\n\n\n\nUse the mtcars dataset from base R to replicate the following plots. (Just type mtcars into the console to see the dataset).\n\n\n# Put code below for Plot 3\nmtcars|&gt; \n  ggplot(aes(drat, mpg)) +\n  geom_point() +\n  labs(title = \"Plot 3\")\n\n\n\n\n\n\n\n# Put code below for Plot 4\nmtcars|&gt; \n  ggplot(aes(drat, mpg)) +\n  geom_point() +\n  geom_smooth() +\n  labs(title = \"Plot 4\")\n\n\n\n\n\n\n\n# Put code below for Plot 5\nmtcars|&gt; \n  ggplot(aes(drat, mpg)) +\n  geom_point() +\n  geom_smooth(method = \"lm\") +\n  facet_wrap(~vs) +\n  labs(title = \"Plot 5\")\n\n\n\n\n\n\n\n# Put code below for Plot 6. I have given you the first line of code to start.\nmtcars|&gt; \n  ggplot(aes(drat, mpg, color = factor(cyl))) +\n  geom_point() +\n  geom_smooth(method = \"lm\", se = FALSE) +\n  labs(title = \"Plot 6\")\n\n\n\n\n\n\n\n\n\n\nUse the Orange dataset, also part of base R, to replicate the following plots.\n\n\n# Put code below for Plot 7\nOrange |&gt; \n  ggplot(aes(age, circumference, color = Tree)) +\n  geom_line() +\n  geom_point() +\n  labs(title = \"Plot 7\")\n\n\n\n\n\n\n\n# Put code below for the last plot. See slide xx from the w3 class for labels.\nOrange |&gt; \n  ggplot(aes(age, circumference)) +\n  geom_smooth(method = \"lm\", se = FALSE, color = \"gray40\") +\n  geom_point(aes(color = Tree), size = 3) +\n  labs(x = \"Age of the Tree (in days)\",\n       y = \"Circumference of the Trunk (in mm)\",\n       title = \"Orange Tree Growth\",\n       subtitle = \"Gray line displays a linear model fit to the data.\")"
+  },
+  {
+    "objectID": "homeworks/hw3-key.html",
+    "href": "homeworks/hw3-key.html",
+    "title": "Homework 3",
+    "section": "",
+    "text": "Load the {tidyverse}, {ggridges}, and {ISLR} packages in the “setup” chunk. (Install any if needed.)\nRun the following lines of code to read about and view the data we’ll use for this lab.\n\n\nComment out line 32 after you run it, but putting a # at the start of the line.\n\n\nstr(gss_cat)\n#View(gss_cat)\n#?gss_cat\n\n\nUse {ggplot2} to create a histogram of tvhours. The plot should:\n\n\nInclude a small amount of transparency so grid lines are visible under the histogram.\nBe a different color than the default\nInclude meaningful axis labels\nHave a title and a subtitle\n\n\ntheme_set(theme_minimal())\n\ngss_cat |&gt; \n  ggplot(aes(tvhours)) +\n  geom_histogram(fill = \"cornflowerblue\", \n                 alpha = 0.7) +\n  labs(x = \"Number of Hours Watching Television\",\n       y = \"Number of Observations\",\n       title = \"Distribution of Television Watching\",\n       subtitle = \"Data from the General Social Survey (http://gss.norc.org)\")\n\n\n\n\n\n\n\n\n\nCreate a ridgeline density plot of age by partyid. Do you notice any strong differences by party affiliation?\n\n\ngss_cat |&gt; \n  ggplot(aes(age, partyid)) +\n  geom_density_ridges(fill = \"cornflowerblue\", alpha = 0.4)\n\n\n\n\n\n\n\n\n\nModify the plot from Question 4 to produce separate ridgeline densities by race within one plot. Do you see any patterns?\n\n\ngss_cat |&gt; \n  ggplot(aes(age, partyid)) +\n  geom_density_ridges(aes(fill = race), alpha = 0.4)\n\n\n\n\n\n\n\n\n\nReplicate the plots from Questions 4 and 5, but this time displaying the relations with boxplots (i.e., one boxplot from Question 4 and one boxplot for Question 5 in the chunk below). Try using coord_flip. Which do you think displays the relation more clearly? Why?\n\n\ngss_cat |&gt; \n  ggplot(aes(partyid, age)) +\n  geom_boxplot(fill = \"cornflowerblue\") +\n  coord_flip()\n\n\n\n\n\n\n\ngss_cat |&gt; \n  ggplot(aes(partyid, age)) +\n  geom_boxplot(aes(fill = race), alpha = 0.4) +\n  theme(axis.text.x = element_text(angle = 90, hjust = 1))\n\n\n\n\n\n\n\n\n\nRun the following lines of code to get a correlation table as a data frame.\n\n\ncor_tbl &lt;- Hitters |&gt; \n  select_if(is.numeric) |&gt; \n  cor(use = \"pairwise.complete.obs\") |&gt; \n  as.data.frame() |&gt; \n  mutate(row = row.names(.)) |&gt; \n  gather(col, cor, -row) |&gt; \n  tbl_df()\n\nError:\n! `tbl_df()` was deprecated in dplyr 1.0.0 and is now defunct.\nℹ Please use `tibble::as_tibble()` instead.\n\n\nUse the correlation table to create a heatmap using geom_tile. Change the colors to one of the four viridis palettes. What does the heatmap help you see?\n\ncor_tbl |&gt; \n  ggplot(aes(row, col, fill = cor)) +\n  geom_tile() +\n  scale_fill_viridis_c(option = \"inferno\") +\n  theme(axis.text.x = element_text(angle = 90, hjust = 1))\n\nError:\n! object 'cor_tbl' not found"
   }
 ]

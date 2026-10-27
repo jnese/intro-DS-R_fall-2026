@@ -1,0 +1,1060 @@
+---
+title: "Week 5: git & GitHub"
+subtitle: "Version Control"
+author: "Joe Nese"
+institute: "University of Oregon<br>Fall 2026"
+format:
+  revealjs: 
+    theme: default
+    highlight-style: github
+    incremental: false
+    fig-width: 9
+    fig-height: 3.5
+    scrollable: false
+    slide-number: true
+    embed-resources: true
+execute: 
+  echo: true
+  warning: false
+  error: true
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(here)
+library(kableExtra)
+library(fontawesome)
+library(countdown)
+
+```
+
+# Homework Review
+
+Homework 4
+
+# git & GitHub
+
+Week 5
+
+## Agenda {.smaller}
+
+* Introduce reasons for version control
+* Introduce
+  + git
+  + GitHub
+  + GitKraken
+
+**Learning Objectives**
+
+* ~~Understand~~ Introduce the basics of git and git terminology
+* Be able to create [repos]{style="color:#009E73"}, [commit]{style="color:#009E73"} changes, [push]{style="color:#009E73"}, [pull]{style="color:#009E73"}, and [clone]{style="color:#009E73"}
+* Be prepared to collaborate on a project
+
+## git & GitHub
+
+**What are they?**
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**git**
+
+![](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png){width='20%'}
+
+* a version control system
+* lives on your computer and keeps track of files and all changes made to them that you register with [commits]{style="color:#009E73"}
+
+:::
+
+::: {.column width="50%"}
+**GitHub**
+
+![](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png){width='20%'}
+
+* an online host for [commits]{style="color:#009E73"} of code and data
+* lives on the internet
+
+:::
+
+::::
+
+## git & GitHub {.smaller}
+
+Why are they important?
+
+**Backup**: Easy way to upload files and add notes about changes. Excellent way to keep all your R work backed-up on the cloud
+
+. . .
+
+**Version Control**: Complete history of all changes and why they were made, and multiple branches of history
+
+. . .
+
+**Open Access**: Open, transparent, and public science. Some journals allow GitHub sites to be used to host data and code to meet their open-access requirements
+
+. . .
+
+**Visibility**: GitHub makes it easy to make your open-access work visible to people who might be interested (collaborators, employers)
+
+. . .
+
+**Collaborative tool**: Git and GitHub are designed for collaboration (even if you’re the only one coding). Easy to share files between collaborators, allows for merging work and reconciling conflicts.
+
+. . .
+
+**Job Skill**: This is an important data science skill
+
+## git & GitHub {.smaller}
+
+**How?**
+
+1. Install git
+2. Create a GitHub account (hopefully you all have done this)
+3. Get a GUI and/or learn the command-line tools
+    + I'm okay with either or both, as long as you (sort of) know what you're doing
+    + We’re going to use [GitKraken](https://www.gitkraken.com/) in this course 
+4. Develop a solid understanding of the underlying structure, so you know what you want to do even if you don't know how
+    + [commits]{style="color:#009E73"}, [push]{style="color:#009E73"}, [pull]{style="color:#009E73"}, [fork]{style="color:#009E73"}
+
+## git can be frustrating, but... {.smaller}
+
+It is transparent – mistakes and all
+
+Can be a powerful tool for collaboration
+
+* Communication between team members is important
+* Try to avoid merge conflicts
+  - One person working on one thing at a time
+  - [Pull]{style="color:#009E73"} first each and every time!
+  - [Push]{style="color:#009E73"} often/at logical points
+
+
+Excellent for reproducibility (a tenet of the data science pipeline)
+
+* Open data and code
+* Transparent 
+* Forking paths
+
+## Open & Reproducible Research {.smaller}
+
+* Use scripting
+* Use dynamic documents 
+  + Quarto is fantastic
+* Use Git/GitHub
+* Use open data whenever possible
+  + Consider ways you can make portions of the data open, if not all of it
+* Advanced – use tools that store software versions
+  + `{renv}` (Rstudio)
+
+## All the things
+
+* **git** – a version control system that lives on your machine
+* **GitHub** – repo host that lives online, works with git
+* **GitKraken** – a GUI that lives on your machine and communicates with GitHub and git
+
+## All the things
+
+* ~~**git** – a version control system that lives on your machine~~
+* **GitHub** – repo host that lives online, works with git
+* **GitKraken** – a GUI that lives on your machine and communicates with GitHub and git
+
+. . .
+
+You can basically forget about git going forward in this class
+
+##
+
+![](./images/phdcomics_final.gif)
+
+
+## Version Control
+
+We can think of the changes as separate from the document
+
+You can then think about “playing back” different sets of changes on the base document, ultimately resulting in different versions of that document
+
+```{r, echo=FALSE, out.height='50%'}
+knitr::include_graphics("https://swcarpentry.github.io/git-novice/fig/play-changes.svg")
+```
+
+::: aside
+[swcarpentry](https://swcarpentry.github.io/git-novice/01-basics/index.html)
+:::
+
+## Version Control
+
+This means there are many possible versions of the same document
+
+```{r, echo=FALSE, out.width='50%', fig.align="center"}
+knitr::include_graphics("https://swcarpentry.github.io/git-novice/fig/versions.svg")
+```
+
+::: aside
+[swcarpentry](https://swcarpentry.github.io/git-novice/01-basics/index.html)
+:::
+
+## Version Control
+
+Unless there are [merge conflicts]{style="color:#ff0000"} , two changes from the same document can be merged together
+
+```{r, echo=FALSE, out.width='50%', fig.align="center"}
+knitr::include_graphics("https://swcarpentry.github.io/git-novice/fig/merge.svg")
+```
+
+:::aside
+[swcarpentry](https://swcarpentry.github.io/git-novice/01-basics/index.html)
+:::
+
+
+## Let's talk about "how"
+
+* Understand the structure of git
+* Actual method of completing the tasks is up to you
+  + GUI? Command line? RStudio?
+* I’ve asked you to install [GitKraken](https://www.gitkraken.com/)
+  + Worth it to manage merge conflicts alone
+* If you’re already using something else, that’s ok!
+  + Let me know
+
+## Terminology {.smaller}
+
+. . .
+
+* <b>version control system</b>
+  + A tool to help us track changes. git is one such system (but there are others)
+
+. . .
+
+* [repository (repo)]{style="color:#009E73"}
+  + The files, full commit history, and associated metadata for a project
+
+. . .
+
+* [remote]{style="color:#009E73"}
+  + The cloud-based server hosting the [repo]{style="color:#009E73"} (that's GitHub)
+  
+. . .
+
+* [local]{style="color:#009E73"}
+  + The [repo]{style="color:#009E73"} that lives on your machine
+
+## 
+
+![](./images/git_1.png)
+
+# Let's connect GitHub and GitKraken
+
+## Connect GitHub & GitKraken
+
+**Go to GitKraken**
+
+1. "Sign in with GitHub"
+
+2. "Continue with Authorization"
+
+3. You should see *“Success: GitHub and GitKraken are good to go!”* or something like that
+
+4. Check your email for an email from GitHub to verify (?)
+
+## Open GitKraken
+
+![](./images/open_gk.png)
+
+## Connect GitHub and GitKraken
+
+![](./images/auth_gk.png)
+
+## Connect GitHub and GitKraken
+
+Check your email (associated with your GitHub account)
+
+![](./images/success_gk.png)
+
+# Creating a [Repo]{style="color:#009E73"}sitory
+
+Starting with an empty project
+
+*Follow along for your Homework!*
+
+## Proposed Workflow
+
+1. Go to GitHub
+2. Create new [repo]{style="color:#009E73"}
+3. Copy path
+4. Create a new RStudio Project
+5. Go to GitKraken to manage
+
+
+## 1. Go to GitHub
+    
+Select drop down by your profile, then "New Repository"
+
+![](./images/gh_newrepo.png)
+
+## 2. Create new repo
+
+![](./images/gh_new_blank.png)
+
+## 2. Create new repo
+
+:::: {.columns}
+
+::: {.column style="width: 40%; font-size: 75%;"}
+1. Give it a *Repository name*
+2. Make it *Public* (this time)
+3. {{< fa check >}} *Add a README file*
+4. *Add .gitignore* 
+    - `.gitignore template: R`
+5. *Create repository*
+
+::: aside
+*License* - optional; I usually go with MIT
+:::
+
+:::
+
+::: {.column width="60%"}
+![](./images/gh_new_fill.png)
+
+:::
+
+::::
+
+## Repo created!
+
+![](./images/gh_copypath0.png)
+
+## 3. Copy path
+
+![](./images/gh_copypath2.png)
+
+## 4. Create New RStudio Project
+
+Select *Version Control*
+
+![](./images/new_rproj.png)
+
+## 4. Create New RStudio Project
+
+Select *Git*
+
+![](./images/new_rproj_git.png)
+
+## 4. Create New RStudio Project
+
+Clone Git Repository
+
+![](./images/new_clone0.png)
+
+## Clone Git Repository
+
+- Paste GitHub URL into *Repository URL*
+- Decide where your RProject will live on your machine
+- *Create Project*
+
+![](./images/new_clone1.png)
+
+## This will open your new Rproj
+
+- See files we created are there
+- Where does it live?
+
+![](./images/new_clone2.png)
+
+## Let's go to GitHub
+
+Where is our `Rproj`
+
+![](./images/gh_0.png)
+. . .
+
+We haven't [pushed]{style="color:#009E73"} it yet
+
+## 5. Go to GitKraken to manage
+
+*File* {{< fa arrow-right >}} *New Tab*
+
+![](./images/gk_1.png)
+
+## 5. Go to GitKraken to manage
+
+- In New Tab
+- Select *Browse for a Repo*
+- Open folder on your machine where your RProj lives
+
+![](./images/gk_2.png)
+
+## Welcome to GitKraken
+
+![](./images/gk_3.png)
+# [Stage/Committ/Push]{style="color:#009E73"} changes
+
+## Welcome to GitKraken
+
+We can see in two places that we have changes to our [repo]{style="color:#009E73"}
+
+1. "//WIP" - **W**ork **I**n **P**rogress
+2. On the right under "*Unstaged Files*"
+
+![](./images/gk_4.png)
+
+## Terminology
+
+. . .
+
+* [stage]{style="color:#009E73"}
+  + A file that is being prepared for a commit
+
+. . .
+
+* [commit]{style="color:#009E73"}
+  + Changes that have been made to the file(s)
+
+. . .
+
+* [push]{style="color:#009E73"}
+  + After you commit the changes you want, push them from the local to the remote
+
+
+. . .
+
+Half the battle is learning these terms
+
+## [Stage]{style="color:#009E73"}
+
+"*Stage All Changes*" or
+
+"*Stage File*" individually
+
+![](./images/gk_5.png)
+
+## [Stage]{style="color:#009E73"}
+
+Add a [commit]{style="color:#009E73"} comment as a note you and your collaborators what the change was
+
+![](./images/gk_6.png)
+
+## [Commit]{style="color:#009E73"}
+
+[Commit]{style="color:#009E73"} changes
+
+![](./images/gk_7.png)
+
+## [Commit]{style="color:#009E73"}
+
+- No *//WIP*
+- Let's check GitHub
+
+. . .
+
+No change
+
+## [Push]{style="color:#009E73"}
+
+We need to [push]{style="color:#009E73"} the change to GitHub
+
+![](./images/gk_8.png)
+
+## GitHub
+
+Now we see our changes
+
+![](./images/gh_1.png)
+
+## Let's make another change
+
+- Make demo.qmd
+- Render
+- [stage]{style="color:#009E73"} / [commit]{style="color:#009E73"} / [push]{style="color:#009E73"}
+- Check GitHub
+- Make edit
+- Check GitKraken for change
+
+[demo]{style="color:#D55E00"}
+
+
+## Homework 5
+
+* Submit a link to the [repo]{style="color:#009E73"} you created today!
+* Upload the link to Canvas
+* See me if you were unable to complete in class (for technical reasons etc.)
+
+It is ok if you leave today a ~~little~~ lot confused!
+
+# Tracking
+
+## Tracking
+
+- As long as the `.git` folder exists, the entire folder will be tracked
+- **Do not** create [repos]{style="color:#009E73"} inside of [repos]{style="color:#009E73"}
+- If you want a folder to show up, there needs to be something in it (e.g., a README.md)
+
+## Tracking
+
+Show hidden files
+
+PC
+
+- Open *File Explorer*
+- Select *View* at the top
+- *Show* {{< fa arrow-right >}} *Hidden Items*
+
+Mac
+
+- `cmd + shift + .`
+
+## Ignoring files {.smaller}
+
+* When we created the .Rproj the [repo]{style="color:#009E73"}, we started it with a `.gitignore` file
+* The `.gitignore` file tells the [repo]{style="color:#009E73"} not to track certain files
+    + e.g., proprietary data
+* Not that important for now, but if you need to ignore a file in your [repo]{style="color:#009E73"} for whatever reason, just put the name of the file(s) at the top of the `.gitignore` file
+* Or, create a folder in your .Rproj (e..g, `nopublish`) and put all your documents to be ignored in that file
+    + then on the first line of your `.gitignore` file, type: **nopublish/**
+
+# [Pull]{style="color:#009E73"} Changes
+
+## 
+![](./images/bryan_2.png)
+
+::: aside
+Image from Bryan (2017)
+:::
+
+## [Pull]{style="color:#009E73"}
+
+- [pull]{style="color:#009E73"} before you start any collaborative work!!
+
+- [pull]{style="color:#009E73"} any accepted changes from the [remote]{style="color:#009E73"} to your [local]{style="color:#009E73"}
+
+. . .
+
+- **[pull]{style="color:#009E73"} before you start any collaborative work!!**
+
+
+![](./images/pull.png)
+# Collaborating
+
+## Collaborating
+
+Two methods
+
+(1) Add users to a [repo]{style="color:#009E73"}
+(2) Create an organization
+
+
+## Collaborating
+
+(1) Add users to a [repo]{style="color:#009E73"}
+    + In your GitHub [repo]{style="color:#009E73"}
+    + *Settings* {{< fa arrow-right >}} *Collaborators* {{< fa arrow-right >}} *Manage Access* {{< fa arrow-right >}} *Add people*
+    + add user with their GitHub username
+
+## Collaborating
+
+(2) Create an organization
+    + *New organization*
+
+::: aside
+![](./images/gh_neworg.png){width="100%"}
+:::
+
+## ~~Collaborating~~
+
+(2) ~~Create an organization~~
+    + ~~*New organization*~~
+
+::: aside
+![](./images/gh_neworg.png){width="100%"}
+:::
+# [Final Project]{style="color:#ff0000"} Collaboration 
+
+## [Final Project]{style="color:#ff0000"} Collaboration {.smaller}
+
+Add users to a [repo]{style="color:#009E73"}
+
+1. One group member will Open a [repo]{style="color:#009E73"} (like we just went over)
+    + Potentially the person who has the project data, but not necessarily
+2. Within the [repo]{style="color:#009E73"} on GitHub
+    + *Settings* {{< fa arrow-right >}} *Collaborators* {{< fa arrow-right >}} *Manage Access* {{< fa arrow-right >}} *Add people*
+
+<!-- end of list -->
+
+
+![](./images/gh_invite.png)
+
+## Collaborating
+
+- The collaborators will receive an email from GitHub
+- Accept the invitation
+- [clone]{style="color:#009E73"} the [repo]{style="color:#009E73"}
+
+# [Clone]{style="color:#009E73"}
+
+## [Cloning]{style="color:#009E73"}
+
+- [cloning]{style="color:#009E73"} means that you are downloading the [repo]{style="color:#009E73"}
+- You can [clone]{style="color:#009E73"} any [repo]{style="color:#009E73"} you like (even the `{tidyverse}`)
+- For the [Final Project]{style="color:#ff0000"}, you will [clone]{style="color:#009E73"} the repo you were invited to collaborate on
+
+## [Clone]{style="color:#009E73"} a repo
+
+(1) Go to the repo on GitHub
+
+(2) Click the green *"Code"* button near the top
+
+(3) Copy the URL 
+
+
+![](./images/gh_clone.png)
+
+
+## Clone a repo
+
+:::: {.columns}
+
+::: {.column style="width: 40%; font-size: 75%;"}
+(4) Go to GitKraken
+(5) Click the {{< fa folder >}} folder icon in the upper left 
+(6) Click the {{< fa cloud-arrow-down >}} *Clone* button
+(7) {{< fa globe >}} *Clone with URL*
+(8) *Where to clone to*: Specify where it will live on your machine
+    + here it is on my desktop
+(9) *URL*: Paste in the URL copied from GitHub
+(10) *"Clone the repo!"*
+
+:::
+
+::: {.column width="60%"}
+![](./images/gh_clone2.png)
+
+:::
+
+::::
+
+# [Merge Conflict]{style="color:#ff0000"}
+
+## [Merge Conflict]{style="color:#ff0000"}
+
+![](https://www.meme-arsenal.com/memes/cce345428b0f8c83b92d4a0d958467f3.jpg)
+
+## [Merge Conflict]{style="color:#ff0000"}
+
+* Always [pull]{style="color:#009E73"} before you start working!!
+* Try to stay in communication with your collaborators and don't work on the exact same thing at the same time
+* Use GitKraken to help manage [merge conflicts]{style="color:#ff0000"} that do come up
+
+## [Merge Conflict]{style="color:#ff0000"}
+
+* Remember to always [pull]{style="color:#009E73"} first!!
+
+* GitKraken has a really nice GUI to resolve [merge conflicts]{style="color:#ff0000"}
+
+{{< video https://www.youtube.com/watch?v=R1iWJNyRpQE >}}
+
+::: aside
+[link](https://www.youtube.com/watch?v=R1iWJNyRpQE)
+:::
+
+# Live [Merge Conflict]{style="color:#ff0000"}
+
+Let's give this a shot
+
+## Merge Conflict Activity (15 mins) {.smaller}
+
+1. **Pair up:** decide who is Partner 1 ([P1]{style="color:#dd5129"}) and Partner 2 ([P2]{style="color:#0f7ba2"})
+2. **[P1]{style="color:#dd5129"}:** create a `conflicted.qmd` file in your repo from today
+3. **[P1]{style="color:#dd5129"}:** add [P2]{style="color:#0f7ba2"} as a collaborator
+4. **[P2]{style="color:#0f7ba2"}:** accept the invite and clone the repo (then **STOP**, nobody edits yet)
+5. **[P1]{style="color:#dd5129"}:** edit the target line, commit, push
+6. **[P2]{style="color:#0f7ba2"}:** edit the *same line* differently, commit (**don't pull!**)
+7. **[P2]{style="color:#0f7ba2"}:** try to push (it gets rejected)
+8. **[P2]{style="color:#0f7ba2"}:** pull (this creates the conflict)
+9. **[P2]{style="color:#0f7ba2"}:** open the file and inspect the weird markers
+10. **[P2]{style="color:#0f7ba2"}:** resolve the conflict in GitKraken
+11. **[P2]{style="color:#0f7ba2"}:** commit and push; **[P1]{style="color:#dd5129"}** pulls to confirm
+
+```{r, echo=FALSE}
+countdown(minutes = 15, seconds = 0, bottom = 0, warn_when = 120)
+```
+
+## The Rules for Today
+
+::: {.callout-important}
+## Conflicts only happen when...
+Both people change the **same line** with **different text**, and the second person tries to combine their work *after* the first person has pushed.
+:::
+
+- Follow the **exact text** I give you
+- Follow the **order** of the steps
+- Don't [pull]{style="color:#009E73"} or "fix" anything early
+
+## Step 1: Pair Up
+
+- Find a partner
+- Decide who is **[Partner 1]{style="color:#dd5129"} ([P1]{style="color:#dd5129"})** and who is **[Partner 2]{style="color:#0f7ba2"} ([P2]{style="color:#0f7ba2"})**
+- Sit next to each other so you can coordinate timing
+
+::: {.callout-note}
+You will switch back and forth between working alone and waiting on your partner. Talk to each other!
+:::
+
+## Step 2:  **[P1]{style="color:#dd5129"}:** create a `conflicted.qmd` 
+
+[P1]{style="color:#dd5129"}: create a new `.qmd` file and paste in the text below
+
+Save it as `conflicted.qmd` in your repo from today
+
+```markdown
+---
+title: "Merge Conflict Practice"
+format: html
+---
+
+## Team Info
+
+Favorite programming language: ______
+
+Favorite snack while coding: ______
+
+## Notes
+
+This is the last line of the file.
+```
+
+
+## Step 3: [P1]{style="color:#dd5129"} Adds [P2]{style="color:#0f7ba2"} as a Collaborator
+
+**[P1]{style="color:#dd5129"} only:**
+
+1. Go to your repo on GitHub
+2. Click **Settings** → **Collaborators**
+3. Click **Add people**
+4. Enter [P2]{style="color:#0f7ba2"}'s GitHub username and send the invite
+
+## Step 4: [P2]{style="color:#0f7ba2"} Accepts and Clones
+
+**[P2]{style="color:#0f7ba2"} only:**
+
+1. Accept the invitation (check your email or github.com/notifications)
+2. In GitKraken: **File → Clone Repo**
+3. Choose the repo and a local folder, then click **Clone**
+4. Confirm you see `conflicted.qmd` and you're on `main`
+
+::: {.callout-warning}
+## STOP!
+Nobody edits anything until **both** partners have cloned and confirmed.
+:::
+
+## Starter File
+
+Both partners should see this in `conflicted.qmd`
+
+```markdown
+---
+title: "Merge Conflict Practice"
+format: html
+---
+
+## Team Info
+
+Favorite programming language: ______
+
+Favorite snack while coding: ______
+
+## Notes
+
+This is the last line of the file.
+```
+
+## Step 5: [P1]{style="color:#dd5129"} Edits, Commits, Pushes
+
+**[P1]{style="color:#dd5129"} only:** Open `conflicted.qmd` and change this line:
+
+:::: {.columns}
+::: {.column width="50%"}
+**Before**
+```
+Favorite programming language: ______
+```
+:::
+::: {.column width="50%"}
+**After**
+```
+Favorite programming language: R
+```
+:::
+::::
+
+Then in GitKraken:
+
+1. **[stage]{style="color:#009E73"}** the file
+2. **[commit]{style="color:#009E73"}** with message: `P1 favorite language`
+3. **[push]{style="color:#009E73"}** and wait for it to succeed
+
+## Step 6: [P2]{style="color:#0f7ba2"} Edits the Same Line
+
+**[P2]{style="color:#0f7ba2"} only:** *After [P1]{style="color:#dd5129"} has [push]{style="color:#009E73"}ed*, open `conflicted.qmd` and change the **same line**:
+
+```
+Favorite programming language: Python
+```
+
+1. **[stage]{style="color:#009E73"}** the file
+2. **[commit]{style="color:#009E73"}** with message: `P2 favorite language`
+
+::: {.callout-warning}
+## Do NOT pull or fetch yet!
+GitKraken may show you are "behind" by 1 commit. That's expected. Ignore it for now.
+:::
+
+## Step 7: [P2]{style="color:#0f7ba2"} Tries to [Push]{style="color:#009E73"}
+
+**[P2]{style="color:#0f7ba2"}:** Click **[push]{style="color:#009E73"}**.
+
+. . .
+
+**What happens?** The [push]{style="color:#009E73"} is **[rejected]{style="color:#ff0000"}**.
+
+. . .
+
+**Why?**
+
+- [P1]{style="color:#dd5129"}'s [commit]{style="color:#009E73"} is already on GitHub
+- Your [commit]{style="color:#009E73"} is only on your computer
+- Your histories have **diverged**, and Git won't overwrite your partner's work
+
+## Step 8: [P2]{style="color:#0f7ba2"} Pulls to Trigger the Conflict
+
+**[P2]{style="color:#0f7ba2"}:** Click **[Pull]{style="color:#009E73"}** in GitKraken (choose **[Pull]{style="color:#009E73"} (merge)** if asked).
+
+. . .
+
+**Expected result:** GitKraken reports a **[merge conflict]{style="color:#ff0000"}** and `conflicted.qmd` appears as conflicted
+
+::: {.callout-note}
+## No conflict?
+Check that you both edited the **same line** with **different text**. Raise your hand if you're stuck!
+:::
+
+## Step 9: Look at the Damage
+
+**[P2]{style="color:#0f7ba2"}:** Open `conflicted.qmd` in a **text editor** (not GitKraken). You should see:
+
+```
+<<<<<<< HEAD
+Favorite programming language: Python
+=======
+Favorite programming language: R
+>>>>>>> origin/main
+```
+
+**Discuss with your partner:**
+
+- Which section is *your* version?
+- Which section is your partner's?
+- What do `<<<<<<<`, `=======`, and `>>>>>>>` mark?
+
+## Decoding the Markers
+
+```
+<<<<<<< HEAD                          ← start of YOUR (local) version
+Favorite programming language: Python
+=======                               ← divider
+Favorite programming language: R      ← your PARTNER'S (remote) version
+>>>>>>> origin/main                   ← end of conflict
+```
+
+- Git **can't decide** which line is correct, so it asks you
+- These markers are **not** valid content, and they must be removed
+
+## Step 10: Resolve in GitKraken
+
+**[P2]{style="color:#0f7ba2"}:**
+
+1. In GitKraken, click the conflicted file in the **Unstaged / Conflicted Files** panel
+2. The **conflict resolution view** opens
+3. Check the box for [P1]{style="color:#dd5129"}'s line, [P2]{style="color:#0f7ba2"}'s line, or **both**
+4. Or edit the output pane yourself, for example:
+
+```
+Favorite programming language: R, NOT Python
+```
+
+5. Confirm the output has **no** `<<<<<<<`, `=======`, or `>>>>>>>`
+
+## Step 11: Commit and Push the Resolution
+
+**[P2]{style="color:#0f7ba2"}:**
+
+1. Click **Save** in the conflict view
+2. **[stage]{style="color:#009E73"}** the resolved file
+3. **[commit]{style="color:#009E73"}** (keep the pre-filled merge commit message)
+4. **[push]{style="color:#009E73"}**
+
+. . .
+
+**[P1]{style="color:#dd5129"}:** Click ****[pull]{style="color:#009E73"}**** and confirm you see the resolved line in your file.
+
+## Check the Commit Graph
+
+**Both partners:** Look at the graph in GitKraken.
+
+- Can you spot where the history **diverged**?
+- Can you spot the **merge commit** where it came back together?
+
+## Stuck? Troubleshooting {.smaller}
+
+| Symptom | Likely cause | Fix |
+|---|---|---|
+| [P2]{style="color:#0f7ba2"}'s push succeeds | [P1]{style="color:#dd5129"} hadn't pushed yet, or [P2]{style="color:#0f7ba2"} pulled before committing | Re-clone and redo steps 4 to 6 in order |
+| Pull works, no conflict | Different lines edited, or identical text typed | Use the **exact text** on the slides |
+| "Pull" is greyed out | Uncommitted changes | Commit first (Step 5) |
+| Markers still in file | Resolution not saved | Re-open the conflict view, remove markers, Save |
+
+## Discussion Questions
+
+1. Why did Git reject [P2]{style="color:#0f7ba2"}'s push?
+2. Why couldn't Git resolve this conflict automatically?
+3. What would have happened if you had edited **different** lines?
+4. How can teams **avoid** conflicts in real projects?
+
+. . .
+
+*Pull often, communicate, and work on separate files or branches.*
+
+## Bonus Round
+
+Repeat the exercise with the **snack** line, but this time:
+
+- **[P1]{style="color:#dd5129"}:** *deletes* the line entirely, then commits and pushes
+- **[P2]{style="color:#0f7ba2"}:** *edits* the line, then commits and tries to pull
+
+This creates a **modify/delete conflict**, which looks different in GitKraken. How do you resolve it?
+
+# Recap
+
+## Quick Recap {.smaller}
+
+Basic workflow
+
+* GitHub - Create new [repo]{style="color:#009E73"}
+* Copy path
+* Create a new RStudio Project {{< fa arrow-right >}} *Version Control* {{< fa arrow-right >}} *Git*
+* Use GitKraken to manage
+
+. . .
+
+* add collaborators
+* [pull]{style="color:#009E73"}
+* [stage]{style="color:#009E73"} and [commit]{style="color:#009E73"} changes
+* [push]{style="color:#009E73"} changes to [repo]{style="color:#009E73"}
+
+## Revisiting git terminology
+
+Talk with a neighbor about what each of these terms mean
+
+* [clone]{style="color:#009E73"}
+* [pull]{style="color:#009E73"}
+* [stage]{style="color:#009E73"}
+* [commit]{style="color:#009E73"}
+* [push]{style="color:#009E73"}
+* [repo]{style="color:#009E73"}
+* [remote]{style="color:#009E73"}
+
+# Next time
+
+## Before next class
+
+* Reading
+  + [R4DS(2e) Chapter 29 Quarto Formats](https://r4ds.hadley.nz/quarto-formats)
+  + [Markdown Tutorial](https://www.markdowntutorial.com/)
+* Homework
+  + **Homework 5** (hopefully completed in class today)
+
+# Project first
+
+## If you already have an existing project
+
+1. **RStudio**: Create your RStudio Project (as usual)
+
+2. **GitKraken**: Open a [repo]{style="color:#009E73"} on GitKraken
+
+3. **GitHub**: Create new [repo]{style="color:#009E73"} on GitHub
+
+4. **GitKraken**: Add [remote]{style="color:#009E73"} on GitKraken
+
+## 1. Create your RStudio Project (as usual)
+
+* Make a new RStudio Project (cal it "*demo*")
+  + Open a new R Markdown document and name it "*foo*"
+* Note the name you gave the project (folder)
+* {{< fa check >}} *"Create a git repository"*
+  + Don't add `.gitignore` in GiKraken or GitHub  
+* If you did not {{< fa check >}} *"Create a git repository"*: Add `.gitignore` file in GitKraken **or** GitHub
+
+## 2. Open a [repo]{style="color:#009E73"} on GitKraken
+
+- In New Tab
+- Select *Browse for a Repo*
+- Select project folder
+
+![](./images/gk_2.png)
+
+## 2. Open a [repo]{style="color:#009E73"} on GitKraken
+
+Click **Initialize**
+
+![](./images/gk_initialize.png)
+
+## 3. Create new repo on GitHub
+
+:::: {.columns}
+
+::: {.column style="width: 40%; font-size: 75%;"}
++ *Repository name* – same as your Project name
+    + *Description* – keep it brief, informative
+    + *Public*
+    + *Do not initialize*
+    + *"None"*
+    + do **NOT** add `.gitignore` 
+    + do **NOT** add a license
+
+:::
+
+::: {.column width="60%"}
+![](./images/gh_new_fill.png)
+
+:::
+
+::::
+
+## 3. Create new repo on GitHub
+
+Copy path
+
+![](./images/gh_copypath2.png)    
+
+
+## 4. Back to GitKraken to Add Remote
+
+Add [remote]{style="color:#009E73"}
+
+* Click {{< fa globe >}} *URL*
+* *Name*: Name of RProject
+* *Pull URL*: Paste URL copied from GitHub
+* *Push URL*: Populates automatically
+
+## Quick Recap
+
+Basic workflow if you already have an existing project
+
+* create an RStudio project
+* create a [repo]{style="color:#009E73"}
+* add collaborators
+* [pull]{style="color:#009E73"}
+* [stage]{style="color:#009E73"} and [commit]{style="color:#009E73"} changes
+* [push]{style="color:#009E73"} changes to [remote]{style="color:#009E73"}
+
+
