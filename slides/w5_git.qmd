@@ -706,6 +706,8 @@ You will switch back and forth between working alone and waiting on your partner
 
 Save it as `conflicted.qmd` in your repo from today
 
+[stage/committ/push]{style="color:#009E73"}!
+
 ```markdown
 ---
 title: "Merge Conflict Practice"
@@ -740,33 +742,13 @@ This is the last line of the file.
 1. Accept the invitation (check your email or github.com/notifications)
 2. In GitKraken: **File → Clone Repo**
 3. Choose the repo and a local folder, then click **Clone**
-4. Confirm you see `conflicted.qmd` and you're on `main`
+    + just save it to your desktop
+4. Confirm you see `conflicted.qmd` 
 
 ::: {.callout-warning}
 ## STOP!
 Nobody edits anything until **both** partners have cloned and confirmed.
 :::
-
-## Starter File
-
-Both partners should see this in `conflicted.qmd`
-
-```markdown
----
-title: "Merge Conflict Practice"
-format: html
----
-
-## Team Info
-
-Favorite programming language: ______
-
-Favorite snack while coding: ______
-
-## Notes
-
-This is the last line of the file.
-```
 
 ## Step 5: [P1]{style="color:#dd5129"} Edits, Commits, Pushes
 
