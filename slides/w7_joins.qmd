@@ -743,19 +743,27 @@ Specify the key variables with `join_by()` (a function for the `by = ` argument)
 
 ```{r join_flights2_planes}
 #| output-location: fragment
+#| message: true
 left_join(flights2, planes)
 ```
 
-. . .
+## Specify `*_join()` keys {.smaller}
+
+Specify the key variables with `join_by()` (a function for the `by = ` argument)
 
 ```{r}
 #| output-location: fragment
-left_join(flights2, planes, join_by(tailnum))
+#| message: true
+left_join(flights2, planes, by = join_by(tailnum))
 ```
 
+## Specify `*_join()` keys {.smaller}
+
+`suffix = ` 
 
 ```{r}
 #| output-location: fragment
+#| message: true
 left_join(flights2, planes, join_by(tailnum), suffix = c("_flights", "_planes"))
 ```
 
