@@ -1,0 +1,17 @@
+{
+  "hash": "5580fb3a6b2c4dbf6c7f69186cccde48",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Homework 10\"\nformat:\n  html:\n    highlight-style: pygments\n#    code-fold: true\nexecute: \n  echo: false\n  output: false\nembed-resources: true\n---\n\n\n::: {.cell}\n\n:::\n\n\n#### 1. Create a new RStudio Project and in a Quarto document modify the YAML to:\n\n-   Render to html\n-   Include code folding\n\n#### 2a. Reorder **factors**\n\n-   Get familiar with the `gss_cat` data within the `{forcats}` package.\n-   Remove the rows with missing data in the *tvhours* column.\n-   Calculate the mean *tvhours* by *marital status*.\n-   Display the results as a point plot of average TV consumption by marital status (*tvhours* on the *x*-axis and *martial* on they *y*-axis).\n    +   In your plot, `reorder` the levels of *marital* according to *tvhours*.\n-   Give your plot meaningful axis labels and a title.\n\n\n::: {.cell}\n\n:::\n\n\n#### 2b. Working with **tables**\n\n-   Display the same results (mean *tvhours* by *marital status*) as a table using `kable()`.\n    -   Change the column names.\n    -   Round the mean *tvhours* to one decimal.\n    -   Bold the row with the highest mean *tvhours*.\n\n#### 3a. Recode **factors**\n\n-   Use any of the functions we talked about in class to display the levels of the *marital* variable.\n-   `recode` or `collapse` the *marital* column into three categories: \"Not married\", \"Married\", and \"No answer\".\n-   Calculate the mean *tvhours* by *marital status*.\n-   Display the results as a column plot of average TV consumption by marital status (*martial* on the *x*-axis and *tvhours* on they *y*-axis).\n    -   From left to right, the columns in your plot should read: \"Not married\", \"Married\", and \"No answer\".\n-   Make your plot look a little nicer with some color, different theme, meaningful axis labels, and a title.\n\n\n::: {.cell}\n\n:::\n\n\n#### 3b. Working with **tables**\n\n-   Display the same results (mean *tvhours* by collapsed *marital status*) as a table using the `{gt}` package.\n    -   Change the column names.\n    -   Round the mean *tvhours* to one decimal.\n    -   Highlight in yellow the row with the lowest mean *tvhours*.\n\n\n::: {#tbl-1 .cell tbl-cap='Mean TV Hours/Day by Marital Status'}\n\n:::\n\n\nThis lab borrows from [Garrett Grolemund's](https://resources.rstudio.com/authors/garrett-grolemund) [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse/) materials.\n",
+    "supporting": [
+      "hw10_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

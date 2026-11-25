@@ -1,0 +1,296 @@
+---
+title: "Homework 9"
+format: html
+execute: 
+  echo: false
+  message: false
+  warning: false
+embed-resources: true
+---
+
+------------------------------------------------------------------------
+
+### Part 1
+
+------------------------------------------------------------------------
+
+This part of the homework is a continuation from your work on Homework 8.
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(here)
+library(rio)
+library(tidyverse)
+library(kableExtra) # optional
+```
+
+#### 1. Create a new RStudio Project and name it `hw_9`
+
+#### 2. Within that project, create a new Quarto document and modify the YAML to:
+
+-   Include your name
+-   Render to html
+-   Change the syntax highlighting to any scheme but the default
+-   Include code folding
+-   Include a table of contents
+    + Use level 1 for `Part 1` and `Part 2`
+    + Use level 2 headers each of the numbers within those `Parts`
+    + For `Part 1 (7)`, use level 3 headers for the table and figure
+-   Set global chunk options for the document to display and evaluate all code, and not display any warnings or messages
+
+#### 3. Your first code chunk should:
+
+-   Be labelled `load-packages`
+-   Load all the necessary packages (please don't load packages you do **not** use)
+-   Include options for this code chunk so it will not display the code or the results from the code
+
+#### 4. Your second code chunk should:
+
+-   Be labelled `load-data`
+-   Import the following three data sets, each as separate objects
+    + `hw8_ids.xlsx`
+    + `year1_score.csv`
+    + `year1_demo.xlsx`
+    + `year2_score.csv`
+    + `year2_demo.xlsx`
+-   Recreate the data object from Homework 8 named `year12`. Use your code from Homework 8, but try to create the data with one conitnuous pipeline.
+
+```{r}
+#| label: load-data
+
+hw8_ids <- read_csv(here::here("data", "hw8_ids.csv"))
+year1_score <- read_csv(here::here("data", "year1_score.csv"))
+year2_score <- read_csv(here::here("data", "year2_score.csv"))
+year1_demo <- import(here::here("data", "year1_demo.xlsx")) |> 
+  as_tibble()
+year2_demo <- import(here::here("data", "year2_demo.xlsx")) |> 
+  as_tibble()
+
+year12 <- hw8_ids |> 
+  filter(id != 51) |> 
+  left_join(
+    year1_score |>
+      filter(!is.na(id_student)) |> 
+      arrange(id_student, desc(date)) |> 
+      group_by(id_student) |> 
+      mutate(n = row_number()) |> 
+      filter(n == 1) |> 
+      select(-n),
+    join_by(id == id_student)
+  ) |> 
+  left_join(year1_demo) |> 
+  left_join(
+    year2_score |> 
+      filter(!is.na(id_student)),
+    suffix = c("_year1", "_year2"),
+    join_by(id == id_student)
+  ) |> 
+  left_join(
+    year2_demo |> 
+      rename(frl = FRL),
+    suffix = c("_year1", "_year2"),
+    join_by(id)
+  )
+  
+  
+```
+
+
+#### 5. Describe why the combined data set is not tidy.
+
+<!-- There is information in the column headings, namely year (1, 2). -->
+
+#### 6. Your third code chunk should:
+
+-   Have a meaningful label (do not use spaces or capital letters or underscores)
+-   Tidy the combined data set
+-   Save the tidy data to the data folder in your project as `year12_tidy`
+
+```{r}
+#| label: tidy-data
+
+year12_tidy <- year12 %>% 
+  pivot_longer(
+    cols = -c(id, name),
+    names_to = c("names", "year"),
+    names_sep = "_",
+    values_to = "values",
+    values_transform = list(values = as.character)
+  ) |> 
+  pivot_wider(
+    names_from = names,
+    values_from = values
+  ) |> 
+  mutate(
+    year = parse_number(year),
+    score = as.numeric(score),
+    date = as.Date(date),
+    across(c(sex:frl), ~str_to_lower(.))
+  )
+
+
+
+# export(year12_tidy, here("data", "year12_tidy.csv"))
+```
+
+#### 7. Your fourth code chunk should include code that:
+
+-   Computes the *n* (how many students), min, max, *SD*, and mean of the *score* by *frl* and *year*
+-   Show these results in a table **and** a figure. You can chose to display any/all stats that you like in the figure.
+
+```{r}
+#| label: stat-info
+#| output: false
+
+d_summary <- year12_tidy %>% 
+  group_by(year, frl) %>% 
+  summarize(
+    n = n(),
+    min = min(score, na.rm = TRUE),
+    max = max(score, na.rm = TRUE),
+    sd = sd(score, na.rm = TRUE),
+    mean = mean(score, na.rm = TRUE)
+  ) 
+```
+
+```{r}
+#| label: stat-tbl
+#| tbl-cap: Descriptive statistics for score by FRL status and year
+#| results: asis
+#| output: false
+
+d_summary %>% 
+  kable(digits = 1,
+         col.names = c("Year", "FRL", "n", "Min", "Max", "SD", "Mean")) %>% 
+  kable_styling(latex_options = "striped", full_width = FALSE) |> 
+  add_header_above(c(" " = 3, "Score" = 4))
+```
+
+```{r}
+#| label: stat-fig
+#| fig-cap: Descriptive statistics for score by FRL status and year
+#| output: false
+
+d_summary %>% 
+  ungroup() |> 
+  ggplot(aes(as.factor(year), mean, color = frl, group = frl)) +
+  geom_point() +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Average Score",
+       x = "Year",
+       title = "Score Results",
+       subtitle = "Mean Score by FRL Status and Year",
+       color = "FRL")
+```
+
+#### 8. Ok, let's try to place this in the context of "the real world." Did you notice that the *n* bounced around a bit in your previous table? That is because students' demographic info can change across years 😮! You are going to create a data set that will work for a linear mixed-effect model (don't worry if this doesn't mean anything to you). Basically, each student ID should have two rows: one for the year 1 score and one for the year 2 score. But their demographic info (i.e., sex, el, and frl) should not change. Name the object `lme_year12`. Describe what you decided to do and why.
+
+
+```{r}
+#| label: lme-data
+
+# I just decided to keep the demographic info from Year 1. So I reran the join code, but dropped the jon for year2_demo.
+
+lme_year12 <- hw8_ids |> 
+  filter(id != 51) |> 
+  left_join(
+    year1_score |>
+      filter(!is.na(id_student)) |> 
+      arrange(id_student, desc(date)) |> 
+      group_by(id_student) |> 
+      mutate(n = row_number()) |> 
+      filter(n == 1) |> 
+      select(-n),
+    join_by(id == id_student)
+  ) |> 
+  left_join(year1_demo) |> 
+  left_join(
+    year2_score |> 
+      filter(!is.na(id_student)),
+    suffix = c("_year1", "_year2"),
+    join_by(id == id_student)
+  ) |> # the code up to here is just pasted from my load-data chunk
+  pivot_longer( # the code below here is similar to that from tidy-data
+    cols = contains("year"),
+    names_to = c("names", "year"),
+    names_sep = "_",
+    values_to = "values",
+    values_transform = list(values = as.character)
+  ) |> 
+  pivot_wider(
+    names_from = names,
+    values_from = values
+  ) |> 
+  mutate(
+    year = parse_number(year),
+    score = as.numeric(score),
+    date = as.Date(date),
+    across(c(sex:frl), ~str_to_lower(.))
+  )
+
+
+```
+
+------------------------------------------------------------------------
+
+### Part 2
+
+------------------------------------------------------------------------
+
+#### 1. Tidy the *Project Reads* data
+
+-   Load the **Project_Reads_Scores.csv** file
+-   Remove columns 5-9, 24, and 25
+-   Filter to remove the rows in *student_id* that represent aggregate summaries
+-   Tidy the remaining dataset such that a case represents a score and percentage within a unit (i.e., *score* and *percentage* will be separate columns). Take a VERY close look at the data. You will be able to use the `names_sep` argument if you **first** `rename()` two columns. Identify those two columns first. Also, you will need to first `pivot_longer` and then `pivot_wider` in order to tidy properly. In these data, "tidy" is a row for each of the seven *units* for every *student_id*.
+
+```{r}
+#| label: q1
+#| message: false
+#| warning: false
+
+library(janitor)
+library(ggthemes)
+
+theme_set(theme_minimal())
+
+reads <- read_csv(here("data", "Project_Reads_Scores.csv")) %>% 
+  clean_names()
+
+
+reads_tidy <- reads %>% 
+  select(4, 1:3, 10:23) %>% 
+  rename("unit_56_score" = "unit_5_6_score", 
+         "unit_56_percent" = "unit_5_6_percent") %>% 
+  filter(student_id != "All Students (Average)") %>% 
+  pivot_longer(
+    cols = contains("unit"),
+    names_prefix = "unit_",
+    names_sep = "_",
+    names_to = c("unit", "score_type"),
+    values_to = "score",
+    values_transform = list(score = as.character)
+  ) %>% 
+  mutate(score = parse_number(score)) %>% 
+  pivot_wider(
+    names_from = score_type,
+    values_from = score
+  )
+```
+
+#### 2. Produce a summary table of the mean percentage correct for each unit within test sites. Report the summary in a table.
+
+```{r}
+#| label: q2
+#| output: false
+
+reads_summary <- reads_tidy %>% 
+	group_by(test_site, unit) %>% 
+	summarize(percent = mean(percent))
+
+reads_summary %>% 
+  kable()
+```
